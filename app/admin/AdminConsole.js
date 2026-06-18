@@ -54,10 +54,13 @@ const githubApiHeaders = (githubToken) => ({
   "x-github-api-version": "2022-11-28"
 });
 
-const githubContentUrl = ({ githubOwner, githubRepo }, filePath) =>
-  `https://api.github.com/repos/${encodeURIComponent(githubOwner)}/${encodeURIComponent(
-    githubRepo
-  )}/contents/${encodeGithubPath(filePath)}`;
+const githubRepoApiUrl = ({ githubOwner, githubRepo }, path = "") =>
+  `https://api.github.com/repos/${encodeURIComponent(githubOwner)}/${encodeURIComponent(githubRepo)}${path}`;
+
+const githubContentUrl = (settings, filePath) =>
+  githubRepoApiUrl(settings, `/contents/${encodeGithubPath(filePath)}`);
+
+const githubGitUrl = (settings, path) => githubRepoApiUrl(settings, `/git${path}`);
 
 const isLabEmail = (email) => {
   const normalized = email.trim().toLowerCase();
@@ -122,7 +125,7 @@ const normalizeActivities = (items) =>
     date: item.date || today(),
     title: item.title || "",
     description: item.description || "",
-    imagesText: activityImages(item).join("\n")
+    imagesText: typeof item.imagesText === "string" ? item.imagesText : activityImages(item).join("\n")
   }));
 
 const createInitialDraft = () => ({
@@ -391,7 +394,7 @@ export default function AdminConsole() {
           date: today(),
           title: "New activity",
           description: "Write the activity description here.",
-          imagesText: "/images/Activities/example.jpg"
+          imagesText: ""
         },
         ...prev.activities
       ]
@@ -454,62 +457,91 @@ export default function AdminConsole() {
     githubToken: githubSettings.githubToken.trim()
   });
 
-  const readGithubFile = async (settings, filePath) => {
-    const response = await fetch(
-      `${githubContentUrl(settings, filePath)}?ref=${encodeURIComponent(settings.githubBranch)}`,
-      {
-        headers: githubApiHeaders(settings.githubToken)
-      }
-    );
-    const result = await response.json().catch(() => ({}));
-    if (response.status === 404) {
-      return { sha: null };
-    }
-    if (!response.ok) {
-      throw new Error(result.message || `Could not read ${filePath} from GitHub.`);
-    }
-    if (Array.isArray(result) || !result.sha) {
-      throw new Error(`${filePath} is not a writable file on GitHub.`);
-    }
-    return { sha: result.sha };
-  };
-
-  const writeGithubFile = async (settings, filePath, content, sha, options = {}) => {
-    const body = {
-      message: options.message || `Update ${activeCollection} CMS data`,
-      content: options.contentIsBase64 ? content : toBase64(content),
-      branch: settings.githubBranch
-    };
-    if (sha) {
-      body.sha = sha;
-    }
-
-    const response = await fetch(githubContentUrl(settings, filePath), {
-      method: "PUT",
+  const githubJsonRequest = async (settings, apiPath, options = {}) => {
+    const response = await fetch(githubRepoApiUrl(settings, apiPath), {
+      method: options.method || "GET",
       headers: {
         ...githubApiHeaders(settings.githubToken),
         "content-type": "application/json"
       },
-      body: JSON.stringify(body)
+      body: options.body ? JSON.stringify(options.body) : undefined
     });
     const result = await response.json().catch(() => ({}));
     if (!response.ok) {
-      throw new Error(result.message || `Could not write ${filePath} to GitHub.`);
+      throw new Error(result.message || `GitHub request failed: ${apiPath}`);
     }
     return result;
   };
 
-  const writePendingGithubUploads = async (settings) => {
-    const uploaded = [];
+  const githubFilesForBatch = () => {
+    const filesByPath = new Map();
     for (const upload of pendingUploadsForApply) {
-      const currentFile = await readGithubFile(settings, upload.repoPath);
-      await writeGithubFile(settings, upload.repoPath, upload.contentBase64, currentFile.sha, {
-        contentIsBase64: true,
-        message: `Upload activity image ${upload.fileName}`
+      filesByPath.set(upload.repoPath, {
+        path: upload.repoPath,
+        content: upload.contentBase64,
+        encoding: "base64",
+        publicPath: upload.publicPath
       });
-      uploaded.push(upload);
     }
-    return uploaded;
+    for (const filePath of githubTargetPaths[exportFileName] || [exportFileName]) {
+      filesByPath.set(filePath, {
+        path: filePath,
+        content: exportJson,
+        encoding: "utf-8"
+      });
+    }
+    return [...filesByPath.values()];
+  };
+
+  const createGithubBatchCommit = async (settings, files) => {
+    const branchPath = encodeGithubPath(settings.githubBranch);
+    const currentRef = await githubJsonRequest(settings, `/git/ref/heads/${branchPath}`);
+    const parentSha = currentRef.object?.sha;
+    if (!parentSha) {
+      throw new Error(`Could not find branch ${settings.githubBranch}.`);
+    }
+
+    const parentCommit = await githubJsonRequest(settings, `/git/commits/${parentSha}`);
+    const treeEntries = [];
+    for (const file of files) {
+      const blob = await githubJsonRequest(settings, "/git/blobs", {
+        method: "POST",
+        body: {
+          content: file.content,
+          encoding: file.encoding
+        }
+      });
+      treeEntries.push({
+        path: file.path,
+        mode: "100644",
+        type: "blob",
+        sha: blob.sha
+      });
+    }
+
+    const tree = await githubJsonRequest(settings, "/git/trees", {
+      method: "POST",
+      body: {
+        base_tree: parentCommit.tree?.sha,
+        tree: treeEntries
+      }
+    });
+    const commit = await githubJsonRequest(settings, "/git/commits", {
+      method: "POST",
+      body: {
+        message: `Update ${activeCollection} CMS data`,
+        tree: tree.sha,
+        parents: [parentSha]
+      }
+    });
+    await githubJsonRequest(settings, `/git/refs/heads/${branchPath}`, {
+      method: "PATCH",
+      body: {
+        sha: commit.sha,
+        force: false
+      }
+    });
+    return { commit, files };
   };
 
   const applyViaGitHub = async () => {
@@ -521,20 +553,15 @@ export default function AdminConsole() {
       throw new Error("GitHub token is required for deployed publishing.");
     }
 
-    const uploaded = await writePendingGithubUploads(settings);
-    const paths = githubTargetPaths[exportFileName] || [exportFileName];
-    const applied = [];
-    for (const filePath of paths) {
-      const currentFile = await readGithubFile(settings, filePath);
-      await writeGithubFile(settings, filePath, exportJson, currentFile.sha);
-      applied.push(filePath);
-    }
-    if (uploaded.length) {
-      const uploadedPaths = new Set(uploaded.map((upload) => upload.publicPath));
+    const batchFiles = githubFilesForBatch();
+    const batch = await createGithubBatchCommit(settings, batchFiles);
+    if (pendingUploadsForApply.length) {
+      const uploadedPaths = new Set(pendingUploadsForApply.map((upload) => upload.publicPath));
       setPendingUploads((prev) => prev.filter((upload) => !uploadedPaths.has(upload.publicPath)));
     }
+    const imageCount = pendingUploadsForApply.length;
     setStatus(
-      `Applied ${applied.join(", ")}${uploaded.length ? ` and ${uploaded.length} activity image${uploaded.length > 1 ? "s" : ""}` : ""} to ${settings.githubOwner}/${settings.githubRepo}@${settings.githubBranch}. GitHub Pages will redeploy shortly.`
+      `Applied ${batch.files.length} file${batch.files.length > 1 ? "s" : ""}${imageCount ? `, including ${imageCount} activity image${imageCount > 1 ? "s" : ""}` : ""}, in one GitHub commit ${batch.commit.sha.slice(0, 7)}. GitHub Pages will redeploy shortly.`
     );
   };
 

@@ -78,11 +78,26 @@ if (exists("app/admin/AdminConsole.js")) {
   assert(admin.includes("public/cms/activities.json"), "Admin console should publish activity runtime CMS data to GitHub.");
   assert(admin.includes("pendingUploads"), "Admin console should track pending image uploads for activities.");
   assert(admin.includes("handleActivityImageUpload"), "Admin console should let users attach image files to activities.");
+  assert(
+    admin.includes('typeof item.imagesText === "string"'),
+    "Activity drafts should preserve existing image paths after reload."
+  );
+  assert(
+    !admin.includes("/images/Activities/example.jpg"),
+    "New activities should not include a broken placeholder image path."
+  );
   assert(admin.includes('type="file"'), "Activity editor should expose a file picker for images.");
   assert(admin.includes('accept="image/*"'), "Activity image picker should accept image files.");
   assert(admin.includes("readFileAsBase64"), "Admin console should convert selected images for GitHub/local apply.");
   assert(admin.includes("activityUploadBasePath"), "Admin console should generate activity image paths.");
-  assert(admin.includes("writePendingGithubUploads"), "GitHub apply should upload pending activity images.");
+  assert(admin.includes("createGithubBatchCommit"), "GitHub apply should batch JSON and image uploads into one commit.");
+  assert(admin.includes("/git/trees"), "GitHub apply should use the Git tree API for one-commit publishing.");
+  assert(admin.includes("/git/commits"), "GitHub apply should create one Git commit for all changed files.");
+  assert(admin.includes("/git/refs/heads/"), "GitHub apply should update the branch ref once after the batch commit.");
+  assert(
+    !admin.includes("writePendingGithubUploads"),
+    "GitHub apply should not upload each activity image as a separate commit."
+  );
   assert(admin.includes("uploads:"), "Local apply payload should include pending activity image uploads.");
   assert(
     !admin.includes("localStorage.setItem(\"msq-admin-github-token\""),
