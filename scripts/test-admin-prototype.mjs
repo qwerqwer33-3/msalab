@@ -78,9 +78,14 @@ if (exists("app/admin/AdminConsole.js")) {
   assert(admin.includes("public/cms/activities.json"), "Admin console should publish activity runtime CMS data to GitHub.");
   assert(admin.includes("pendingUploads"), "Admin console should track pending image uploads for activities.");
   assert(admin.includes("handleActivityImageUpload"), "Admin console should let users attach image files to activities.");
+  assert(admin.includes("adminActivityData.mjs"), "Admin console should use shared activity image serialization helpers.");
   assert(
-    admin.includes('typeof item.imagesText === "string"'),
-    "Activity drafts should preserve existing image paths after reload."
+    admin.includes("activityImageFallbacks"),
+    "Activity drafts should recover existing image paths from seed data after stale browser drafts."
+  );
+  assert(
+    exists("lib/adminActivityData.mjs"),
+    "Shared activity data helpers should exist for tested image preservation behavior."
   );
   assert(
     !admin.includes("/images/Activities/example.jpg"),

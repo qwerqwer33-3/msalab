@@ -3,6 +3,12 @@
 import { useEffect, useMemo, useState } from "react";
 import newsSeed from "../../data/news.json";
 import activitiesSeed from "../../data/activities.json";
+import {
+  createActivityImageFallbacks,
+  imageLines,
+  normalizeActivities,
+  serializeActivities
+} from "../../lib/adminActivityData.mjs";
 
 const LAB_EMAIL_DOMAINS = ["skku.edu", "ajou.ac.kr"];
 const STORAGE_KEY = "msq-admin-draft";
@@ -21,6 +27,7 @@ const githubTargetPaths = {
   "data/news.json": ["data/news.json", "public/cms/news.json"],
   "data/activities.json": ["data/activities.json", "public/cms/activities.json"]
 };
+const activityImageFallbacks = createActivityImageFallbacks(activitiesSeed);
 
 const clone = (value) => JSON.parse(JSON.stringify(value));
 
@@ -99,12 +106,6 @@ const createActivityImagePath = (activity, file, fileIndex) => {
 
 const toUploadRepoPath = (publicPath) => publicPath.replace(activityUploadBasePath, activityUploadRepoBasePath);
 
-const imageLines = (value) =>
-  value
-    .split(/\r?\n/)
-    .map((line) => line.trim())
-    .filter(Boolean);
-
 const normalizeNews = (items) =>
   clone(items).map((item, index) => ({
     id: item.id || `${item.date || today()}-${slugify(item.title || `news-${index + 1}`)}`,
@@ -114,23 +115,9 @@ const normalizeNews = (items) =>
     text: item.text || ""
   }));
 
-const activityImages = (item) => {
-  if (Array.isArray(item.images) && item.images.length) return item.images;
-  if (item.image) return [item.image];
-  return [];
-};
-
-const normalizeActivities = (items) =>
-  clone(items).map((item) => ({
-    date: item.date || today(),
-    title: item.title || "",
-    description: item.description || "",
-    imagesText: typeof item.imagesText === "string" ? item.imagesText : activityImages(item).join("\n")
-  }));
-
 const createInitialDraft = () => ({
   news: normalizeNews(newsSeed),
-  activities: normalizeActivities(activitiesSeed)
+  activities: normalizeActivities(activitiesSeed, activityImageFallbacks)
 });
 
 const serializeNews = (items) =>
@@ -143,24 +130,6 @@ const serializeNews = (items) =>
       text: item.text.trim()
     }))
     .filter((item) => item.date && item.title && item.text);
-
-const serializeActivities = (items) =>
-  items
-    .map((item) => {
-      const images = imageLines(item.imagesText);
-      const output = {
-        date: item.date,
-        title: item.title.trim(),
-        description: item.description.trim()
-      };
-      if (images.length === 1) {
-        output.image = images[0];
-      } else if (images.length > 1) {
-        output.images = images;
-      }
-      return output;
-    })
-    .filter((item) => item.date && item.title && item.description);
 
 const sortNews = (items) =>
   [...items].sort((a, b) => {
@@ -198,7 +167,7 @@ export default function AdminConsole() {
         const parsed = JSON.parse(storedDraft);
         setDraft({
           news: normalizeNews(parsed.news || newsSeed),
-          activities: normalizeActivities(parsed.activities || activitiesSeed)
+          activities: normalizeActivities(parsed.activities || activitiesSeed, activityImageFallbacks)
         });
       }
       if (storedSession) {
