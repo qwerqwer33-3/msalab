@@ -1,0 +1,36 @@
+{
+  "name": "Sung Beom Cho",
+  "title": "Associate Professor",
+  "affiliation": "School of Advanced Materials Science and Engineering, Sungkyunkwan University",
+  "email": "csb@ajou.ac.kr",
+  "office": "Sungkyunkwan University",
+  "phone": "",
+  "scholar_url": "https://scholar.google.com/citations?user=SSb4uV4AAAAJ&hl=en",
+  "photo": "/images/members/Sung_Beom_Cho.jpg",
+  "bio": "",
+  "education": [
+    "2007.03 - 2011.02 - B.S. in Materials Science and Engineering, Hanyang University (Advisor: Yongjae Jung) - summa cum laude",
+    "2007.03 - 2011.02 - B.S. in Physics, Hanyang University (Advisor: Junhyung Cho) - summa cum laude",
+    "2011.03 - 2017.01 - Ph.D. in Materials Science and Engineering, Hanyang University (Advisor: Yongjae Jung)",
+    "2017.01 - 2018.09 - Postdoctoral Researcher, Washington University in St. Louis (Advisor: Rohan Mishra)",
+    "2018.09 - 2022.08 - Senior Researcher, Virtual Engineering Center, Korea Ceramic Technology Institute",
+    "2022.09 - 2026.02 - Assistant Professor, Department of Advanced Materials Science and Engineering, Ajou University",
+    "2026.03 - 2026.06 - Associate Professor, Department of Advanced Materials Science and Engineering, Ajou University",
+    "2026.07 - Present - Associate Professor, School of Advanced Materials Science and Engineering, Sungkyunkwan University"
+  ],
+  "awards": [
+    "2011-2016 - Global PhD Fellowship, National Research Foundation",
+    "2017 - MSCA (Marie Sklodowska-Curie Action) Individual Fellowship: Seal of Excellence",
+    "2019 - Best Paper Award, Korean Society of Electrical and Electronic Materials",
+    "2021 - Excellent Research Staff Award (Research Division), Korea Ceramic Technology Institute",
+    "2023 - Ajou University Outstanding Research Professor"
+  ],
+  "message": [
+    "Hello.",
+    "I lead the **M2 (Materials Modeling) research team** at Sungkyunkwan University.",
+    "Our group merges **first-principles calculations**, **finite element analysis** (thermal, structural, chemical, etc.), and **machine learning** to study a broad spectrum of materials and processes in electronics and energy.",
+    "We will do our utmost to ensure the M2 research benefits universities, research centers, and industry alike.",
+    "Sincerely,",
+    "Sung Beom Cho"
+  ]
+}

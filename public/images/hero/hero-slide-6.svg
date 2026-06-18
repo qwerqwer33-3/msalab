@@ -1,0 +1,14 @@
+﻿<svg width="600" height="360" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Energy Harvesting Systems">
+  <defs>
+    <linearGradient id="grad6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#16a34a" />
+      <stop offset="100%" stop-color="#4ade80" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" rx="30" fill="url(#grad6)" />
+  <circle cx="520" cy="240" r="80" fill="rgba(255,255,255,0.2)" />
+  <circle cx="80" cy="80" r="60" fill="rgba(255,255,255,0.16)" />
+  <text x="40" y="120" font-family="'Inter', 'Segoe UI', sans-serif" font-size="38" font-weight="700" fill="white">Energy Harvesting Systems</text>
+  <text x="40" y="190" font-family="'Inter', 'Segoe UI', sans-serif" font-size="20" fill="white">Multiphysics modeling for low-power sensors and nodes.</text>
+  <text x="40" y="230" font-family="'Inter', 'Segoe UI', sans-serif" font-size="16" fill="white" opacity="0.9">From triboelectrics to thermoelectric stack design.</text>
+</svg>

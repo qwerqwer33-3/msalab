@@ -1,0 +1,14 @@
+﻿<svg width="600" height="360" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Advanced Semiconductor Materials">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#fcd34d" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" rx="30" fill="url(#grad2)" />
+  <circle cx="520" cy="220" r="90" fill="rgba(255,255,255,0.12)" />
+  <circle cx="80" cy="70" r="60" fill="rgba(255,255,255,0.18)" />
+  <text x="40" y="120" font-family="'Inter', 'Segoe UI', sans-serif" font-size="38" font-weight="700" fill="white">Semiconductor Materials</text>
+  <text x="40" y="190" font-family="'Inter', 'Segoe UI', sans-serif" font-size="20" fill="white">Atomic-scale modeling of oxide and dielectric stacks.</text>
+  <text x="40" y="230" font-family="'Inter', 'Segoe UI', sans-serif" font-size="16" fill="white" opacity="0.9">Strain, defects, and interface chemistry captured together.</text>
+</svg>

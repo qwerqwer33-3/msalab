@@ -1,0 +1,102 @@
+{
+  "sections": [
+    {
+      "id": "industrial",
+      "title": "Industrial Collaboration",
+      "items": [
+        {
+          "name": "Company Name 01",
+          "topic": "Project Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "Company Name 02",
+          "topic": "Project Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "Company Name 03",
+          "topic": "Project Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "Company Name 04",
+          "topic": "Project Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "Company Name 05",
+          "topic": "Project Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "Company Name 06",
+          "topic": "Project Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "Company Name 07",
+          "topic": "Project Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "Company Name 08",
+          "topic": "Project Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        }
+      ]
+    },
+    {
+      "id": "academic",
+      "title": "Academic Collaboration",
+      "items": [
+        {
+          "name": "University Name 01",
+          "topic": "Research Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "University Name 02",
+          "topic": "Research Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "University Name 03",
+          "topic": "Research Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "University Name 04",
+          "topic": "Research Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "University Name 05",
+          "topic": "Research Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "University Name 06",
+          "topic": "Research Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        }
+      ]
+    },
+    {
+      "id": "public",
+      "title": "Public Institution",
+      "items": [
+        {
+          "name": "Institution Name 01",
+          "topic": "Program Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        },
+        {
+          "name": "Institution Name 02",
+          "topic": "Program Topic / Scope",
+          "logo": "/images/placeholder.svg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1351 @@
+{
+  "google_scholar_url": "https://scholar.google.com/citations?user=SSb4uV4AAAAJ&hl=en",
+  "selected": [
+    {
+      "year": 2026,
+      "title": "AI-driven quantitative review of mobility-stability trade-off in oxide semiconductors",
+      "authors": "Ji Hoon Hong, Chi-Hoon Lee, Hyeon Woo Kim, Dong Won Jeon, Jun Hyuk Kang, Yoon-Seo Kim, Ji-Su Bae, Seonggil Heo, Sangyeon Lee, Jooyeong Na, Jaegook You, Soyeon Hong, Hyunsouk Cho, Jin-Seong Park, Sung Beom Cho",
+      "venue": "Nano Convergence 13, Article 4 (2026)",
+      "date": "2026-01-31",
+      "first_authors": [
+        "Ji Hoon Hong",
+        "Chi-Hoon Lee"
+      ],
+      "corresponding_authors": [
+        "Hyunsouk Cho",
+        "Jin-Seong Park",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1186/s40580-026-00535-3"
+    },
+    {
+      "year": 2026,
+      "title": "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
+      "authors": "Jun Hyuk Kang, Woojin Jeong, Min Sung Kang, Hyeon Woo Kim, Dong Won Jeon, Han Uk Lee, Ji Hoon Hong, Seungmin Han, Minseok Kim, Subi Yang, Dongsoo Lee, Patrick Joohyun Kim, Taeseup Song, Moonsu Yoon, Laisuo Su, Junghyun Choi, Sung Beom Cho",
+      "venue": "Communications Materials",
+      "date": "2026-01-01",
+      "first_authors": [
+        "Jun Hyuk Kang",
+        "Woojin Jeong"
+      ],
+      "corresponding_authors": [
+        "Junghyun Choi",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1038/s43246-025-01046-0"
+    },
+    {
+      "year": 2026,
+      "title": "γ-ray induced microstructure modulation for enhanced output performance of polyimide-based piezoelectric composites",
+      "authors": "Dong Yeol Hyeon, Gyoung-Ja Lee, Hyeon Jun Park, Dong Won Jeon, Han Uk Lee, Sung Beom Cho, Jaehun An, Nagamalleswara Rao Alluri, Young Hoon Jung, Changyeon Baek, HakSu Jang, SungHoon Kim, Keon Jae Lee, Min-Ku Lee, Kwi-Il Park",
+      "venue": "Chemical Engineering Journal, 172406",
+      "date": "2025-12-27",
+      "first_authors": [
+        "Dong Yeol Hyeon",
+        "Gyoung-Ja Lee",
+        "Hyeon Jun Park"
+      ],
+      "corresponding_authors": [
+        "Keon Jae Lee",
+        "Min-Ku Lee",
+        "Kwi-Il Park"
+      ],
+      "url": "https://doi.org/10.1016/j.cej.2025.172406"
+    },
+    {
+      "year": 2025,
+      "title": "Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge",
+      "authors": "Heegyu Kim, Taeyang Jeon, Seungtaek Choi, Ji Hoon Hong, Dong Won Jeon, Ga-Yeon Baek, Gyeong-Won Kwak, Dong-Hee Lee, Jisu Bae, Chihoon Lee, Yoon-Seo Kim, Seon-Jin Choi, Jin-Seong Park, Sung Beom Cho, Hyunsouk Cho",
+      "venue": "Proceedings of the 34th ACM International Conference on Information and …",
+      "date": "2025-11-10",
+      "first_authors": [
+        "Heegyu Kim",
+        "Taeyang Jeon"
+      ],
+      "corresponding_authors": "Hyunsouk Cho",
+      "url": "https://doi.org/10.1145/3746252.3761359"
+    },
+    {
+      "year": 2025,
+      "title": "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based Analysis",
+      "authors": "Su Yeon Jang, Dong Won Jeon, Hyeon Woo Kim, Jin-Sung Park, Sung Beom Cho",
+      "venue": "The Journal of Physical Chemistry C 129 (41), 18433-18438",
+      "date": "2025-10-03",
+      "first_authors": "Su Yeon Jang",
+      "corresponding_authors": [
+        "Jin-Sung Park",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1021/acs.jpcc.5c04247"
+    },
+    {
+      "year": 2025,
+      "title": "Holey wrinkled-multilayered graphene scaffolds for uniform Li-ion flux enabling high-performance lithium metal anodes",
+      "authors": "Sangyeop Kim, Incheol Heo, Jun Hyuk Kang, Min Seok Kang, Junsung Lee, Hee Soo Kim, Dong-Ha Lim, Sung Beom Cho, Won Cheol Yoo",
+      "venue": "Journal of Energy Chemistry",
+      "date": "2025-09-24",
+      "first_authors": "Sangyeop Kim",
+      "corresponding_authors": "Won Cheol Yoo",
+      "url": "https://doi.org/10.1016/j.jechem.2025.09.025"
+    },
+    {
+      "year": 2025,
+      "title": "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast kinetics",
+      "authors": "Wootaek Choi, Min Sung Kang, Kwanghyun Kim, Han Uk Lee, Sung Beom Cho, Junghyun Choi, Patrick Joohyun Kim",
+      "venue": "Nano Energy, 111444",
+      "date": "2025-09-03",
+      "first_authors": [
+        "Wootaek Choi",
+        "Min Sung Kang"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Junghyun Choi",
+        "Patrick Joohyun Kim"
+      ],
+      "url": "https://doi.org/10.1016/j.nanoen.2025.111444"
+    },
+    {
+      "year": 2025,
+      "title": "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries",
+      "authors": "Dong Won Jeon, Wootaek Choi, Jun Hyuk Kang, Hyeon Woo Kim, Min Sung Kang, Woongchan Kim, Han Uk Lee, Hyunseok Ko, Patrick Joohyun Kim, Sung Beom Cho",
+      "venue": "Applied Surface Science Advances 29, 100842",
+      "date": "2025-08-31",
+      "first_authors": [
+        "Dong Won Jeon",
+        "Wootaek Choi"
+      ],
+      "corresponding_authors": [
+        "Patrick Joohyun Kim",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1016/j.apsadv.2025.100842"
+    },
+    {
+      "year": 2025,
+      "title": "Phosphotungstic and phosphomolybdic acid solid-solutions: a new approach for QLED hole injection layers",
+      "authors": "Han Bin Cho, Ji Yoon Moon, Jeong Wan Min, Ha Jun Kim, Han Uk Lee, Hwa Pyeong Park, Sung Woo Jang, Jeong Min Seo, Sung Beom Cho, Heesun Yang, Won Bin Im",
+      "venue": "J. Mater. Chem. C, 2025, 13, 22406-22413",
+      "date": "2025-08-12",
+      "first_authors": [
+        "Han Bin Cho",
+        "Ji Yoon Moon",
+        "Jeong Wan Min",
+        "Ha Jun Kim"
+      ],
+      "corresponding_authors": [
+        "Heesun Yang",
+        "Won Bin Im"
+      ],
+      "url": "https://doi.org/10.1039/d5tc02166a"
+    },
+    {
+      "year": 2025,
+      "title": "Investigation on the effect of metal incorporation in metal selenide nanoparticles and their encapsulation in hollow carbon nanospheres on improving the sodium-ion battery performance",
+      "authors": "Seul Jeong, Ki Beom Kim, Mingyu Jeon, Ju Young Kim, Jin Hyeong Lee, Su Yeon Jang, Dong Won Jeon, Ji Myeon Park, Yeon Woo Nahm, Chung-Yul Yoo, Donghun Kim, Jung-Hoon Lee, Sung Beom Cho, Yun Chan Kang, Jin-Sung Park",
+      "venue": "Chemical Engineering Journal, 167019",
+      "date": "2025-08-08",
+      "first_authors": [
+        "Seul Jeong",
+        "Ki Beom Kim",
+        "Mingyu Jeon"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Yun Chan Kang",
+        "Jin-Sung Park"
+      ],
+      "url": "https://doi.org/10.1016/j.cej.2025.167019"
+    },
+    {
+      "year": 2025,
+      "title": "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batteries",
+      "authors": "Gunhee Park, Dong Won Jeon, Il-Seop Jang, Byeong-Jun Ahn, Kisang Baek, Bo-Ye Song, Eun-hye Kim, Junho Bang, Yun Chan Kang, Sung Beom Cho, Jinyoung Chun",
+      "venue": "Journal of Advanced Ceramics 14 (9), 9221138",
+      "date": "2025-07-18",
+      "first_authors": [
+        "Gunhee Park",
+        "Dong Won Jeon"
+      ],
+      "corresponding_authors": [
+        "Yun Chan Kang",
+        "Sung Beom Cho",
+        "Jinyoung Chun"
+      ],
+      "url": "https://doi.org/10.26599/JAC.2025.9221138"
+    },
+    {
+      "year": 2025,
+      "title": "Design of optimized halide vapor phase epitaxy (HVPE) conditions for uniform α-Ga2O3 growth based on CFD analysis",
+      "authors": "Woongchan Kim, Hyeon Woo Kim, Sung Beom Cho",
+      "venue": "Journal of the Korean Ceramic Society, 1-10",
+      "date": "2025-06-30",
+      "first_authors": "Woongchan Kim",
+      "corresponding_authors": "Sung Beom Cho",
+      "url": "https://doi.org/10.1007/s43207-025-00523-z"
+    },
+    {
+      "year": 2025,
+      "title": "Enhanced electrical properties and stability of solution processed IYZO thin film transistors by controlling deep level oxygen vacancies",
+      "authors": "Bu Kyeong Hwang, Hyeon Woo Kim, Bo Ram Lee, Eun Jin Park, Hyunsung Jung, Min-Kyu Son, Sung Beom Cho, Hyeon Jin Jung, Moonsuk Yi, Soo Won Heo",
+      "venue": "Journal of Materials Chemistry C",
+      "date": "2025-06-05",
+      "first_authors": "Bu Kyeong Hwang",
+      "corresponding_authors": [
+        "Hyeon Jin Jung",
+        "Moonsuk Yi",
+        "Soo Won Heo"
+      ],
+      "url": "https://doi.org/10.1039/d4tc05455e"
+    },
+    {
+      "year": 2025,
+      "title": "Insights Into Improving the Li-Ion Transference Number and Li Deposition Uniformity Toward a High-Current-Density Lithium Metal Anode",
+      "authors": "Subi Yang, Seungho Lee, Min Sung Kang, Kwang Chul Roh, Jihoon Seo, Dongsoo Lee, Kwanghyun Kim, Sangkyu Lee, Sung Beom Cho, Patrick Joohyun Kim, Junghyun Choi",
+      "venue": "Carbon Energy 7 (11), e70053",
+      "date": "2025-05-26",
+      "first_authors": [
+        "Subi Yang",
+        "Seungho Lee",
+        "Min Sung Kang"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Patrick Joohyun Kim",
+        "Junghyun Choi"
+      ],
+      "url": "https://doi.org/10.1002/cey2.70053"
+    },
+    {
+      "year": 2025,
+      "title": "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film",
+      "authors": "Trong Si Ngo, Soon-Ku Hong, Hyeon Woo Kim, Sung Beom Cho, Young Heon Kim, Nguyen Quoc Vuong, Hu Young Jeong, Raouf Hayyak, Taswar Iqbal, Dae-Woo Jeon, Ji-Hyeon Park, Jae Kyoung Mun",
+      "venue": "Applied Surface Science, 163471",
+      "date": "2025-05-07",
+      "first_authors": [
+        "Trong Si Ngo",
+        "Hyeon Woo Kim"
+      ],
+      "corresponding_authors": [
+        "Soon-Ku Hong",
+        "Sung Beom Cho",
+        "Young Heon Kim"
+      ],
+      "url": "https://doi.org/10.1016/j.apsusc.2025.163471"
+    },
+    {
+      "year": 2025,
+      "title": "Phase Evolution in La-Alloyed β-Ga2O3 Nanofibers: Experimental and DFT Simulation Insights",
+      "authors": "Hyeongju Cha, Dong Won Jeon, Heejoong Ryou, Sunjae Kim, Sung Beom Cho, Wan Sik Hwang",
+      "venue": "ACS omega 10 (17), 17476-17482",
+      "date": "2025-04-16",
+      "first_authors": [
+        "Hyeongju Cha",
+        "Dong Won Jeon"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Wan Sik Hwang"
+      ],
+      "url": "https://doi.org/10.1021/acsomega.4c11050"
+    },
+    {
+      "year": 2025,
+      "title": "First-Principle Insights into Positive Triboelectrification of Polyoxymethylene Through Homolytic Bond Rupture",
+      "authors": "Giulio Fatti, Hyunseok Ko, Sung Beom Cho",
+      "venue": "Nanoenergy Advances 5 (1), 1",
+      "date": "2025-01-14",
+      "first_authors": "Giulio Fatti",
+      "corresponding_authors": "Giulio Fatti",
+      "url": "https://doi.org/10.3390/nanoenergyadv5010001"
+    },
+    {
+      "year": 2025,
+      "title": "Residual strain optimization in 3D MOSFET structures for enhanced mobility via nanoscale heat transfer",
+      "authors": "Ji Hoon Hong, Min Sung Kang, Inho Ha, Hong-Lae Park, Kyungwook Park, Joohyun Jeon, Wonseok Yoo, Jueun Kim, Chunhyung Chung, Sung Min Park, Sung Beom Cho",
+      "venue": "Journal of Applied Physics 137 (1)",
+      "date": "2025-01-02",
+      "first_authors": [
+        "Ji Hoon Hong",
+        "Min Sung Kang"
+      ],
+      "corresponding_authors": [
+        "Sung Min Park",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1063/5.0234072"
+    },
+    {
+      "year": 2025,
+      "title": "Anode SHIELD: A Surface Hybrid Interlayer for High-Capacity Anodes Toward Safe and Stable Lithium-Ion Batteries",
+      "authors": "Seungho Lee, Dongsoo Lee, Junhyuk Kang, Subi Yang, Min Sung Kang, Wooseop Jo, Jihoon Seo, Sung Beom Cho, Patrick Joohyun Kim, Junghyun Choi",
+      "venue": "Advanced Functional Materials 35 (48), e13744",
+      "date": null,
+      "first_authors": [
+        "Seungho Lee",
+        "Dongsoo Lee",
+        "Junhyuk Kang"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Patrick Joohyun Kim",
+        "Junghyun Choi"
+      ],
+      "url": "https://doi.org/10.1002/adfm.202513744"
+    },
+    {
+      "year": 2025,
+      "title": "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
+      "authors": "Seungho Lee, Subi Yang, Min Sung Kang, Yunho Bae, Kyunbae Lee, Yeonsu Jung, Young Hyun Kim, Jang-Yul Kim, Kwang Chul Roh, Jihoon Seo, Sung Beom Cho, Junghyun Choi, Taehoon Kim, Patrick Joohyun Kim",
+      "venue": "npj Flexible Electronics 9 (1), 98",
+      "date": null,
+      "first_authors": [
+        "Seungho Lee",
+        "Subi Yang"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Junghyun Choi",
+        "Taehoon Kim",
+        "Patrick Joohyun Kim"
+      ],
+      "url": "https://doi.org/10.1038/s41528-025-00474-9"
+    },
+    {
+      "year": 2025,
+      "title": "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers",
+      "authors": "Wonkyeong Son, Jae Myeong Lee, Hyunji Seo, Gyu Hyeon Song, Seon Jeong Kim, Sooncheol Kwon, Sung Beom Cho, Sungwoo Chun, Shi Hyeong Kim, Changsoon Choi",
+      "venue": "npj Flexible Electronics 9 (1), 116",
+      "date": null,
+      "first_authors": [
+        "Wonkyeong Son",
+        "Jae Myeong Lee"
+      ],
+      "corresponding_authors": [
+        "Shi Hyeong Kim",
+        "Changsoon Choi"
+      ],
+      "url": "https://doi.org/10.1038/s41528-025-00493-6"
+    },
+    {
+      "year": 2025,
+      "title": "Long-Lasting, Steady and Enhanced Energy Harvesting by Inserting a Conductive Layer into the Piezoelectric Polymer",
+      "authors": "HakSu Jang, Gwang Hyeon Kim, Dong Won Jeon, Hyeon Jun Park, BitNa Bae, Nagamalleswara Rao Alluri, Cheol Min Kim, Changyeon Baek, Min-Ku Lee, Sung Beom Cho, Gyoung-Ja Lee, Kwi-Il Park",
+      "venue": "Advanced Functional Materials 35 (8), 2415501",
+      "date": null,
+      "first_authors": [
+        "HakSu Jang",
+        "Gwang Hyeon Kim"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Gyoung-Ja Lee",
+        "Kwi-Il Park"
+      ],
+      "url": "https://doi.org/10.1002/adfm.202415501"
+    },
+    {
+      "year": 2025,
+      "title": "Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN",
+      "authors": "Jeongwoon Kim, Hyeon Woo Kim, Jongil Kim, Je-Sung Lee, Hoe-Min Kwak, Jaeyoung Baik, Soo-Young Choi, Jinsoo Kim, Si-Young Bae, Sang-Jo Kim, Jun-Youn Kim, Il Jeon, Sung Beom Cho, Sang Ho Oh, Young Joon Hong, Dong-Seon Lee",
+      "venue": "Small 21 (38), e03428",
+      "date": null,
+      "first_authors": "Jeongwoon Kim",
+      "corresponding_authors": [
+        "Young Joon Hong",
+        "Dong-Seon Lee"
+      ],
+      "url": "https://doi.org/10.1002/smll.202503428"
+    },
+    {
+      "year": 2025,
+      "title": "Self-Reinforcing Degradation of Solution-Processed Small-Molecule OLEDs: Excited-States and Molecular Interactions as Key Triggers",
+      "authors": "Eonji Cha, Junwon Jeon, Hyeon Woo Kim, Han Uk Lee, Joo Yoon Woo, Jun-Su Yeo, Hyuk Bin Kwon, Sung Beom Cho, Tae-Hee Han",
+      "venue": "Advanced Functional Materials, e08146",
+      "date": null,
+      "first_authors": [
+        "Eonji Cha",
+        "Junwon Jeon"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Tae-Hee Han"
+      ],
+      "url": "https://doi.org/10.1002/adfm.202508146"
+    },
+    {
+      "year": 2025,
+      "title": "Solvent-Tuned Plasticity for Various Binder-Free Applications of a New Lead-Free Manganese Halide",
+      "authors": "Joo Hyeong Han, Jeong Min Seo, San Ha Choi, Jae Geon Noh, Jeong Wan Min, Yu Ri Kim, Hyeon Woo Kim, Sung Beom Cho, Bo Kyung Cha, Won Bin Im",
+      "venue": "Advanced Materials 37 (7), 2415247",
+      "date": null,
+      "first_authors": [
+        "Joo Hyeong Han",
+        "Jeong Min Seo"
+      ],
+      "corresponding_authors": "Won Bin Im",
+      "url": "https://doi.org/10.1002/adma.202415247"
+    },
+    {
+      "year": 2025,
+      "title": "Ultra-High Mobility Atomically-Ordered InGaZnO Transistors Through Atomic Layer Deposition",
+      "authors": "Yoon-Seo Kim, Hyeon Woo Kim, Taewon Hwang, Jinho Ahn, Sung Beom Cho, Jin-Seong Park",
+      "venue": "Advanced Electronic Materials 11 (15), e00137",
+      "date": null,
+      "first_authors": [
+        "Yoon-Seo Kim",
+        "Hyeon Woo Kim"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Jin-Seong Park"
+      ],
+      "url": "https://doi.org/10.1002/aelm.202500137"
+    },
+    {
+      "year": 2024,
+      "title": "Gasochromic WO3/MoO3 sensors prepared by co-sputtering for hydrogen leak detection with long-lasting visible signal",
+      "authors": "Chiwan Park, Seung-Ik Han, Le Thai Duy, Rubaya Yeasmin, Gwanggyo Jung, Dong Won Jeon, Woongchan Kim, Sung Beom Cho, Hyungtak Seo",
+      "venue": "Sensors and Actuators B: Chemical 426, 137030",
+      "date": "2024-11-27",
+      "first_authors": "Chiwan Park",
+      "corresponding_authors": "Hyungtak Seo",
+      "url": "https://doi.org/10.1016/j.snb.2024.137030"
+    },
+    {
+      "year": 2024,
+      "title": "Crystallinity and composition engineering of organic crystal derived 1D carbons for advanced Li-metal based batteries",
+      "authors": "Minsu Park, Kwonyun Lee, Min Sung Kang, Sujeong Woo, Wootaek Choi, Hyein Kim, Woong Kwon, Junghyun Choi, Sung Beom Cho, Euigyung Jeong, Patrick Joohyun Kim",
+      "venue": "Carbon 233, 119870",
+      "date": "2024-11-26",
+      "first_authors": "Minsu Park",
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Euigyung Jeong",
+        "Patrick Joohyun Kim"
+      ],
+      "url": "https://doi.org/10.1016/j.carbon.2024.119870"
+    },
+    {
+      "year": 2024,
+      "title": "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory",
+      "authors": "Upendra Kumar, Hyeon Woo Kim, Gyanendra Kumar Maurya, Bincy Babu Raj, Sobhit Singh, Ajay Kumar Kushwaha, Sung Beom Cho, Hyunseok Ko",
+      "venue": "Current Applied Physics 69, 1-7",
+      "date": "2024-10-14",
+      "first_authors": [
+        "Upendra Kumar",
+        "Hyeon Woo Kim"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Hyunseok Ko"
+      ],
+      "url": "https://doi.org/10.1016/j.cap.2024.10.012"
+    },
+    {
+      "year": 2024,
+      "title": "High Li+ Conductivity of Li1.3+xAl0.3−xMgxTi1.7(PO4)3 with Hybrid Solid Electrolytes for Solid-State Lithium Batteries",
+      "authors": "Haena Kim, Mahammad Rafi Shaik, Sukju Kim, Yong Min Park, Dong Won Jeon, Sung Beom Cho, Sungho Choi, Won Bin Im",
+      "venue": "International Journal of Energy Research 2024 (1), 6116417",
+      "date": "2024-09-05",
+      "first_authors": [
+        "Haena Kim",
+        "Mahammad Rafi Shaik",
+        "Sukju Kim"
+      ],
+      "corresponding_authors": [
+        "Sungho Choi",
+        "Won Bin Im"
+      ],
+      "url": "https://doi.org/10.1155/2024/6116417"
+    },
+    {
+      "year": 2024,
+      "title": "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
+      "authors": "Seulgi Ji, Dong Won Jeon, Junghyun Choi, Haneol Cho, Bo-In Park, Ilpyo Roh, Hyungil Choi, Chansoo Kim, Jung Kyu Kim, Uk Sim, Danlei Li, Hyunseok Ko, Sung Beom Cho, Heechae Choi",
+      "venue": "Journal of Materials Chemistry A 12 (48), 33537-33545",
+      "date": "2024-08-29",
+      "first_authors": "Seulgi Ji",
+      "corresponding_authors": [
+        "Hyunseok Ko",
+        "Sung Beom Cho",
+        "Heechae Choi"
+      ],
+      "url": "https://doi.org/10.1039/d4ta03595j"
+    },
+    {
+      "year": 2024,
+      "title": "Towards ultra-stable and dendrite-suppressed Li-metal batteries: Ion-regulating graphene-modified separators",
+      "authors": "Wootaek Choi, Minsu Park, Sujeong Woo, Hyeon Woo Kim, Min Sung Kang, Junghyun Choi, Sung Beom Cho, Taehoon Kim, Patrick Joohyun Kim",
+      "venue": "Carbon 230, 119576",
+      "date": "2024-08-26",
+      "first_authors": "Wootaek Choi",
+      "corresponding_authors": [
+        "Junghyun Choi",
+        "Sung Beom Cho",
+        "Taehoon Kim",
+        "Patrick Joohyun Kim"
+      ],
+      "url": "https://doi.org/10.1016/j.carbon.2024.119576"
+    },
+    {
+      "year": 2024,
+      "title": "Large-Scale Mechanochemical Synthesis of Cesium Lanthanide Chloride for Radioluminescence",
+      "authors": "Tuhin Samanta, Joo Hyeong Han, Han Uk Lee, Bo Kyung Cha, Yong Min Park, Noolu Srinivasa Manikanta Viswanath, Han Bin Cho, Hyeon Woo Kim, Sung Beom Cho, Won Bin Im",
+      "venue": "Inorganic Chemistry 63 (35), 16483-16490",
+      "date": "2024-08-22",
+      "first_authors": [
+        "Tuhin Samanta",
+        "Joo Hyeong Han"
+      ],
+      "corresponding_authors": "Won Bin Im",
+      "url": "https://doi.org/10.1021/acs.inorgchem.4c02766"
+    },
+    {
+      "year": 2024,
+      "title": "Site preference of Ni in Pb(Fe1/2Nb1/2)O3 during additive compositional modification",
+      "authors": "Ahrom Ryu, Ji-Hun Park, Dong Won Jeon, Jae-Hyeon Cho, Haena Yim, Keun Hwa Chae, Seong H. Kim, Sahn Nahm, Sung Beom Cho, Wook Jo, Ji-Won Choi",
+      "venue": "Journal of Materiomics 11 (3), 100907",
+      "date": "2024-07-05",
+      "first_authors": [
+        "Ahrom Ryu",
+        "Ji-Hun Park"
+      ],
+      "corresponding_authors": [
+        "Wook Jo",
+        "Ji-Won Choi"
+      ],
+      "url": "https://doi.org/10.1016/j.jmat.2024.06.004"
+    },
+    {
+      "year": 2024,
+      "title": "Predicting the synthesizability of double perovskite halides via interface reaction pathfinding",
+      "authors": "Woongchan Kim, Hyeon Woo Kim, Han Uk Lee, Min Sung Kang, Dong Won Jeon, Soo Won Heo, Sung Beom Cho",
+      "venue": "Chemistry of Materials 36 (12), 5904-5911",
+      "date": "2024-06-05",
+      "first_authors": "Woongchan Kim",
+      "corresponding_authors": "Sung Beom Cho",
+      "url": "https://doi.org/10.1021/acs.chemmater.3c03323"
+    },
+    {
+      "year": 2024,
+      "title": "Demystifying role of local distortion in emission colors tuning of lead-free zero-dimensional metal halide nanocrystals",
+      "authors": "Tuhin Samanta, Noolu Srinivasa Manikanta Viswanath, Hyeon Woo Kim, Sung Woo Jang, Joo Hyeong Han, Sung Beom Cho, Won Bin Im",
+      "venue": "Chemical Engineering Journal 484, 149697",
+      "date": "2024-02-13",
+      "first_authors": [
+        "Tuhin Samanta",
+        "Noolu Srinivasa Manikanta Viswanath"
+      ],
+      "corresponding_authors": "Won Bin Im",
+      "url": "https://doi.org/10.1016/j.cej.2024.149697"
+    },
+    {
+      "year": 2024,
+      "title": "Systematic determination of the optimized Zr content of Ba(ZrxTi1-x)O3 with high dielectric constant at room temperature for high-voltage system application",
+      "authors": "Jandi Kim, Ji Hye Seo, Sang Heun Lee, Myunghee Cho, Hun Kwak, Ran Sae Cheon, Seungchan Cho, Sung Beom Cho, Minkee Kim, Yoon-Seok Lee, Yangdo Kim, Moonhee Choi",
+      "venue": "Journal of the Korean Ceramic Society 61 (3), 391-401",
+      "date": "2024-01-19",
+      "first_authors": [
+        "Jandi Kim",
+        "Ji Hye Seo"
+      ],
+      "corresponding_authors": [
+        "Yoon-Seok Lee",
+        "Yangdo Kim",
+        "Moonhee Choi"
+      ],
+      "url": "https://doi.org/10.1007/s43207-023-00353-x"
+    },
+    {
+      "year": 2024,
+      "title": "Uniform Synthesis of Bilayer Hydrogen Substituted Graphdiyne for Flexible Piezoresistive Applications",
+      "authors": "Mukkath Joseph Josline, Soheil Ghods, Saikiran Kosame, Jun-Hui Choi, Woongchan Kim, Sein Kim, SooHyun Chang, Sang Hwa Hyun, Seung-Il Kim, Ji-Yun Moon, Hyeong Gi Park, Sung Beom Cho, Heongkyu Ju, Jae-Hyun Lee",
+      "venue": "Small 20 (25), 2307276",
+      "date": null,
+      "first_authors": [
+        "Mukkath Joseph Josline",
+        "Soheil Ghods"
+      ],
+      "corresponding_authors": "Jae-Hyun Lee",
+      "url": "https://doi.org/10.1002/smll.202307276"
+    },
+    {
+      "year": 2023,
+      "title": "Designing Pr-based advanced photoluminescent materials using machine learning and density functional theory",
+      "authors": "Upendra Kumar, Hyeon Woo Kim, Sobhit Singh, Sung Beom Cho, Hyunseok Ko",
+      "venue": "Journal of Materials Science 59 (4), 1433-1447",
+      "date": "2023-12-02",
+      "first_authors": [
+        "Upendra Kumar",
+        "Hyeon Woo Kim"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Hyunseok Ko"
+      ],
+      "url": "https://doi.org/10.1007/s10853-023-09232-6"
+    },
+    {
+      "year": 2023,
+      "title": "Uncertainty and Irreproducibility of Triboelectricity Based on Interface Mechanochemistry",
+      "authors": "Giulio Fatti, Hyunseung Kim, Changwan Sohn, Minah Park, Yeong-won Lim, Zhuohan Li, Kwi-Il Park, Izabela Szlufarska, Hyunseok Ko, Chang Kyu Jeong, Sung Beom Cho",
+      "venue": "Physical Review Letters 131 (16), 166201",
+      "date": "2023-10-19",
+      "first_authors": "Giulio Fatti",
+      "corresponding_authors": [
+        "Chang Kyu Jeong",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1103/PhysRevLett.131.166201"
+    },
+    {
+      "year": 2023,
+      "title": "A versatile strategy for hybridizing small experimental and large simulation data: A case for ceramic tape-casting process",
+      "authors": "Jeong-Hun Kim, Hyunseok Ko, Dong-Hun Yeo, Zeehoon Park, Upendra Kumar, Kwan-Hee Yoo, Aziz Nasridinov, Sung Beom Cho",
+      "venue": "Materials & Design 234, 112357",
+      "date": "2023-09-24",
+      "first_authors": [
+        "Jeong-Hun Kim",
+        "Hyunseok Ko"
+      ],
+      "corresponding_authors": [
+        "Aziz Nasridinov",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1016/j.matdes.2023.112357"
+    },
+    {
+      "year": 2023,
+      "title": "Understanding the electrokinetic role of ions on electricity generation in droplet-based hydrovoltaic systems",
+      "authors": "Min Sung Kang, Hyunseok Ko, Seokhee Lee, Sung Beom Cho",
+      "venue": "The Journal of Physical Chemistry C 127 (34), 16811-16817",
+      "date": "2023-08-22",
+      "first_authors": "Min Sung Kang",
+      "corresponding_authors": [
+        "Seokhee Lee",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1021/acs.jpcc.3c03183"
+    },
+    {
+      "year": 2023,
+      "title": "High-Throughput Screening on Halide Perovskite Derivatives and Rational Design of Cs3LuCl6",
+      "authors": "Hyeon Woo Kim, Joo Hyeong Han, Hyunseok Ko, Tuhin Samanta, Dong Geon Lee, Dong Won Jeon, Woongchan Kim, Yong-Chae Chung, Won Bin Im, Sung Beom Cho",
+      "venue": "ACS Energy Letters 8 (8), 3621-3630",
+      "date": "2023-08-02",
+      "first_authors": [
+        "Hyeon Woo Kim",
+        "Joo Hyeong Han",
+        "Hyunseok Ko"
+      ],
+      "corresponding_authors": [
+        "Won Bin Im",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1021/acsenergylett.3c01207"
+    },
+    {
+      "year": 2023,
+      "title": "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility",
+      "authors": "Han Uk Lee, Seungmin Han, Dong Geon Lee, Hyunseok Ko, Juhyun Lee, Won Bin Im, Taeseup Song, Junghyun Choi, Sung Beom Cho",
+      "venue": "Chemical Engineering Journal 471, 144552",
+      "date": "2023-06-30",
+      "first_authors": "Han Uk Lee",
+      "corresponding_authors": [
+        "Junghyun Choi",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1016/j.cej.2023.144552"
+    },
+    {
+      "year": 2023,
+      "title": "Plasma-Enhanced Atomic Layer Deposition Assisted Low-Temperature Synthetic Routes to Rationally Designed Metastable c-Axis Aligned Hexagonal In-Zn-O",
+      "authors": "TaeHyun Hong, Hyeon Woo Kim, Yoon-Seo Kim, Hyun-Jun Jeong, Sung Beom Cho, Jin-Seong Park",
+      "venue": "Chemistry of Materials 35 (13), 5168-5176",
+      "date": "2023-06-26",
+      "first_authors": [
+        "TaeHyun Hong",
+        "Hyeon Woo Kim"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Jin-Seong Park"
+      ],
+      "url": "https://doi.org/10.1021/acs.chemmater.3c00894"
+    },
+    {
+      "year": 2023,
+      "title": "Tailoring Rigid Segments in Dopant-Free Polymeric Hole Transport Materials for Perovskite Quantum Dot Solar Cells",
+      "authors": "Dae Hwan Lee, Seyeong Lim, Chanhyeok Kim, Han Uk Lee, Dasol Chung, Yelim Choi, Jongmin Choi, Younghoon Kim, Sung Beom Cho, Hong Il Kim, Taiho Park",
+      "venue": "ACS Energy Letters 8 (4), 1839-1847",
+      "date": "2023-03-21",
+      "first_authors": [
+        "Dae Hwan Lee",
+        "Seyeong Lim"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Hong Il Kim",
+        "Taiho Park"
+      ],
+      "url": "https://doi.org/10.1021/acsenergylett.3c00211"
+    },
+    {
+      "year": 2023,
+      "title": "Enhanced Hydro-Actuation and Capacitance of Electrochemically Inner-Bundle-Activated Carbon Nanotube Yarns",
+      "authors": "Wonkyeong Son, Jae Myeong Lee, Sungwoo Chun, Seongjun Yu, Jun Ho Noh, Hyeon Woo Kim, Sung Beom Cho, Seon Jeong Kim, Changsoon Choi",
+      "venue": "ACS Applied Materials & Interfaces 15 (10), 13484-13494",
+      "date": "2023-03-01",
+      "first_authors": [
+        "Wonkyeong Son",
+        "Jae Myeong Lee"
+      ],
+      "corresponding_authors": [
+        "Seon Jeong Kim",
+        "Changsoon Choi"
+      ],
+      "url": "https://doi.org/10.1021/acsami.2c20666"
+    },
+    {
+      "year": 2023,
+      "title": "Modulation of Molybdenum oxidation state via Catalytic-oxidation",
+      "authors": "Kangchun Lee, Seho Sun, Hyunseok Ko, Sung Beom Cho, Ganggyu Lee, Dongsoo Lee, Taeseup Song, Ungyu Paik",
+      "venue": "Applied Surface Science 615, 156330",
+      "date": "2023-01-02",
+      "first_authors": "Kangchun Lee",
+      "corresponding_authors": [
+        "Taeseup Song",
+        "Ungyu Paik"
+      ],
+      "url": "https://doi.org/10.1016/j.apsusc.2023.156330"
+    },
+    {
+      "year": 2023,
+      "title": "Complementary Functions of Vanadium in Boosting Electrocatalytic Activity of CuCoNiFeMn High-Entropy Alloy for Water Splitting",
+      "authors": "Arumugam Sivanantham, Hansung Lee, Sung Won Hwang, Han Uk Lee, Sung Beom Cho, Byungmin Ahn, In Sun Cho",
+      "venue": "Advanced Functional Materials 33 (34), 2301153",
+      "date": null,
+      "first_authors": [
+        "Arumugam Sivanantham",
+        "Hansung Lee"
+      ],
+      "corresponding_authors": [
+        "Byungmin Ahn",
+        "In Sun Cho"
+      ],
+      "url": "https://doi.org/10.1002/adfm.202301153"
+    },
+    {
+      "year": 2023,
+      "title": "Rational Design Strategy for Triboelectric Nanogenerators Based on Electron Back Flow and Ionic Defects: The Case of Polytetrafluoroethylene",
+      "authors": "Giulio Fatti, Alessandra Ciniero, Hyunseok Ko, Han Uk Lee, Yujin Na, Chang Kyu Jeong, Sang-Geul Lee, Dongyub Kwak, Kwi-Il Park, Sung Beom Cho, Daniele Dini",
+      "venue": "Advanced Electronic Materials 9 (11), 2300333",
+      "date": null,
+      "first_authors": "Giulio Fatti",
+      "corresponding_authors": [
+        "Giulio Fatti",
+        "Hyunseok Ko",
+        "Kwi-Il Park",
+        "Sung Beom Cho",
+        "Daniele Dini"
+      ],
+      "url": "https://doi.org/10.1002/aelm.202300333"
+    },
+    {
+      "year": 2023,
+      "title": "The Significance of an In Situ ALD Al2O3 Stacked Structure for p-Type SnO TFT Performance and Monolithic All-ALD-Channel CMOS Inverter Applications",
+      "authors": "Hye-Mi Kim, Su-Hwan Choi, Han Uk Lee, Sung Beom Cho, Jin-Seong Park",
+      "venue": "Advanced Electronic Materials 9 (4), 2201202",
+      "date": null,
+      "first_authors": [
+        "Hye-Mi Kim",
+        "Su-Hwan Choi"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Jin-Seong Park"
+      ],
+      "url": "https://doi.org/10.1002/aelm.202201202"
+    },
+    {
+      "year": 2022,
+      "title": "Why does water in porous carbon generate electricity? Electrokinetic role of protons in a water droplet-induced hydrovoltaic system of hydrophilic porous carbon",
+      "authors": "Hyunseok Ko, Wonkyeong Son, Min Sung Kang, Han Uk Lee, Chan-Yeup Chung, Seungwu Han, Changsoon Choi, Sung Beom Cho",
+      "venue": "Journal of Materials Chemistry A 11 (3), 1148-1158",
+      "date": "2022-12-23",
+      "first_authors": "Hyunseok Ko",
+      "corresponding_authors": "Sung Beom Cho",
+      "url": "https://doi.org/10.1039/d2ta05281d"
+    },
+    {
+      "year": 2022,
+      "title": "Highly stable zero-dimensional lead-free metal halides for X-ray imaging",
+      "authors": "Joo Hyeong Han, Tuhin Samanta, Yong Min Park, Ha Jun Kim, Noolu Srinivasa Manikanta Viswanath, Hyeon Woo Kim, Bo Kyung Cha, Sung Beom Cho, Won Bin Im",
+      "venue": "ACS Energy Letters 8 (1), 545-552",
+      "date": "2022-12-15",
+      "first_authors": "Joo Hyeong Han",
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Won Bin Im"
+      ],
+      "url": "https://doi.org/10.1021/acsenergylett.2c02469"
+    },
+    {
+      "year": 2022,
+      "title": "High-performance perovskite quantum dot solar cells enabled by incorporation with dimensionally engineered organic semiconductor",
+      "authors": "Seyeong Lim, Dae Hwan Lee, Hyuntae Choi, Yelim Choi, Dong Geon Lee, Sung Beom Cho, Seonkyung Ko, Jongmin Choi, Younghoon Kim, Taiho Park",
+      "venue": "Nano-Micro Letters 14 (1), 204",
+      "date": "2022-10-17",
+      "first_authors": [
+        "Seyeong Lim",
+        "Dae Hwan Lee"
+      ],
+      "corresponding_authors": [
+        "Jongmin Choi",
+        "Younghoon Kim",
+        "Taiho Park"
+      ],
+      "url": "https://doi.org/10.1007/s40820-022-00946-x"
+    },
+    {
+      "year": 2022,
+      "title": "Quantum Floquet spectra of surface and bulk state of topological insulator",
+      "authors": "Upendra Kumar, Vipin Kumar, Ajay Kumar Kushwaha, Sung Beom Cho",
+      "venue": "Physica E: Low-dimensional Systems and Nanostructures 145, 115496",
+      "date": "2022-09-15",
+      "first_authors": "Upendra Kumar",
+      "corresponding_authors": "Sung Beom Cho",
+      "url": "https://doi.org/10.1016/j.physe.2022.115496"
+    },
+    {
+      "year": 2022,
+      "title": "Reversible switching performance of water droplet-driven triboelectric nanogenerators using a magnetocontrollable lubricant-infused surface for sustainable power generation",
+      "authors": "Soyeon Yun, Suhyeon Cho, Hyeon Woo Kim, Sung Beom Cho, Seunghyup Lee, Kijung Yong",
+      "venue": "Nano Energy 103, 107783",
+      "date": "2022-09-06",
+      "first_authors": "Soyeon Yun",
+      "corresponding_authors": [
+        "Seunghyup Lee",
+        "Kijung Yong"
+      ],
+      "url": "https://doi.org/10.1016/j.nanoen.2022.107783"
+    },
+    {
+      "year": 2022,
+      "title": "Bandgap analysis of transition-metal dichalcogenide and oxide via machine learning approach",
+      "authors": "Upendra Kumar, Km Arti Mishra, Ajay Kumar Kushwaha, Sung Beom Cho",
+      "venue": "Journal of Physics and Chemistry of Solids 171, 110973",
+      "date": "2022-08-18",
+      "first_authors": "Upendra Kumar",
+      "corresponding_authors": "Sung Beom Cho",
+      "url": "https://doi.org/10.1016/j.jpcs.2022.110973"
+    },
+    {
+      "year": 2022,
+      "title": "Dominant Effects of Epitaxial Strain on the Phase Control of Heterostructural (InxGa1−x)2O3 Alloys",
+      "authors": "Han Uk Lee, Hyeon Woo Kim, Giulio Fatti, Hyunseok Ko, Sung Beom Cho",
+      "venue": "ACS Applied Electronic Materials 4 (6), 2711-2717",
+      "date": "2022-05-24",
+      "first_authors": [
+        "Han Uk Lee",
+        "Hyeon Woo Kim"
+      ],
+      "corresponding_authors": "Sung Beom Cho",
+      "url": "https://doi.org/10.1021/acsaelm.2c00240"
+    },
+    {
+      "year": 2022,
+      "title": "Conformably Skin-Adherent Piezoelectric Patch with Bioinspired Hierarchically Arrayed Microsuckers Enables Physical Energy Amplification",
+      "authors": "Da Wan Kim, Hyunseung Kim, Geon-Tae Hwang, Sung Beom Cho, Seung Hwan Jeon, Hyeon Woo Kim, Chang Kyu Jeong, Sungwoo Chun, Changhyun Pang",
+      "venue": "ACS Energy Letters 7 (5), 1820-1827",
+      "date": "2022-04-28",
+      "first_authors": [
+        "Da Wan Kim",
+        "Hyunseung Kim"
+      ],
+      "corresponding_authors": [
+        "Chang Kyu Jeong",
+        "Sungwoo Chun",
+        "Changhyun Pang"
+      ],
+      "url": "https://doi.org/10.1021/acsenergylett.2c00259"
+    },
+    {
+      "year": 2022,
+      "title": "A pre-reaction suppressing strategy for α-Ga2O3 halide vapor pressure epitaxy using asymmetric precursor gas flow",
+      "authors": "Sunjae Kim, Hyeon Woo Kim, Hyeong-Yun Kim, Dae-Woo Jeon, Sung Beom Cho, Ji-Hyeon Park",
+      "venue": "CrystEngComm 24 (16), 3049-3056",
+      "date": "2022-03-30",
+      "first_authors": [
+        "Sunjae Kim",
+        "Hyeon Woo Kim"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Ji-Hyeon Park"
+      ],
+      "url": "https://doi.org/10.1039/d2ce00222a"
+    },
+    {
+      "year": 2022,
+      "title": "High-power hydro-actuators fabricated from biomimetic carbon nanotube coiled yarns with fast electrothermal recovery",
+      "authors": "Wonkyeong Son, Jae Myeong Lee, Shi Hyeong Kim, Hyeon Woo Kim, Sung Beom Cho, Dongseok Suh, Sungwoo Chun, Changsoon Choi",
+      "venue": "Nano Letters 22 (6), 2470-2478",
+      "date": "2022-03-07",
+      "first_authors": [
+        "Wonkyeong Son",
+        "Jae Myeong Lee"
+      ],
+      "corresponding_authors": [
+        "Sungwoo Chun",
+        "Changsoon Choi"
+      ],
+      "url": "https://doi.org/10.1021/acs.nanolett.2c00250"
+    },
+    {
+      "year": 2022,
+      "title": "Twist-stabilized, coiled carbon nanotube yarns with enhanced capacitance",
+      "authors": "Wonkyeong Son, Sungwoo Chun, Jae Myeong Lee, Gichan Jeon, Hyeon Jun Sim, Hyeon Woo Kim, Sung Beom Cho, Dongyun Lee, Junyoung Park, Joonhyeon Jeon, Dongseok Suh, Changsoon Choi",
+      "venue": "ACS nano 16 (2), 2661-2671",
+      "date": "2022-01-24",
+      "first_authors": [
+        "Wonkyeong Son",
+        "Sungwoo Chun"
+      ],
+      "corresponding_authors": [
+        "Dongseok Suh",
+        "Changsoon Choi"
+      ],
+      "url": "https://doi.org/10.1021/acsnano.1c09465"
+    },
+    {
+      "year": 2022,
+      "title": "Establishment of a BaTiO3-based Computational Science Platform to Predict Multi-component Properties",
+      "authors": "Dong Geon Lee, Han Uk Lee, Won Bin Im, Hyunseok Ko, Sung Beom Cho",
+      "venue": "Journal of Sensor Science and Technology 31 (5), 318-323",
+      "date": null,
+      "first_authors": "Dong Geon Lee",
+      "corresponding_authors": [
+        "고현석 (Hyunseok Ko)",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.46670/JSST.2022.31.5.318"
+    },
+    {
+      "year": 2021,
+      "title": "Flexoelectric-boosted piezoelectricity of BaTiO3@SrTiO3 core-shell nanostructure determined by multiscale simulations for flexible energy harvesters",
+      "authors": "Yeon-gyu Kim, Hyunseung Kim, Gyoung-Ja Lee, Han-Uk Lee, Sang Gu Lee, Changyeon Baek, Min-Ku Lee, Jin-Ju Park, Qing Wang, Sung Beom Cho, Chang Kyu Jeong, Kwi-Il Park",
+      "venue": "Nano Energy 89, 106469",
+      "date": "2021-08-24",
+      "first_authors": [
+        "Yeon-gyu Kim",
+        "Hyunseung Kim"
+      ],
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Chang Kyu Jeong",
+        "Kwi-Il Park"
+      ],
+      "url": "https://doi.org/10.1016/j.nanoen.2021.106469"
+    },
+    {
+      "year": 2021,
+      "title": "Triboelectrification: Backflow and Stuck Charges Are Key",
+      "authors": "Hyunseok Ko, Yeong-won Lim, Seungwu Han, Chang Kyu Jeong, Sung Beom Cho",
+      "venue": "ACS Energy Letters 6 (8), 2792-2799",
+      "date": "2021-07-20",
+      "first_authors": [
+        "Hyunseok Ko",
+        "Yeong-won Lim"
+      ],
+      "corresponding_authors": [
+        "Chang Kyu Jeong",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1021/acsenergylett.1c01019"
+    },
+    {
+      "year": 2021,
+      "title": "A Hierarchically Tailored Wrinkled Three-Dimensional Foam for Enhanced Elastic Supercapacitor Electrodes",
+      "authors": "Siyeon Jang, Hyeongho Min, Sung Beom Cho, Hyeon Woo Kim, Wonkyeong Son, Changsoon Choi, Sungwoo Chun, Changhyun Pang",
+      "venue": "Nano Letters 21 (16), 7079-7085",
+      "date": "2021-06-22",
+      "first_authors": "Siyeon Jang",
+      "corresponding_authors": [
+        "Sungwoo Chun",
+        "Changhyun Pang"
+      ],
+      "url": "https://doi.org/10.1021/acs.nanolett.1c01384"
+    },
+    {
+      "year": 2021,
+      "title": "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3",
+      "authors": "Hyeon Woo Kim, Hyunseok Ko, Yong-Chae Chung, Sung Beom Cho",
+      "venue": "Journal of the European Ceramic Society 41 (1), 611-616",
+      "date": null,
+      "first_authors": "Hyeon Woo Kim",
+      "corresponding_authors": "Sung Beom Cho",
+      "url": "https://doi.org/10.1016/j.jeurceramsoc.2020.08.067"
+    },
+    {
+      "year": 2021,
+      "title": "Metal-Nitrogen-Carbon Cluster-Decorated Titanium Carbide is a Durable and Inexpensive Oxygen Reduction Reaction Electrocatalyst",
+      "authors": "Sung Beom Cho, Cheng He, Shrihari Sankarasubramanian, Arashdeep Singh Thind, Javier Parrondo, Jordan A. Hachtel, Albina Y. Borisevich, Juan-Carlos Idrobo, Jing Xie, Vijay Ramani, Rohan Mishra",
+      "venue": "ChemSusChem 14 (21), 4680-4689",
+      "date": null,
+      "first_authors": [
+        "Sung Beom Cho",
+        "Cheng He",
+        "Shrihari Sankarasubramanian"
+      ],
+      "corresponding_authors": [
+        "Vijay Ramani",
+        "Rohan Mishra"
+      ],
+      "url": "https://doi.org/10.1002/cssc.202101341"
+    },
+    {
+      "year": 2020,
+      "title": "Enhancement of the quantum capacitances of group-14 elemental two-dimensional materials by Ti-doping: A first principles study",
+      "authors": "Juven Rihm, Eun Seob Sim, Sung Beom Cho, Yong-Chae Chung",
+      "venue": "Applied Surface Science 530, 147301",
+      "date": "2020-07-16",
+      "first_authors": "Juven Rihm",
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Yong-Chae Chung"
+      ],
+      "url": "https://doi.org/10.1016/j.apsusc.2020.147301"
+    },
+    {
+      "year": 2020,
+      "title": "Highly tunable, polarization-engineered two-dimensional electron gas in ε-AlGaO3/ε-Ga2O3 heterostructures",
+      "authors": "Praneeth Ranga, Sung Beom Cho, Rohan Mishra, Sriram Krishnamoorthy",
+      "venue": "Applied Physics Express 13 (6), 061009",
+      "date": "2020-05-22",
+      "first_authors": [
+        "Praneeth Ranga",
+        "Sung Beom Cho"
+      ],
+      "corresponding_authors": [
+        "Praneeth Ranga",
+        "Rohan Mishra",
+        "Sriram Krishnamoorthy"
+      ],
+      "url": "https://doi.org/10.35848/1882-0786/ab9168"
+    },
+    {
+      "year": 2020,
+      "title": "A Micropillar-Assisted Versatile Strategy for Highly Sensitive and Efficient Triboelectric Energy Generation under In-Plane Stimuli",
+      "authors": "Sungwoo Chun, Changhyun Pang, Sung Beom Cho",
+      "venue": "Advanced Materials 32 (2), 1905539",
+      "date": null,
+      "first_authors": "Sungwoo Chun",
+      "corresponding_authors": [
+        "Changhyun Pang",
+        "Sung Beom Cho"
+      ],
+      "url": "https://doi.org/10.1002/adma.201905539"
+    },
+    {
+      "year": 2020,
+      "title": "Quasi-Binary Transition Metal Dichalcogenide Alloys: Thermodynamic Stability Prediction, Scalable Synthesis, and Application",
+      "authors": "Zahra Hemmat, John Cavin, Alireza Ahmadiparidari, Alexander Ruckel, Sina Rastegar, Saurabh N. Misal, Leily Majidi, Khagesh Kumar, Shuxi Wang, Jinglong Guo, Radwa Dawood, Francisco Lagunas, Prakash Parajuli, Anh Tuan Ngo, Larry A. Curtiss, Sung Beom Cho, Jordi Cabana, Robert F. Klie, Rohan Mishra, Amin Salehi-Khojin",
+      "venue": "Advanced Materials 32 (26), 1907041",
+      "date": null,
+      "first_authors": [
+        "Zahra Hemmat",
+        "John Cavin"
+      ],
+      "corresponding_authors": [
+        "Rohan Mishra",
+        "Amin Salehi-Khojin"
+      ],
+      "url": "https://doi.org/10.1002/adma.201907041"
+    },
+    {
+      "year": 2019,
+      "title": "Serpentine-pattern effects on the biaxial stretching of percolative graphene nanoflake films",
+      "authors": "Sungwoo Chun, Sung Beom Cho, Wonkyeong Son, Younghoon Kim, Hachul Jung, Young-Jin Kim, Changsoon Choi",
+      "venue": "Nanotechnology 31 (8), 085303",
+      "date": "2019-11-04",
+      "first_authors": "Sungwoo Chun",
+      "corresponding_authors": "Changsoon Choi",
+      "url": "https://doi.org/10.1088/1361-6528/ab5419"
+    },
+    {
+      "year": 2019,
+      "title": "KBaTeBiO6: A Lead-Free, Inorganic Double-Perovskite Semiconductor for Photovoltaic Applications",
+      "authors": "Arashdeep Singh Thind, Shalinee Kavadiya, Mojgan Kouhnavard, Robin Wheelus, Sung Beom Cho, Liang-Yi Lin, Clayton Kacica, Hemant Kumar Mulmudi, Kinga A. Unocic, Albina Y. Borisevich, Ghanshyam Pilania, Pratim Biswas, Rohan Mishra",
+      "venue": "Chemistry of Materials 31 (13), 4769-4778",
+      "date": "2019-06-11",
+      "first_authors": "Arashdeep Singh Thind",
+      "corresponding_authors": "Rohan Mishra",
+      "url": "https://doi.org/10.1021/acs.chemmater.9b01025"
+    },
+    {
+      "year": 2019,
+      "title": "Atomic Structure and Electrical Activity of Grain Boundaries and Ruddlesden–Popper Faults in Cesium Lead Bromide Perovskite",
+      "authors": "Arashdeep Singh Thind, Guangfu Luo, Jordan A. Hachtel, Maria V. Morrell, Sung Beom Cho, Albina Y. Borisevich, Juan-Carlos Idrobo, Yangchuan Xing, Rohan Mishra",
+      "venue": "Advanced Materials 31 (4), 1805047",
+      "date": null,
+      "first_authors": [
+        "Arashdeep Singh Thind",
+        "Guangfu Luo"
+      ],
+      "corresponding_authors": "Rohan Mishra",
+      "url": "https://doi.org/10.1002/adma.201805047"
+    },
+    {
+      "year": 2019,
+      "title": "Flexible Crossbar-Structured Phase Change Memory Array via Mo-Based Interfacial Physical Lift-Off",
+      "authors": "Do Hyun Kim, Han Eol Lee, Byoung Kuk You, Sung Beom Cho, Rohan Mishra, Il-Suk Kang, Keon Jae Lee",
+      "venue": "Advanced Functional Materials 29 (6), 1806338",
+      "date": null,
+      "first_authors": [
+        "Do Hyun Kim",
+        "Han Eol Lee",
+        "Byoung Kuk You"
+      ],
+      "corresponding_authors": "Keon Jae Lee",
+      "url": "https://doi.org/10.1002/adfm.201806338"
+    },
+    {
+      "year": 2019,
+      "title": "New Class of Electrocatalysts Based on 2D Transition Metal Dichalcogenides in Ionic Liquid",
+      "authors": "Leily Majidi, Poya Yasaei, Robert E. Warburton, Shadi Fuladi, John Cavin, Xuan Hu, Zahra Hemmat, Sung Beom Cho, Pedram Abbasi, Márton Vörös, Lei Cheng, Baharak Sayahpour, Igor L. Bolotin, Peter Zapol, Jeffrey Greeley, Robert F. Klie, Rohan Mishra, Fatemeh Khalili-Araghi, Larry A. Curtiss, Amin Salehi-Khojin",
+      "venue": "Advanced Materials 31 (4), 1804453",
+      "date": null,
+      "first_authors": "Leily Majidi",
+      "corresponding_authors": [
+        "Larry A. Curtiss",
+        "Amin Salehi-Khojin"
+      ],
+      "url": "https://doi.org/10.1002/adma.201804453"
+    },
+    {
+      "year": 2018,
+      "title": "Multiferroism in iron-based oxyfluoride perovskites",
+      "authors": "Steven T. Hartman, Sung Beom Cho, Rohan Mishra",
+      "venue": "Inorganic Chemistry 57 (17), 10616-10624",
+      "date": "2018-08-14",
+      "first_authors": "Steven T. Hartman",
+      "corresponding_authors": [
+        "Steven T. Hartman",
+        "Rohan Mishra"
+      ],
+      "url": "https://doi.org/10.1021/acs.inorgchem.8b01253"
+    },
+    {
+      "year": 2018,
+      "title": "Intrinsic point defects and intergrowths in layered bismuth triiodide",
+      "authors": "Sung Beom Cho, Jaume Gazquez, Xing Huang, Yoon Myung, Parag Banerjee, Rohan Mishra",
+      "venue": "Physical Review Materials 2 (6), 064602",
+      "date": "2018-06-07",
+      "first_authors": "Sung Beom Cho",
+      "corresponding_authors": "Rohan Mishra",
+      "url": "https://doi.org/10.1103/PhysRevMaterials.2.064602"
+    },
+    {
+      "year": 2018,
+      "title": "Epitaxial engineering of polar ε-Ga2O3 for tunable two-dimensional electron gas at the heterointerface",
+      "authors": "Sung Beom Cho, Rohan Mishra",
+      "venue": "Applied Physics Letters 112 (16)",
+      "date": "2018-04-16",
+      "first_authors": "Sung Beom Cho",
+      "corresponding_authors": [
+        "Sung Beom Cho",
+        "Rohan Mishra"
+      ],
+      "url": "https://doi.org/10.1063/1.5019721"
+    },
+    {
+      "year": 2018,
+      "title": "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals",
+      "authors": "Arashdeep Singh Thind, Guangfu Luo, Jordan A. Hachtel, Mariia Goriacheva, Sung Beom Cho, Albina Borisevich, Juan Carlos Idrobo, Yangchuan Xing, Rohan Mishra",
+      "venue": "Microscopy and Microanalysis 24 (S1), 100-101",
+      "date": null,
+      "first_authors": "Arashdeep Singh Thind",
+      "corresponding_authors": "Rohan Mishra",
+      "url": "https://doi.org/10.1017/S1431927618000995"
+    },
+    {
+      "year": 2017,
+      "title": "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films",
+      "authors": "Xiao Chen, Yoon Myung, Arashdeep Thind, Zhengning Gao, Bo Yin, Meikun Shen, Sung Beom Cho, Peifu Cheng, Bryce Sadtler, Rohan Mishra, Parag Banerjee",
+      "venue": "Journal of Materials Chemistry A 5 (47), 24728-24739",
+      "date": "2017-10-31",
+      "first_authors": "Xiao Chen",
+      "corresponding_authors": "Parag Banerjee",
+      "url": "https://doi.org/10.1039/C7TA06578G"
+    },
+    {
+      "year": 2017,
+      "title": "Elucidating the unintentional p-type nature of spinel Co3O4: A defect study using ab-initio calculation",
+      "authors": "Sung Beom Cho, Eun Seob Sim, Yong-Chae Chung",
+      "venue": "Journal of the European Ceramic Society 38 (2), 629-635",
+      "date": "2017-09-23",
+      "first_authors": "Sung Beom Cho",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1016/j.jeurceramsoc.2017.09.039"
+    },
+    {
+      "year": 2017,
+      "title": "First-principles study of point defects in β-Ga2O3",
+      "authors": "Yvette Anguiano, Sung Beom Cho, Rohan Mishra",
+      "venue": "2017",
+      "date": "2017-08-05",
+      "first_authors": "Yvette Anguiano",
+      "corresponding_authors": "Rohan Mishra",
+      "url": "https://doi.org/10.7936/kzae-2m02"
+    },
+    {
+      "year": 2016,
+      "title": "Flexible highly-effective energy harvester via crystallo-graphic and computational control of nanointerfacial morphotropic piezoelectric thin film",
+      "authors": "Chang Kyu Jeong, Sung Beom Cho, Jae Hyun Han, Dae Yong Park, Suyoung Yang, Kwi-Il Park, Jungho Ryu, Hoon Sohn, Yong-Chae Chung, Keon Jae Lee",
+      "venue": "Nano Research 10 (2), 437-455",
+      "date": "2016-09-26",
+      "first_authors": [
+        "Chang Kyu Jeong",
+        "Sung Beom Cho"
+      ],
+      "corresponding_authors": [
+        "Hoon Sohn",
+        "Yong-Chae Chung",
+        "Keon Jae Lee"
+      ],
+      "url": "https://doi.org/10.1007/s12274-016-1304-6"
+    },
+    {
+      "year": 2016,
+      "title": "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer",
+      "authors": "Sung Beom Cho, Yong-Chae Chung",
+      "venue": "Scientific Reports 6 (1), 27986",
+      "date": "2016-06-15",
+      "first_authors": "Sung Beom Cho",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1038/srep27986"
+    },
+    {
+      "year": 2014,
+      "title": "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field",
+      "authors": "Youngbin Lee, Yubin Hwang, Sung Beom Cho, Yong-Chae Chung",
+      "venue": "Physical Chemistry Chemical Physics 16 (47), 26273-26278",
+      "date": "2014-10-28",
+      "first_authors": "Youngbin Lee",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1039/C4CP03811H"
+    },
+    {
+      "year": 2014,
+      "title": "Tunable Indirect to Direct Band Gap Transition of Monolayer Sc2CO2 by the Strain Effect",
+      "authors": "Youngbin Lee, Sung Beom Cho, Yong-Chae Chung",
+      "venue": "ACS applied materials & interfaces 6 (16), 14724-14728",
+      "date": "2014-08-08",
+      "first_authors": "Youngbin Lee",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1021/am504233d"
+    },
+    {
+      "year": 2014,
+      "title": "Spin-polarized bandgap of graphene induced by alternative chemisorption with MgO (1 1 1) substrate",
+      "authors": "Sung Beom Cho, Yong-Chae Chung",
+      "venue": "Carbon 77, 208-214",
+      "date": "2014-05-27",
+      "first_authors": "Sung Beom Cho",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1016/j.carbon.2014.05.023"
+    },
+    {
+      "year": 2014,
+      "title": "Defect-induced semiconductor to metal transition in graphene monoxide",
+      "authors": "Jungwook Woo, Kyung-Han Yun, Sung Beom Cho, Yong-Chae Chung",
+      "venue": "Physical Chemistry Chemical Physics 16 (26), 13477-13482",
+      "date": "2014-05-20",
+      "first_authors": "Jungwook Woo",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1039/C4CP01518E"
+    },
+    {
+      "year": 2014,
+      "title": "Electronic Properties of Transition-Metal-Decorated Silicene",
+      "authors": "Youngbin Lee, Kyung-Han Yun, Sung Beom Cho, Yong-Chae Chung",
+      "venue": "ChemPhysChem 15 (18), 4095-4099",
+      "date": null,
+      "first_authors": "Youngbin Lee",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1002/cphc.201402613"
+    },
+    {
+      "year": 2013,
+      "title": "Water Trapping at the Graphene/Al2O3 Interface",
+      "authors": "Sung Beom Cho, Sangho Lee, Yong-Chae Chung",
+      "venue": "Japanese Journal of Applied Physics 52 (6S), 06GD09",
+      "date": "2013-06-20",
+      "first_authors": "Sung Beom Cho",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "http://dx.doi.org/10.7567/JJAP.52.06GD09"
+    },
+    {
+      "year": 2013,
+      "title": "Work function tuning of an ultrathin MgO film on an Ag substrate by generating oxygen impurities at the interface",
+      "authors": "Sung Beom Cho, Kyung-Han Yun, Dong Su Yoo, Kiyong Ahn, Yong-Chae Chung",
+      "venue": "Thin Solid Films 544, 541-544",
+      "date": "2013-01-04",
+      "first_authors": "Sung Beom Cho",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1016/j.tsf.2012.12.072"
+    },
+    {
+      "year": 2012,
+      "title": "Bandgap engineering of graphene by corrugation on lattice-mismatched MgO (111)",
+      "authors": "Sung Beom Cho, Yong-Chae Chung",
+      "venue": "Journal of Materials Chemistry C 1 (8), 1595-1600",
+      "date": "2012-12-21",
+      "first_authors": "Sung Beom Cho",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1039/C2TC00257D"
+    },
+    {
+      "year": 2012,
+      "title": "Configuration Dependency of Attached Epoxy Groups on Graphene Oxide Reduction: A Molecular Dynamics Simulation",
+      "authors": "Kyung-Han Yun, Yubin Hwang, Minho Lee, Heechae Choi, Dong Su Yoo, Eung-Kwan Lee, Sung Beom Cho, Yong-Chae Chung",
+      "venue": "Japanese Journal of Applied Physics 51 (6S), 06FD14",
+      "date": "2012-06-20",
+      "first_authors": "Kyung-Han Yun",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "http://doi.org/10.1143/JJAP.51.06FD14"
+    },
+    {
+      "year": 2012,
+      "title": "Oxygen Vacancy Chain Formation in TiO2 under External Strain for Resistive Switching Memory",
+      "authors": "Dong Su Yoo, Kiyong Ahn, Sung Beom Cho, Minho Lee, Yong-Chae Chung",
+      "venue": "Japanese Journal of Applied Physics 51 (6S), 06FG14",
+      "date": "2012-06-20",
+      "first_authors": "Dong Su Yoo",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "http://doi.org/10.1143/JJAP.51.06FG14"
+    },
+    {
+      "year": 2011,
+      "title": "Effects of uniaxial strains on the magnetic properties and the electronic structures of Fe/graphene system: An ab initio study",
+      "authors": "Heechae Choi, Eung-Kwan Lee, Sung Beom Cho, Yong-Chae Chung",
+      "venue": "Journal of Applied Physics 111 (7)",
+      "date": "2011-11-03",
+      "first_authors": "Heechae Choi",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1063/1.3672870"
+    },
+    {
+      "year": 2011,
+      "title": "Interface-Dependent Spin-Reorientation Energy Barrier in Fe/MgO(001) Thin Film",
+      "authors": "Heechae Choi, Eung-Kwan Lee, Sung Beom Cho, Dong Su Yoo, Yong-Chae Chung",
+      "venue": "IEEE electron device letters 32 (9), 1287-1289",
+      "date": "2011-07-25",
+      "first_authors": "Heechae Choi",
+      "corresponding_authors": "Yong-Chae Chung",
+      "url": "https://doi.org/10.1109/LED.2011.2160148"
+    }
+  ]
+}

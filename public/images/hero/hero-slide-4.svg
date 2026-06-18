@@ -1,0 +1,14 @@
+﻿<svg width="600" height="360" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Process and Manufacturing">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14b8a6" />
+      <stop offset="100%" stop-color="#22d3ee" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" rx="30" fill="url(#grad4)" />
+  <circle cx="400" cy="220" r="90" fill="rgba(255,255,255,0.15)" />
+  <circle cx="160" cy="80" r="70" fill="rgba(255,255,255,0.2)" />
+  <text x="40" y="120" font-family="'Inter', 'Segoe UI', sans-serif" font-size="38" font-weight="700" fill="white">Process & Manufacturing</text>
+  <text x="40" y="190" font-family="'Inter', 'Segoe UI', sans-serif" font-size="20" fill="white">Simulation-guided electrode and device fabrication.</text>
+  <text x="40" y="230" font-family="'Inter', 'Segoe UI', sans-serif" font-size="16" fill="white" opacity="0.9">Dry processing, calendering, and additive manufacturing.</text>
+</svg>

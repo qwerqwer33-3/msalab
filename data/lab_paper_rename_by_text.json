@@ -1,0 +1,589 @@
+﻿{
+    "skipped":  [
+
+                ],
+    "renamed":  [
+                    {
+                        "file":  "A Hierarchically Tailored Wrinkled Three-Dimensional Foam for Enhanced Elastic Supercapacitor Electrodes.pdf",
+                        "matched":  "A hierarchically tailored wrinkled three-dimensional foam for enhanced elastic supercapacitor electrodes",
+                        "renamed":  "A Hierarchically Tailored Wrinkled Three-Dimensional Foam for Enhanced Elastic Supercapacitor Electrodes.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "A micropillar‐assisted versatile strategy for highly sensitive and efficient triboelectric energy generation under in‐plane stimuli.pdf",
+                        "matched":  "A micropillar‐assisted versatile strategy for highly sensitive and efficient triboelectric energy generation under in‐plane stimuli",
+                        "renamed":  "A micropillar‐assisted versatile strategy for highly sensitive and efficient triboelectric energy generation under in‐plane stimuli.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "A pre-reaction suppressing strategy for α-Ga 2 O 3 halide vapor pressure epitaxy using asymmetric precursor gas flow.pdf",
+                        "matched":  "A pre-reaction suppressing strategy for α-Ga 2 O 3 halide vapor pressure epitaxy using asymmetric precursor gas flow",
+                        "renamed":  "A pre-reaction suppressing strategy for α-Ga 2 O 3 halide vapor pressure epitaxy using asymmetric precursor gas flow.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "A versatile strategy for hybridizing small experimental and large simulation data A case for ceramic tape-casting process.pdf",
+                        "matched":  "A versatile strategy for hybridizing small experimental and large simulation data: A case for ceramic tape-casting process",
+                        "renamed":  "A versatile strategy for hybridizing small experimental and large simulation data A case for ceramic tape-casting process.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field.pdf",
+                        "matched":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field",
+                        "renamed":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Anode SHIELD A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries.pdf",
+                        "matched":  "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries",
+                        "renamed":  "Anode SHIELD A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films.pdf",
+                        "matched":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films",
+                        "renamed":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films.pdf",
+                        "score":  0.9
+                    },
+                    {
+                        "file":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film (2).pdf",
+                        "matched":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film",
+                        "renamed":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film (2).pdf",
+                        "score":  0.67
+                    },
+                    {
+                        "file":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film.pdf",
+                        "matched":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film",
+                        "renamed":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals (2).pdf",
+                        "matched":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals",
+                        "renamed":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals (2).pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals.pdf",
+                        "matched":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals",
+                        "renamed":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer.pdf",
+                        "matched":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer",
+                        "renamed":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Bandgap analysis of transition-metal dichalcogenide and oxide via machine learning approach.pdf",
+                        "matched":  "Bandgap analysis of transition-metal dichalcogenide and oxide via machine learning approach",
+                        "renamed":  "Bandgap analysis of transition-metal dichalcogenide and oxide via machine learning approach.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Bandgap engineering of graphene by corrugation on lattice-mismatched MgO (111).pdf",
+                        "matched":  "Bandgap engineering of graphene by corrugation on lattice-mismatched MgO (111)",
+                        "renamed":  "Bandgap engineering of graphene by corrugation on lattice-mismatched MgO (111).pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Complementary functions of vanadium in boosting electrocatalytic activity of CuCoNiFeMn high‐entropy alloy for water splitting.pdf",
+                        "matched":  "Complementary functions of vanadium in boosting electrocatalytic activity of CuCoNiFeMn high‐entropy alloy for water splitting",
+                        "renamed":  "Complementary functions of vanadium in boosting electrocatalytic activity of CuCoNiFeMn high‐entropy alloy for water splitting.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Configuration Dependency of Attached Epoxy Groups on Graphene Oxide Reduction A Molecular Dynamics Simulation.pdf",
+                        "matched":  "Configuration Dependency of Attached Epoxy Groups on Graphene Oxide Reduction: A Molecular Dynamics Simulation",
+                        "renamed":  "Configuration Dependency of Attached Epoxy Groups on Graphene Oxide Reduction A Molecular Dynamics Simulation.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Conformably skin-adherent piezoelectric patch with bioinspired hierarchically arrayed microsuckers enables physical energy amplification.pdf",
+                        "matched":  "Conformably skin-adherent piezoelectric patch with bioinspired hierarchically arrayed microsuckers enables physical energy amplification",
+                        "renamed":  "Conformably skin-adherent piezoelectric patch with bioinspired hierarchically arrayed microsuckers enables physical energy amplification.pdf",
+                        "score":  0.93
+                    },
+                    {
+                        "file":  "Crystallinity and composition engineering of organic crystal derived 1D carbons for advanced Li-metal based batteries.pdf",
+                        "matched":  "Crystallinity and composition engineering of organic crystal derived 1D carbons for advanced Li-metal based batteries",
+                        "renamed":  "Crystallinity and composition engineering of organic crystal derived 1D carbons for advanced Li-metal based batteries.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Defect-induced semiconductor to metal transition in graphene monoxide.pdf",
+                        "matched":  "Defect-induced semiconductor to metal transition in graphene monoxide",
+                        "renamed":  "Defect-induced semiconductor to metal transition in graphene monoxide.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Demystifying role of local distortion in emission colors tuning of lead-free zero-dimensional metal halide nanocrystals.pdf",
+                        "matched":  "Demystifying role of local distortion in emission colors tuning of lead-free zero-dimensional metal halide nanocrystals",
+                        "renamed":  "Demystifying role of local distortion in emission colors tuning of lead-free zero-dimensional metal halide nanocrystals.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Design of optimized halide vapor phase epitaxy (HVPE) conditions for uniform α-Ga2O3 growth based on CFD analysis.pdf",
+                        "matched":  "Design of optimized halide vapor phase epitaxy (HVPE) conditions for uniform α-Ga2O3 growth based on CFD analysis",
+                        "renamed":  "Design of optimized halide vapor phase epitaxy (HVPE) conditions for uniform α-Ga2O3 growth based on CFD analysis.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Effects of uniaxial strains on the magnetic properties and the electronic structures of Fegraphene system An ab initio study.pdf",
+                        "matched":  "Effects of uniaxial strains on the magnetic properties and the electronic structures of Fe/graphene system: An ab initio study",
+                        "renamed":  "Effects of uniaxial strains on the magnetic properties and the electronic structures of Fegraphene system An ab initio study.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Electronic Properties of Transition‐Metal‐Decorated Silicene.pdf",
+                        "matched":  "Electronic Properties of Transition‐Metal‐Decorated Silicene",
+                        "renamed":  "Electronic Properties of Transition‐Metal‐Decorated Silicene.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Elucidating the unintentional p-type nature of spinel Co3O4 A defect study using ab-initio calculation.pdf",
+                        "matched":  "Elucidating the unintentional p-type nature of spinel Co3O4: A defect study using ab-initio calculation",
+                        "renamed":  "Elucidating the unintentional p-type nature of spinel Co3O4 A defect study using ab-initio calculation.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Enhanced electrical properties and stability of solution processed IYZO thin film transistors by controlling deep level oxygen vacancies.pdf",
+                        "matched":  "Enhanced electrical properties and stability of solution processed IYZO thin film transistors by controlling deep level oxygen vacancies",
+                        "renamed":  "Enhanced electrical properties and stability of solution processed IYZO thin film transistors by controlling deep level oxygen vacancies.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Enhanced Hydro-Actuation and Capacitance of Electrochemically Inner-Bundle-Activated Carbon Nanotube Yarns.pdf",
+                        "matched":  "Enhanced Hydro-Actuation and Capacitance of Electrochemically Inner-Bundle-Activated Carbon Nanotube Yarns",
+                        "renamed":  "Enhanced Hydro-Actuation and Capacitance of Electrochemically Inner-Bundle-Activated Carbon Nanotube Yarns.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Enhancement of the quantum capacitances of group-14 elemental two-dimensional materials by Ti-doping A first principles study.pdf",
+                        "matched":  "Enhancement of the quantum capacitances of group-14 elemental two-dimensional materials by Ti-doping: A first principles study",
+                        "renamed":  "Enhancement of the quantum capacitances of group-14 elemental two-dimensional materials by Ti-doping A first principles study.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors.pdf",
+                        "matched":  "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
+                        "renamed":  "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Epitaxial engineering of polar ε-Ga2O3 for tunable two-dimensional electron gas at the heterointerface.pdf",
+                        "matched":  "Epitaxial engineering of polar ε-Ga2O3 for tunable two-dimensional electron gas at the heterointerface",
+                        "renamed":  "Epitaxial engineering of polar ε-Ga2O3 for tunable two-dimensional electron gas at the heterointerface.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Establishment of a BaTiO3-based Computational Science Platform to Predict Multi-component Properties.pdf",
+                        "matched":  "Establishment of a BaTiO3-based Computational Science Platform to Predict Multi-component Properties",
+                        "renamed":  "Establishment of a BaTiO3-based Computational Science Platform to Predict Multi-component Properties.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "First-Principle Insights into Positive Triboelectrification of Polyoxymethylene Through Homolytic Bond Rupture.pdf",
+                        "matched":  "First-Principle Insights into Positive Triboelectrification of Polyoxymethylene Through Homolytic Bond Rupture",
+                        "renamed":  "First-Principle Insights into Positive Triboelectrification of Polyoxymethylene Through Homolytic Bond Rupture.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "First-principles study of point defects in β-Ga2O3.pdf",
+                        "matched":  "First-principles study of point defects in β-Ga2O3",
+                        "renamed":  "First-principles study of point defects in β-Ga2O3.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Flexible Crossbar‐Structured Phase Change Memory Array via Mo‐Based Interfacial Physical Lift‐Off.pdf",
+                        "matched":  "Flexible Crossbar‐Structured Phase Change Memory Array via Mo‐Based Interfacial Physical Lift‐Off",
+                        "renamed":  "Flexible Crossbar‐Structured Phase Change Memory Array via Mo‐Based Interfacial Physical Lift‐Off.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Flexible highly-effective energy harvester via crystallographic and computational control of nanointerfacial morphotropic piezoelectric thin.pdf",
+                        "matched":  "Flexible highly-effective energy harvester via crystallographic and computational control of nanointerfacial morphotropic piezoelectric thin film",
+                        "renamed":  "Flexible highly-effective energy harvester via crystallographic and computational control of nanointerfacial morphotropic piezoelectric thin.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Flexoelectric-boosted piezoelectricity of BaTiO3@ SrTiO3 core-shell nanostructure determined by multiscale simulations for flexible energy h.pdf",
+                        "matched":  "Flexoelectric-boosted piezoelectricity of BaTiO3@ SrTiO3 core-shell nanostructure determined by multiscale simulations for flexible energy harvesters",
+                        "renamed":  "Flexoelectric-boosted piezoelectricity of BaTiO3@ SrTiO3 core-shell nanostructure determined by multiscale simulations for flexible energy h.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers.pdf",
+                        "matched":  "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers",
+                        "renamed":  "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers.pdf",
+                        "score":  0.92
+                    },
+                    {
+                        "file":  "Gasochromic WO3MoO3 sensors prepared by co-sputtering for hydrogen leak detection with long-lasting visible signal.pdf",
+                        "matched":  "Gasochromic WO3/MoO3 sensors prepared by co-sputtering for hydrogen leak detection with long-lasting visible signal",
+                        "renamed":  "Gasochromic WO3MoO3 sensors prepared by co-sputtering for hydrogen leak detection with long-lasting visible signal.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3 (2).pdf",
+                        "matched":  "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3",
+                        "renamed":  "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3 (2).pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3.pdf",
+                        "matched":  "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3",
+                        "renamed":  "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "High Li+ Conductivity of Li1.3+xAl0.3−xMgxTi1.7(PO4)3 with Hybrid Solid Electrolytes for Solid‐State Lithium Batteries.pdf",
+                        "matched":  "High Li+ Conductivity of Li1.3+xAl0.3−xMgxTi1.7(PO4)3 with Hybrid Solid Electrolytes for Solid‐State Lithium Batteries",
+                        "renamed":  "High Li+ Conductivity of Li1.3+xAl0.3−xMgxTi1.7(PO4)3 with Hybrid Solid Electrolytes for Solid‐State Lithium Batteries.pdf",
+                        "score":  0.93
+                    },
+                    {
+                        "file":  "High-performance perovskite quantum dot solar cells enabled by incorporation with dimensionally engineered organic semiconductor.pdf",
+                        "matched":  "High-performance perovskite quantum dot solar cells enabled by incorporation with dimensionally engineered organic semiconductor",
+                        "renamed":  "High-performance perovskite quantum dot solar cells enabled by incorporation with dimensionally engineered organic semiconductor.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "High-Power Hydro-Actuators Fabricated from Biomimetic Carbon Nanotube Coiled Yarns with Fast Electrothermal Recovery.pdf",
+                        "matched":  "High-power hydro-actuators fabricated from biomimetic carbon nanotube coiled yarns with fast electrothermal recovery",
+                        "renamed":  "High-Power Hydro-Actuators Fabricated from Biomimetic Carbon Nanotube Coiled Yarns with Fast Electrothermal Recovery.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "High-Throughput Screening on Halide Perovskite Derivatives and Rational Design of Cs3LuCl6.pdf",
+                        "matched":  "High-Throughput Screening on Halide Perovskite Derivatives and Rational Design of Cs3LuCl6",
+                        "renamed":  "High-Throughput Screening on Halide Perovskite Derivatives and Rational Design of Cs3LuCl6.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Highly Stable Zero-Dimensional Lead-Free Metal Halides for X-ray Imaging.pdf",
+                        "matched":  "Highly stable zero-dimensional lead-free metal halides for X-ray imaging",
+                        "renamed":  "Highly Stable Zero-Dimensional Lead-Free Metal Halides for X-ray Imaging.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Highly tunable, polarization-engineered two-dimensional electron gas in ε-AlGaO3ε-Ga2O3 heterostructures.pdf",
+                        "matched":  "Highly tunable, polarization-engineered two-dimensional electron gas in ε-AlGaO3/ε-Ga2O3 heterostructures",
+                        "renamed":  "Highly tunable, polarization-engineered two-dimensional electron gas in ε-AlGaO3ε-Ga2O3 heterostructures.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Holey wrinkled-multilayered graphene scaffolds for uniform Li-ion flux enabling high-performance lithium metal anodes.pdf",
+                        "matched":  "Holey wrinkled-multilayered graphene scaffolds for uniform Li-ion flux enabling high-performance lithium metal anodes",
+                        "renamed":  "Holey wrinkled-multilayered graphene scaffolds for uniform Li-ion flux enabling high-performance lithium metal anodes.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based Analysis.pdf",
+                        "matched":  "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based Analysis",
+                        "renamed":  "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based Analysis.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Insights Into Improving the Li‐Ion Transference Number and Li Deposition Uniformity Toward a High‐Current‐Density Lithium Metal Anode.pdf",
+                        "matched":  "Insights Into Improving the Li‐Ion Transference Number and Li Deposition Uniformity Toward a High‐Current‐Density Lithium Metal Anode",
+                        "renamed":  "Insights Into Improving the Li‐Ion Transference Number and Li Deposition Uniformity Toward a High‐Current‐Density Lithium Metal Anode.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Interface-dependent spin-reorientation energy barrier in FeMgO (001) thin film.pdf",
+                        "matched":  "Interface-dependent spin-reorientation energy barrier in Fe/MgO (001) thin film",
+                        "renamed":  "Interface-dependent spin-reorientation energy barrier in FeMgO (001) thin film.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Intrinsic point defects and intergrowths in layered bismuth triiodide.pdf",
+                        "matched":  "Intrinsic point defects and intergrowths in layered bismuth triiodide",
+                        "renamed":  "Intrinsic point defects and intergrowths in layered bismuth triiodide.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batterie.pdf",
+                        "matched":  "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batteries",
+                        "renamed":  "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batterie.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Investigation on the effect of metal incorporation in metal selenide nanoparticles and their encapsulation in hollow carbon nanospheres on i.pdf",
+                        "matched":  "Investigation on the effect of metal incorporation in metal selenide nanoparticles and their encapsulation in hollow carbon nanospheres on improving the sodium-ion battery …",
+                        "renamed":  "Investigation on the effect of metal incorporation in metal selenide nanoparticles and their encapsulation in hollow carbon nanospheres on i.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility.pdf",
+                        "matched":  "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility",
+                        "renamed":  "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "KBaTeBiO6 A Lead-Free, Inorganic Double-Perovskite Semiconductor for Photovoltaic Applications.pdf",
+                        "matched":  "KBaTeBiO6: A Lead-Free, Inorganic Double-Perovskite Semiconductor for Photovoltaic Applications",
+                        "renamed":  "KBaTeBiO6 A Lead-Free, Inorganic Double-Perovskite Semiconductor for Photovoltaic Applications.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Large-Scale Mechanochemical Synthesis of Cesium Lanthanide Chloride for Radioluminescence.pdf",
+                        "matched":  "Large-Scale Mechanochemical Synthesis of Cesium Lanthanide Chloride for Radioluminescence",
+                        "renamed":  "Large-Scale Mechanochemical Synthesis of Cesium Lanthanide Chloride for Radioluminescence.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Long‐Lasting, Steady and Enhanced Energy Harvesting by Inserting a Conductive Layer into the Piezoelectric Polymer.pdf",
+                        "matched":  "Long‐Lasting, Steady and Enhanced Energy Harvesting by Inserting a Conductive Layer into the Piezoelectric Polymer",
+                        "renamed":  "Long‐Lasting, Steady and Enhanced Energy Harvesting by Inserting a Conductive Layer into the Piezoelectric Polymer.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory (2).pdf",
+                        "matched":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory",
+                        "renamed":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory (2).pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory.pdf",
+                        "matched":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory",
+                        "renamed":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Metal‐nitrogen‐carbon cluster‐decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst (2).pdf",
+                        "matched":  "Metal‐nitrogen‐carbon cluster‐decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst",
+                        "renamed":  "Metal‐nitrogen‐carbon cluster‐decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst (2).pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Metal‐nitrogen‐carbon cluster‐decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst.pdf",
+                        "matched":  "Metal‐nitrogen‐carbon cluster‐decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst",
+                        "renamed":  "Metal‐nitrogen‐carbon cluster‐decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Modulation of Molybdenum oxidation state via Catalytic-oxidation.pdf",
+                        "matched":  "Modulation of Molybdenum oxidation state via Catalytic-oxidation",
+                        "renamed":  "Modulation of Molybdenum oxidation state via Catalytic-oxidation.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication.pdf",
+                        "matched":  "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
+                        "renamed":  "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "New Class of Electrocatalysts Based on 2D Transition Metal Dichalcogenides in Ionic Liquid.pdf",
+                        "matched":  "New class of electrocatalysts based on 2D transition metal dichalcogenides in ionic liquid",
+                        "renamed":  "New Class of Electrocatalysts Based on 2D Transition Metal Dichalcogenides in Ionic Liquid.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment.pdf",
+                        "matched":  "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
+                        "renamed":  "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Oxygen vacancy chain formation in TiO2 under external strain for resistive switching memory.pdf",
+                        "matched":  "Oxygen vacancy chain formation in TiO2 under external strain for resistive switching memory",
+                        "renamed":  "Oxygen vacancy chain formation in TiO2 under external strain for resistive switching memory.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Phase Evolution in La-Alloyed β-Ga2O3 Nanofibers Experimental and DFT Simulation Insights.pdf",
+                        "matched":  "Phase Evolution in La-Alloyed β-Ga2O3 Nanofibers: Experimental and DFT Simulation Insights",
+                        "renamed":  "Phase Evolution in La-Alloyed β-Ga2O3 Nanofibers Experimental and DFT Simulation Insights.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Plasma-enhanced atomic layer deposition assisted low-temperature synthetic routes to rationally designed metastable C-axis aligned hexagonal.pdf",
+                        "matched":  "Plasma-enhanced atomic layer deposition assisted low-temperature synthetic routes to rationally designed metastable C-axis aligned hexagonal In-Zn-O",
+                        "renamed":  "Plasma-enhanced atomic layer deposition assisted low-temperature synthetic routes to rationally designed metastable C-axis aligned hexagonal.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Predicting the Synthesizability of Double Perovskite Halides via Interface Reaction Pathfinding.pdf",
+                        "matched":  "Predicting the synthesizability of double perovskite halides via interface reaction pathfinding",
+                        "renamed":  "Predicting the Synthesizability of Double Perovskite Halides via Interface Reaction Pathfinding.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Quantum Floquet spectra of surface and bulk state of topological insulator.pdf",
+                        "matched":  "Quantum Floquet spectra of surface and bulk state of topological insulator",
+                        "renamed":  "Quantum Floquet spectra of surface and bulk state of topological insulator.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Quasi‐Binary Transition Metal Dichalcogenide Alloys Thermodynamic Stability Prediction, Scalable Synthesis, and Application.pdf",
+                        "matched":  "Quasi‐Binary Transition Metal Dichalcogenide Alloys: Thermodynamic Stability Prediction, Scalable Synthesis, and Application",
+                        "renamed":  "Quasi‐Binary Transition Metal Dichalcogenide Alloys Thermodynamic Stability Prediction, Scalable Synthesis, and Application.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Rational design strategy for triboelectric nanogenerators based on electron back flow and ionic defects the case of polytetrafluoroethylene.pdf",
+                        "matched":  "Rational design strategy for triboelectric nanogenerators based on electron back flow and ionic defects: the case of polytetrafluoroethylene",
+                        "renamed":  "Rational design strategy for triboelectric nanogenerators based on electron back flow and ionic defects the case of polytetrafluoroethylene.pdf",
+                        "score":  0.94
+                    },
+                    {
+                        "file":  "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries.pdf",
+                        "matched":  "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries",
+                        "renamed":  "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Residual strain optimization in 3D MOSFET structures for enhanced mobility via nanoscale heat transfer.pdf",
+                        "matched":  "Residual strain optimization in 3D MOSFET structures for enhanced mobility via nanoscale heat transfer",
+                        "renamed":  "Residual strain optimization in 3D MOSFET structures for enhanced mobility via nanoscale heat transfer.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Reversible switching performance of water droplet-driven triboelectric nanogenerators using a magnetocontrollable lubricant-infused surface.pdf",
+                        "matched":  "Reversible switching performance of water droplet-driven triboelectric nanogenerators using a magnetocontrollable lubricant-infused surface for sustainable power generation",
+                        "renamed":  "Reversible switching performance of water droplet-driven triboelectric nanogenerators using a magnetocontrollable lubricant-infused surface.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN.pdf",
+                        "matched":  "Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN",
+                        "renamed":  "Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Self‐Reinforcing Degradation of Solution‐Processed Small‐Molecule OLEDs Excited‐States and Molecular Interactions as Key Triggers.pdf",
+                        "matched":  "Self‐Reinforcing Degradation of Solution‐Processed Small‐Molecule OLEDs: Excited‐States and Molecular Interactions as Key Triggers",
+                        "renamed":  "Self‐Reinforcing Degradation of Solution‐Processed Small‐Molecule OLEDs Excited‐States and Molecular Interactions as Key Triggers.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Serpentine-pattern effects on the biaxial stretching of percolative graphene nanoflake films.pdf",
+                        "matched":  "Serpentine-pattern effects on the biaxial stretching of percolative graphene nanoflake films",
+                        "renamed":  "Serpentine-pattern effects on the biaxial stretching of percolative graphene nanoflake films.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Site preference of Ni in Pb (Fe12Nb12) O3 during additive compositional modification.pdf",
+                        "matched":  "Site preference of Ni in Pb (Fe1/2Nb1/2) O3 during additive compositional modification",
+                        "renamed":  "Site preference of Ni in Pb (Fe12Nb12) O3 during additive compositional modification.pdf",
+                        "score":  0.88
+                    },
+                    {
+                        "file":  "Solvent‐Tuned Plasticity for Various Binder‐Free Applications of a New Lead‐Free Manganese Halide.pdf",
+                        "matched":  "Solvent‐Tuned Plasticity for Various Binder‐Free Applications of a New Lead‐Free Manganese Halide",
+                        "renamed":  "Solvent‐Tuned Plasticity for Various Binder‐Free Applications of a New Lead‐Free Manganese Halide.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Spin-polarized bandgap of graphene induced by alternative chemisorption with MgO (1 1 1) substrate.pdf",
+                        "matched":  "Spin-polarized bandgap of graphene induced by alternative chemisorption with MgO (1 1 1) substrate",
+                        "renamed":  "Spin-polarized bandgap of graphene induced by alternative chemisorption with MgO (1 1 1) substrate.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Strain Engineering and Two-Dimensional Electron Gas in Polar ε-Ga2O3.pdf",
+                        "matched":  "Strain Engineering and Two-Dimensional Electron Gas in Polar ε-Ga2O3",
+                        "renamed":  "Strain Engineering and Two-Dimensional Electron Gas in Polar ε-Ga2O3.pdf",
+                        "score":  0.78
+                    },
+                    {
+                        "file":  "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast kinetics.pdf",
+                        "matched":  "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast kinetics",
+                        "renamed":  "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast kinetics.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Systematic determination of the optimized Zr content of Ba(ZrxTi1-x)O3 with high dielectric constant at room temperature for high-voltage sy.pdf",
+                        "matched":  "Systematic determination of the optimized Zr content of Ba(ZrxTi1-x)O3 with high dielectric constant at room temperature for high-voltage system application",
+                        "renamed":  "Systematic determination of the optimized Zr content of Ba(ZrxTi1-x)O3 with high dielectric constant at room temperature for high-voltage sy.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Tailoring Rigid Segments in Dopant-Free Polymeric Hole Transport Materials for Perovskite Quantum Dot Solar Cells.pdf",
+                        "matched":  "Tailoring rigid segments in dopant-free polymeric hole transport materials for perovskite quantum dot solar cells",
+                        "renamed":  "Tailoring Rigid Segments in Dopant-Free Polymeric Hole Transport Materials for Perovskite Quantum Dot Solar Cells.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "The Significance of an In Situ ALD Al2O3 Stacked Structure for p‐Type SnO TFT Performance and Monolithic All‐ALD‐Channel CMOS Inverter Appli.pdf",
+                        "matched":  "The Significance of an In Situ ALD Al2O3 Stacked Structure for p‐Type SnO TFT Performance and Monolithic All‐ALD‐Channel CMOS Inverter Applications",
+                        "renamed":  "The Significance of an In Situ ALD Al2O3 Stacked Structure for p‐Type SnO TFT Performance and Monolithic All‐ALD‐Channel CMOS Inverter Appli.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge.pdf",
+                        "matched":  "Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge",
+                        "renamed":  "Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Towards ultra-stable and dendrite-suppressed Li-metal batteries Ion-regulating graphene-modified separators.pdf",
+                        "matched":  "Towards ultra-stable and dendrite-suppressed Li-metal batteries: Ion-regulating graphene-modified separators",
+                        "renamed":  "Towards ultra-stable and dendrite-suppressed Li-metal batteries Ion-regulating graphene-modified separators.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Tunable Indirect to Direct Band Gap Transition of Monolayer Sc2CO2 by the Strain Effect.pdf",
+                        "matched":  "Tunable Indirect to Direct Band Gap Transition of Monolayer Sc2CO2 by the Strain Effect",
+                        "renamed":  "Tunable Indirect to Direct Band Gap Transition of Monolayer Sc2CO2 by the Strain Effect.pdf",
+                        "score":  0.91
+                    },
+                    {
+                        "file":  "Twist-Stabilized, Coiled Carbon Nanotube Yarns with Enhanced Capacitance.pdf",
+                        "matched":  "Twist-stabilized, coiled carbon nanotube yarns with enhanced capacitance",
+                        "renamed":  "Twist-Stabilized, Coiled Carbon Nanotube Yarns with Enhanced Capacitance.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Ultra‐High Mobility Atomically‐Ordered InGaZnO Transistors Through Atomic Layer Deposition.pdf",
+                        "matched":  "Ultra‐High Mobility Atomically‐Ordered InGaZnO Transistors Through Atomic Layer Deposition",
+                        "renamed":  "Ultra‐High Mobility Atomically‐Ordered InGaZnO Transistors Through Atomic Layer Deposition.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Uncertainty and Irreproducibility of Triboelectricity Based on Interface Mechanochemistry.pdf",
+                        "matched":  "Uncertainty and irreproducibility of triboelectricity based on interface mechanochemistry",
+                        "renamed":  "Uncertainty and Irreproducibility of Triboelectricity Based on Interface Mechanochemistry.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Understanding the Electrokinetic Role of Ions on Electricity Generation in Droplet-Based Hydrovoltaic Systems.pdf",
+                        "matched":  "Understanding the electrokinetic role of ions on electricity generation in droplet-based hydrovoltaic systems",
+                        "renamed":  "Understanding the Electrokinetic Role of Ions on Electricity Generation in Droplet-Based Hydrovoltaic Systems.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Uniform Synthesis of Bilayer Hydrogen Substituted Graphdiyne for Flexible Piezoresistive Applications.pdf",
+                        "matched":  "Uniform synthesis of bilayer hydrogen substituted graphdiyne for flexible piezoresistive applications",
+                        "renamed":  "Uniform Synthesis of Bilayer Hydrogen Substituted Graphdiyne for Flexible Piezoresistive Applications.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Water trapping at the grapheneAl2O3 interface.pdf",
+                        "matched":  "Water trapping at the graphene/Al2O3 interface",
+                        "renamed":  "Water trapping at the grapheneAl2O3 interface.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Why does water in porous carbon generate electricity Electrokinetic role of protons in a water droplet-induced hydrovoltaic system of hydrop.pdf",
+                        "matched":  "Why does water in porous carbon generate electricity? Electrokinetic role of protons in a water droplet-induced hydrovoltaic system of hydrophilic porous carbon",
+                        "renamed":  "Why does water in porous carbon generate electricity Electrokinetic role of protons in a water droplet-induced hydrovoltaic system of hydrop.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "Work function tuning of an ultrathin MgO film on an Ag substrate by generating oxygen impurities at the interface.pdf",
+                        "matched":  "Work function tuning of an ultrathin MgO film on an Ag substrate by generating oxygen impurities at the interface",
+                        "renamed":  "Work function tuning of an ultrathin MgO film on an Ag substrate by generating oxygen impurities at the interface.pdf",
+                        "score":  1
+                    },
+                    {
+                        "file":  "γ-ray induced microstructure modulation for enhanced output performance of polyimide-based piezoelectric composites.pdf",
+                        "matched":  "γ-ray induced microstructure modulation for enhanced output performance of polyimide-based piezoelectric composites",
+                        "renamed":  "γ-ray induced microstructure modulation for enhanced output performance of polyimide-based piezoelectric composites.pdf",
+                        "score":  1
+                    }
+                ]
+}

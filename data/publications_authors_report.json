@@ -1,0 +1,389 @@
+﻿{
+    "unmatched":  [
+                      {
+                          "title":  "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3",
+                          "score":  0.13333333333333333
+                      },
+                      {
+                          "title":  "Modeling of 2DEG Formation at Polar ε-(AlGa) 2O3/ε-Ga2O3 Heterojunctions",
+                          "score":  0.17647058823529413
+                      },
+                      {
+                          "title":  "Transition Metal-Based Catalysts on Stable and Corrosion-Resistant Supports for Oxygen Reduction Reaction",
+                          "score":  0.2
+                      },
+                      {
+                          "title":  "Multiscale Insights Enable Rational Design of Ptfe Fibrillation in Dry Electrodes for High-Energy-Density Lithium-Ion Batteries",
+                          "score":  0.27272727272727271
+                      }
+                  ],
+    "extraction_failed":  [
+                              {
+                                  "title":  "Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge",
+                                  "file":  "Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge.pdf"
+                              },
+                              {
+                                  "title":  "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batteries",
+                                  "file":  "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batteries.pdf"
+                              },
+                              {
+                                  "title":  "Dominant Effects of Epitaxial Strain on the Phase Control of Heterostructural (InxGa1–x)2O3 Alloys",
+                                  "file":  "Dominant Effects of Epitaxial Strain on the Phase Control of Heterostructural (InxGa1–x)2O3 Alloys.pdf"
+                              },
+                              {
+                                  "title":  "New class of electrocatalysts based on 2D transition metal dichalcogenides in ionic liquid",
+                                  "file":  "New class of electrocatalysts based on 2D transition metal dichalcogenides in ionic liquid.pdf"
+                              },
+                              {
+                                  "title":  "Strain Engineering and Two-Dimensional Electron Gas in Polar ε-Ga2O3",
+                                  "file":  "Strain Engineering and Two-Dimensional Electron Gas in Polar ε-Ga2O3.pdf"
+                              },
+                              {
+                                  "title":  "First-principles study of point defects in β-Ga2O3",
+                                  "file":  "First-principles study of point defects in β-Ga2O3.pdf"
+                              },
+                              {
+                                  "title":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films",
+                                  "file":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films.pdf"
+                              },
+                              {
+                                  "title":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer",
+                                  "file":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer.pdf"
+                              },
+                              {
+                                  "title":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field",
+                                  "file":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field.pdf"
+                              },
+                              {
+                                  "title":  "Effects of uniaxial strains on the magnetic properties and the electronic structures of Fe/graphene system: An ab initio study",
+                                  "file":  "Effects of uniaxial strains on the magnetic properties and the electronic structures of Fegraphene system An ab initio study.pdf"
+                              }
+                          ],
+    "initials_remaining":  [
+                               {
+                                   "title":  "γ-ray induced microstructure modulation for enhanced output performance of polyimide-based piezoelectric composites",
+                                   "authors":  "Dong Yeol Hyeon, Gyoung-Ja Lee, Hyeon Jun Park, Dong Won Jeon, Han Uk Lee, Sung Beom Cho, Jaehun An, Nagamalleswara Rao Alluri, Young Hoon Jung, Changyeon Baek, HakSu Jang, SungHoon Kim, Keon Jae Lee, Min-Ku Lee"
+                               },
+                               {
+                                   "title":  "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
+                                   "authors":  "Jun Hyuk Kang, Woojin Jeong, Min Sung Kang, Hyeon Woo Kim, Dong Won Jeon, Han Uk Lee, Ji Hoon Hong, Seungmin Han3, Minseok Kim5, Subi Yang6, Dongsoo Lee, Patrick Joohyun Kim6, Taeseup Song, Moonsu Yoon5, Laisuo Su, Junghyun Choi \u0026 Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers",
+                                   "authors":  "Wonkyeong Son, Jae Myeong Lee, Hyunji Seo, Gyu Hyeon Song, Seon Jeong Kim, Sooncheol Kwon2, Sung Beom Cho3, Sungwoo Chun4, Shi Hyeong Kim5, most previous studies have relied on"
+                               },
+                               {
+                                   "title":  "Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge",
+                                   "authors":  "H Kim, T Jeon, S Choi, JH Hong, DW Jeon, GY Baek, GW Kwak, DH Lee, ..."
+                               },
+                               {
+                                   "title":  "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries (Adv. Funct. Mater. 48/2025)",
+                                   "authors":  "Seungho Lee, Dongsoo Lee, Junhyuk Kang, Subi Yang, Min Sung Kang, Wooseop Jo, Jihoon Seo, Sung Beom Cho, Patrick Joohyun Kim, Junghyun Choi"
+                               },
+                               {
+                                   "title":  "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries",
+                                   "authors":  "Seungho Lee, Dongsoo Lee, Junhyuk Kang, Subi Yang, Min Sung Kang, Wooseop Jo, Jihoon Seo, Sung Beom Cho, Patrick Joohyun Kim, Junghyun Choi"
+                               },
+                               {
+                                   "title":  "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based Analysis",
+                                   "authors":  "Su Yeon Jang, Dong Won Jeon, Hyeon Woo Kim, Jin-Sung Park, Sung Beom Cho, making it"
+                               },
+                               {
+                                   "title":  "Holey wrinkled-multilayered graphene scaffolds for uniform Li-ion flux enabling high-performance lithium metal anodes",
+                                   "authors":  "Sangyeop Kim, Incheol Heo, Jun Hyuk Kang, Min Seok Kang, Junsung Lee, Hee Soo Kim, Dong-Ha Lim, Sung Beom Cho, Won Cheol Yoo"
+                               },
+                               {
+                                   "title":  "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast kinetics",
+                                   "authors":  "Wootaek Choi, Min Sung Kang, Kwanghyun Kim, Han Uk Lee, Sung Beom Cho, Junghyun Choi, Patrick Joohyun Kim"
+                               },
+                               {
+                                   "title":  "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batteries",
+                                   "authors":  "G Park, DW Jeon, IS Jang, BJ Ahn, K Baek, BY Song, E Kim, J Bang, ..."
+                               },
+                               {
+                                   "title":  "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries",
+                                   "authors":  "Dong Won Jeon, Wootaek Choi, Jun Hyuk Kang, Hyeon Woo Kim, Min Sung Kang, Woongchan Kim, Han Uk Lee, Hyunseok Ko, Patrick Joohyun Kim, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN",
+                                   "authors":  "Jeongwoon Kim, Hyeon Woo Kim, Jongil Kim, Je-Sung Lee, Hoe-Min Kwak, Jaeyoung Baik, Soo-Young Choi, Jinsoo Kim, Si-Young Bae, Sang-Jo Kim, Jun-Youn Kim, Il Jeon, Sung Beom Cho, Sang Ho Oh, Young Joon Hong, Dong-Seon Lee"
+                               },
+                               {
+                                   "title":  "Investigation on the effect of metal incorporation in metal selenide nanoparticles and their encapsulation in hollow carbon nanospheres on improving the sodium-ion battery …",
+                                   "authors":  "Seul Jeong, Ki Beom Kim, Mingyu Jeon, Ju Young Kim, Jin Hyeong Lee, Su Yeon Jang, Dong Won Jeon, Ji Myeon Park, Yeon Woo Nahm, Chung-Yul Yoo, Donghun Kim, Jung-Hoon Lee, Sung Beom Cho, Yun Chan Kang, Jin-Sung Park"
+                               },
+                               {
+                                   "title":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film",
+                                   "authors":  "Trong Si Ngo, Soon-Ku Hong, Hyeon Woo Kim, Sung Beom Cho, Young Heon Kim, Nguyen Quoc Vuong, Hu Young Jeong, Raouf Hayyak, Taswar Iqbal, Dae-Woo Jeon, Ji-Hyeon Park, Jae Kyoung Mun"
+                               },
+                               {
+                                   "title":  "Site preference of Ni in Pb (Fe1/2Nb1/2) O3 during additive compositional modification",
+                                   "authors":  "Ahrom Ryu, Ji-Hun Park, Dong Won Jeon, Jae-Hyeon Cho, Haena Yim, Keun Hwa Chae, Seong . Kim, Sahn Nahm, Sung Beom Cho, Wook Jo"
+                               },
+                               {
+                                   "title":  "Gasochromic WO3/MoO3 sensors prepared by co-sputtering for hydrogen leak detection with long-lasting visible signal",
+                                   "authors":  "Chiwan Park, Seung-Ik Han, Le Thai Duy, Rubaya Yeasmin, Gwanggyo Jung, Dong Won Jeon, Woongchan Kim, Sung Beom Cho, Hyungtak Seo"
+                               },
+                               {
+                                   "title":  "Solvent‐Tuned Plasticity for Various Binder‐Free Applications of a New Lead‐Free Manganese Halide",
+                                   "authors":  "Joo Hyeong Han, Jeong Min Seo, San Ha Choi, Jae Geon Noh, Jeong Wan Min, Yu Ri Kim, Hyeon Woo Kim, Sung Beom Cho, Bo Kyung Cha, and Won Bin Im lifespan, and low power consumption., Won Bin Im"
+                               },
+                               {
+                                   "title":  "Long‐Lasting, Steady and Enhanced Energy Harvesting by Inserting a Conductive Layer into the Piezoelectric Polymer",
+                                   "authors":  "HakSu Jang, Gwang Hyeon Kim, Dong Won Jeon, Hyeon Jun Park, BitNa Bae, Nagamalleswara Rao Alluri, Cheol Min Kim, Changyeon Baek, Min-Ku Lee, Sung Beom Cho, Gyoung-Ja Lee, Kwi-Il Park"
+                               },
+                               {
+                                   "title":  "First-Principle Insights into Positive Triboelectrification of Polyoxymethylene Through Homolytic Bond Rupture",
+                                   "authors":  "Giulio Fatti, Hyunseok Ko, Sung Beom Cho Technology (KICET), as most polymers tend to charge, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Residual strain optimization in 3D MOSFET structures for enhanced mobility via nanoscale heat transfer",
+                                   "authors":  "comprehensive comparative analysis of 7nm FinFET, 7nm GAAFET"
+                               },
+                               {
+                                   "title":  "Enhanced electrical properties and stability of solution processed IYZO thin film transistors by controlling deep level oxygen vacancies",
+                                   "authors":  "ab Hyeon Woo Kim, ac Bo Ram Lee, ab Eun Jin Park"
+                               },
+                               {
+                                   "title":  "Self‐Reinforcing Degradation of Solution‐Processed Small‐Molecule OLEDs: Excited‐States and Molecular Interactions as Key Triggers",
+                                   "authors":  "Eonji Cha, Junwon Jeon, Hyeon Woo Kim, Han Uk Lee, Joo Yoon Woo, Jun-Su Yeo, Hyuk Bin Kwon, Sung Beom Cho, Tae-Hee Han candidates for cost-eﬃcient, scalable displays"
+                               },
+                               {
+                                   "title":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory",
+                                   "authors":  "Upendra Kumar, Hyeon Woo Kim, Gyanendra Kumar Maurya, Bincy Babu Raj, Sobhit Singh, Ajay Kumar Kushwaha, Sung Beom Cho, Hyunseok Ko"
+                               },
+                               {
+                                   "title":  "Towards ultra-stable and dendrite-suppressed Li-metal batteries: Ion-regulating graphene-modified separators",
+                                   "authors":  "Wootaek Choi, Minsu Park, Sujeong Woo, Hyeon Woo Kim, Min Sung Kang, Junghyun Choi, Sung Beom Cho, Taehoon Kim, Patrick Joohyun Kim, surface modification of"
+                               },
+                               {
+                                   "title":  "Large-Scale Mechanochemical Synthesis of Cesium Lanthanide Chloride for Radioluminescence",
+                                   "authors":  "Tuhin Samanta, Joo Hyeong Han, Han Uk Lee, Bo Kyung Cha, Yong Min Park, Noolu Srinivasa Manikanta Viswanath, Han Bin Cho, Hyeon Woo Kim, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Predicting the synthesizability of double perovskite halides via interface reaction pathfinding",
+                                   "authors":  "Woongchan Kim, Hyeon Woo Kim, Han Uk Lee, Min Sung Kang, Dong Won Jeon, Soo Won Heo, replacing the traditionally time-consuming trial-and-error method-"
+                               },
+                               {
+                                   "title":  "Uniform synthesis of bilayer hydrogen substituted graphdiyne for flexible piezoresistive applications",
+                                   "authors":  "Mukkath Joseph Josline, Soheil Ghods, Saikiran Kosame, Jun-Hui Choi, Woongchan Kim, Sein Kim, SooHyun Chang, Sang Hwa Hyun, Seung-Il Kim, Ji-Yun Moon, Hyeong Gi Park, Sung Beom Cho, Heongkyu Ju, and Jae-Hyun Lee"
+                               },
+                               {
+                                   "title":  "Systematic determination of the optimized Zr content of Ba(ZrxTi1-x)O3 with high dielectric constant at room temperature for high-voltage system application",
+                                   "authors":  "Jandi Kim1, Ji Hye Seo1, Sang Heun Lee1, Myunghee Cho1, Hun Kwak1, Ran Sae Cheon1, Seungchan Cho3, Sung Beom Cho5, Minkee Kim7, Yoon‑Seok Lee8, Yangdo Kim2, ferroelectric material"
+                               },
+                               {
+                                   "title":  "Demystifying role of local distortion in emission colors tuning of lead-free zero-dimensional metal halide nanocrystals",
+                                   "authors":  "Tuhin Samanta, Noolu Srinivasa Manikanta Viswanath, Hyeon Woo Kim, Sung Woo Jang, Joo Hyeong Han, Sung Beom Cho, Won Bin Im"
+                               },
+                               {
+                                   "title":  "High Li+ Conductivity of Li1.3+xAl0.3−xMgxTi1.7(PO4)3 with Hybrid Solid Electrolytes for Solid‐State Lithium Batteries",
+                                   "authors":  "Haena Kim, Mahammad Raﬁ Shaik, Sukju Kim, Yong Min Park, Dong Won Jeon, Sung Beom Cho, Sungho Choi, Won Bin Im"
+                               },
+                               {
+                                   "title":  "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
+                                   "authors":  "atomic-scale without limitations of cell size, which was calculations. See Hyunseok Ko, Sung Beom Cho, Heechae Choi et al."
+                               },
+                               {
+                                   "title":  "Designing Pr-based advanced photoluminescent materials using machine learning and density functional theory",
+                                   "authors":  "In recent years, two distinct subclasses of Furthermore, perovskite oxide derivatives provide perovskites, halide perovskites"
+                               },
+                               {
+                                   "title":  "Rational design strategy for triboelectric nanogenerators based on electron back flow and ionic defects: the case of polytetrafluoroethylene",
+                                   "authors":  "Giulio Fatti, Alessandra Ciniero, Hyunseok Ko, Han Uk Lee, Yujin Na, Chang Kyu Jeong, Sang-Geul Lee, Dongyub Kwak, Kwi-Il Park, Sung Beom Cho, Daniele Dini"
+                               },
+                               {
+                                   "title":  "Uncertainty and irreproducibility of triboelectricity based on interface mechanochemistry",
+                                   "authors":  "Giulio Fatti, Hyunseung Kim, Changwan Sohn, Minah Park, Yeong-won Lim, Zhuohan Li, Kwi-Il Park, Izabela Szlufarska, Hyunseok Ko, Chang Kyu Jeong, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "A versatile strategy for hybridizing small experimental and large simulation data: A case for ceramic tape-casting process",
+                                   "authors":  "Jeong-Hun Kim, Hyunseok Ko, Dong-Hun Yeo, Zeehoon Park, Upendra Kumar, Kwan-Hee Yoo, Aziz Nasridinov, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility",
+                                   "authors":  "Han Uk Lee, Seungmin Han, Dong Geon Lee, Hyunseok Ko, Juhyun Lee, Won Bin Im, Taeseup Song, Junghyun Choi, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Understanding the electrokinetic role of ions on electricity generation in droplet-based hydrovoltaic systems",
+                                   "authors":  "Min Sung Kang, Hyunseok Ko, Seokhee Lee, Sung Beom Cho, and its electrical performance can"
+                               },
+                               {
+                                   "title":  "High-Throughput Screening on Halide Perovskite Derivatives and Rational Design of Cs3LuCl6",
+                                   "authors":  "Hyeon Woo Kim, Joo Hyeong Han, Hyunseok Ko, Tuhin Samanta, Dong Geon Lee, Dong Won Jeon, Woongchan Kim, Yong-Chae Chung, Won Bin Im, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Complementary functions of vanadium in boosting electrocatalytic activity of CuCoNiFeMn high‐entropy alloy for water splitting",
+                                   "authors":  "Arumugam Sivanantham, Hansung Lee, Sung Won Hwang, Han Uk Lee, Sung Beom Cho, Byungmin Ahn, In Sun Cho"
+                               },
+                               {
+                                   "title":  "Plasma-enhanced atomic layer deposition assisted low-temperature synthetic routes to rationally designed metastable C-axis aligned hexagonal In-Zn-O",
+                                   "authors":  "TaeHyun Hong, Hyeon Woo Kim, Yoon-Seo Kim, Hyun-Jun Jeong, Sung Beom Cho, the challenge lies in identifying their"
+                               },
+                               {
+                                   "title":  "The Significance of an In Situ ALD Al2O3 Stacked Structure for p‐Type SnO TFT Performance and Monolithic All‐ALD‐Channel CMOS Inverter Applications",
+                                   "authors":  "Hye-Mi Kim, Su-Hwan Choi, Han Uk Lee, Sung Beom Cho, interest in oxide"
+                               },
+                               {
+                                   "title":  "Modulation of Molybdenum oxidation state via Catalytic-oxidation",
+                                   "authors":  "Kangchun Lee, Seho Sun, Hyunseok Ko, Sung Beom Cho, Ganggyu Lee, Dongsoo Lee, Taeseup Song, Ungyu Paik"
+                               },
+                               {
+                                   "title":  "Tailoring rigid segments in dopant-free polymeric hole transport materials for perovskite quantum dot solar cells",
+                                   "authors":  "Dae Hwan Lee, Seyeong Lim, Chanhyeok Kim, Han Uk Lee, Dasol Chung, Yelim Choi, Jongmin Choi, Younghoon Kim, Sung Beom Cho, Hong Il Kim, Taiho Park"
+                               },
+                               {
+                                   "title":  "Enhanced Hydro-Actuation and Capacitance of Electrochemically Inner-Bundle-Activated Carbon Nanotube Yarns",
+                                   "authors":  "Wonkyeong Son, Jae Myeong Lee, Sungwoo Chun, Seongjun Yu, Jun Ho Noh, Hyeon Woo Kim, Sung Beom Cho, Seon Jeong Kim, Changsoon Choi"
+                               },
+                               {
+                                   "title":  "Why does water in porous carbon generate electricity? Electrokinetic role of protons in a water droplet-induced hydrovoltaic system of hydrophilic porous carbon",
+                                   "authors":  "by governing equations of hydrodynamics, ion transport, chemical reactions, and electrostatics. The protonation, See Sung Beom Cho et al., which leads, See Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Highly stable zero-dimensional lead-free metal halides for X-ray imaging",
+                                   "authors":  "Joo Hyeong Han, Tuhin Samanta, Yong Min Park, Ha Jun Kim, Noolu Srinivasa Manikanta Viswanath, Hyeon Woo Kim, Bo Kyung Cha, Sung Beom Cho, Won Bin Im"
+                               },
+                               {
+                                   "title":  "High-performance perovskite quantum dot solar cells enabled by incorporation with dimensionally engineered organic semiconductor",
+                                   "authors":  "The robust chemical bonding of Star-TrCN, PQDs is demonstrated by theoretical modeling, experimental validation, but also"
+                               },
+                               {
+                                   "title":  "Bandgap analysis of transition-metal dichalcogenide and oxide via machine learning approach",
+                                   "authors":  "Upendra Kumar, Km Arti Mishra, Ajay Kumar Kushwaha, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Dominant Effects of Epitaxial Strain on the Phase Control of Heterostructural (InxGa1–x)2O3 Alloys",
+                                   "authors":  "HU Lee, HW Kim, G Fatti, H Ko, SB Cho"
+                               },
+                               {
+                                   "title":  "Conformably skin-adherent piezoelectric patch with bioinspired hierarchically arrayed microsuckers enables physical energy amplification",
+                                   "authors":  "Da Wan Kim, Hyunseung Kim, Geon-Tae Hwang, Sung Beom Cho, Seung Hwan Jeon, Hyeon Woo Kim, Chang Kyu Jeong, Sungwoo Chun, Changhyun Pang"
+                               },
+                               {
+                                   "title":  "Establishment of a BaTiO3-based Computational Science Platform to Predict Multi-component Properties",
+                                   "authors":  "highest occupied molecular orbital energy), of Valence Electrons)"
+                               },
+                               {
+                                   "title":  "A pre-reaction suppressing strategy for α-Ga 2 O 3 halide vapor pressure epitaxy using asymmetric precursor gas flow",
+                                   "authors":  "Sunjae Kim, abf Hyeon Woo Kim, cd Hyeong-Yun Kim, ae Dae-Woo Jeon, pre-reaction between the main precursors, tube to which GaCl, GaCl3 are supplied"
+                               },
+                               {
+                                   "title":  "Front Cover: Metal‐Nitrogen‐Carbon Cluster‐Decorated Titanium Carbide is a Durable and Inexpensive Oxygen Reduction Reaction Electrocatalyst (ChemSusChem 21/2021)",
+                                   "authors":  "Sung Beom Cho+, Cheng He+, Shrihari Sankarasubramanian+, Arashdeep Singh Thind, Vijay Ramani, Rohan Mishra[, dispersed in carbon matrix (. ., selected catalyst formulations were, Rohan Mishra"
+                               },
+                               {
+                                   "title":  "Metal‐nitrogen‐carbon cluster‐decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst",
+                                   "authors":  "Sung Beom Cho+, Cheng He+, Shrihari Sankarasubramanian+, Arashdeep Singh Thind, Vijay Ramani, Rohan Mishra[, dispersed in carbon matrix (. ., selected catalyst formulations were, Rohan Mishra"
+                               },
+                               {
+                                   "title":  "Flexoelectric-boosted piezoelectricity of BaTiO3@ SrTiO3 core-shell nanostructure determined by multiscale simulations for flexible energy harvesters",
+                                   "authors":  "Yeon-gyu Kim, Hyunseung Kim, Gyoung-Ja Lee, Han-Uk Lee, Sang Gu Lee, Changyeon Baek, Min-Ku Lee, Jin-Ju Park, Qing Wang, Sung Beom Cho, Chang Kyu Jeong, Kwi-Il Park"
+                               },
+                               {
+                                   "title":  "Triboelectrification: Backflow and stuck charges are key",
+                                   "authors":  "Hyunseok Ko, Yeong-won Lim, Seungwu Han, Chang Kyu Jeong, Sung Beom Cho, straightforward framework of TE between metal"
+                               },
+                               {
+                                   "title":  "Highly tunable, polarization-engineered two-dimensional electron gas in ε-AlGaO3/ε-Ga2O3 heterostructures",
+                                   "authors":  "Praneeth Ranga1, Sung Beom Cho2, Rohan Mishra2, and Sriram Krishnamoorthy1 St. Louis, United States of America, Sriram Krishnamoorthy"
+                               },
+                               {
+                                   "title":  "Triboelectric Energy: A Micropillar‐Assisted Versatile Strategy for Highly Sensitive and Efficient Triboelectric Energy Generation under In‐Plane Stimuli (Adv. Mater. 2/2020)",
+                                   "authors":  "Sungwoo Chun, Changhyun Pang, wearable devices, the development of able application, the limited source of maintenance time, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "A micropillar‐assisted versatile strategy for highly sensitive and efficient triboelectric energy generation under in‐plane stimuli",
+                                   "authors":  "Sungwoo Chun, Changhyun Pang, wearable devices, the development of able application, the limited source of maintenance time, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Serpentine-pattern effects on the biaxial stretching of percolative graphene nanoflake films",
+                                   "authors":  "Junyeong Yun, Changhoon Song, Heun Wei Feng, Han-Yi Chen"
+                               },
+                               {
+                                   "title":  "KBaTeBiO6: A Lead-Free, Inorganic Double-Perovskite Semiconductor for Photovoltaic Applications",
+                                   "authors":  "Arashdeep Singh Thind, Shalinee Kavadiya, Mojgan Kouhnavard, Robin Wheelus, Sung Beom Cho, Liang-Yi Lin, Clayton Kacica, Hemant Kumar Mulmudi, Kinga . Unocic, Albina . Borisevich, Ghanshyam Pilania, Pratim Biswas, Rohan Mishra"
+                               },
+                               {
+                                   "title":  "Flexible Crossbar‐Structured Phase Change Memory Array via Mo‐Based Interfacial Physical Lift‐Off",
+                                   "authors":  "Do Hyun Kim, Han Eol Lee, Byoung Kuk You, Sung Beom Cho, Rohan Mishra, Il-Suk Kang, and Keon Jae Lee human–machine interface, based on their, Keon Jae Lee"
+                               },
+                               {
+                                   "title":  "New class of electrocatalysts based on 2D transition metal dichalcogenides in ionic liquid",
+                                   "authors":  "L Majidi, P Yasaei, RE Warburton, S Fuladi, J Cavin, X Hu, Z Hemmat, ..."
+                               },
+                               {
+                                   "title":  "Atomic structure and electrical activity of grain boundaries and Ruddlesden–Popper faults in cesium lead bromide perovskite",
+                                   "authors":  "Sung Beom Cho, Albina . Borisevich, Juan-Carlos Idrobo, Yangchuan Xing, Lead-halide perovskites, and CsPbBr3, have recently emerged as"
+                               },
+                               {
+                                   "title":  "Epitaxial engineering of polar ε-Ga2O3 for tunable two-dimensional electron gas at the heterointerface",
+                                   "authors":  "Sung Beom Cho1, Rohan Mishra1, interface of -Ga2O3, for example, Rohan Mishra"
+                               },
+                               {
+                                   "title":  "Strain Engineering and Two-Dimensional Electron Gas in Polar ε-Ga2O3",
+                                   "authors":  "SB Cho, R Mishra"
+                               },
+                               {
+                                   "title":  "Flexible highly-effective energy harvester via crystallographic and computational control of nanointerfacial morphotropic piezoelectric thin film",
+                                   "authors":  "Chang Kyu Jeong1, Sung Beom Cho3, Jae Hyun Han1, Dae Yong Park1, Suyoung Yang4, Kwi-Il Park5, Jungho Ryu6, Hoon Sohn4 (), Yong-Chae Chung3 (), and Keon Jae Lee1 () Yuseong-gu, Keon Jae Lee"
+                               },
+                               {
+                                   "title":  "First-principles study of point defects in β-Ga2O3",
+                                   "authors":  "Y Anguiano, SB Cho, R Mishra"
+                               },
+                               {
+                                   "title":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films",
+                                   "authors":  "X Chen, Y Myung, A Thind, Z Gao, B Yin, M Shen, SB Cho, P Cheng, ..."
+                               },
+                               {
+                                   "title":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer",
+                                   "authors":  "SB Cho, YC Chung"
+                               },
+                               {
+                                   "title":  "Electronic Properties of Transition‐Metal‐Decorated Silicene",
+                                   "authors":  "Youngbin Lee, Kyung-Han Yun, Sung Beom Cho, and Yong-Chae Chung studied, whereas Co"
+                               },
+                               {
+                                   "title":  "Spin-polarized bandgap of graphene induced by alternative chemisorption with MgO (1 1 1) substrate",
+                                   "authors":  "The cyan, blue balls represent the, there was very atoms, the substrate. () On the other hand, in the minority-spin channel, there was"
+                               },
+                               {
+                                   "title":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field",
+                                   "authors":  "Y Lee, Y Hwang, SB Cho, YC Chung"
+                               },
+                               {
+                                   "title":  "Work function tuning of an ultrathin MgO film on an Ag substrate by generating oxygen impurities at the interface",
+                                   "authors":  "Sung Beom Cho, Kyung-Han Yun, Dong Su Yoo, Kiyong Ahn, Yong-Chae Chung ⁎ interface of MgO/Ag, including interstitial oxygen defects, substitutional oxygen defects, the oxygen"
+                               },
+                               {
+                                   "title":  "Water trapping at the graphene/Al2O3 interface",
+                                   "authors":  "Jianhua Zhang, Gaoyang Zhao, Yapeng Li Yinxiang Lei, Yuping Yan, Jiajiang Lv"
+                               },
+                               {
+                                   "title":  "Configuration Dependency of Attached Epoxy Groups on Graphene Oxide Reduction: A Molecular Dynamics Simulation",
+                                   "authors":  "Kyung-Han Yun, Yubin Hwang, Minho Lee, Heechae Choi, Dong Su Yoo, Eung-Kwan Lee, Sung Beom Cho"
+                               },
+                               {
+                                   "title":  "Oxygen vacancy chain formation in TiO2 under external strain for resistive switching memory",
+                                   "authors":  "Dong Su Yoo, Kiyong Ahn, Sung Beom Cho, Minho Lee, using LDA+Ud +Up"
+                               },
+                               {
+                                   "title":  "Effects of uniaxial strains on the magnetic properties and the electronic structures of Fe/graphene system: An ab initio study",
+                                   "authors":  "H Choi, EK Lee, SB Cho, YC Chung"
+                               },
+                               {
+                                   "title":  "Interface-dependent spin-reorientation energy barrier in Fe/MgO (001) thin film",
+                                   "authors":  "and . Bruno, magnetoresistance in Fe/MgO/Fe tunnel junctions"
+                               },
+                               {
+                                   "title":  "γ-ray induced microstructure modulation for enhanced output performance of piezoelectric composites",
+                                   "authors":  "Dong Yeol Hyeon, Gyoung-Ja Lee, Hyeon Jun Park, Dong Won Jeon, Han Uk Lee, Sung Beom Cho, Jaehun An, Nagamalleswara Rao Alluri, Young Hoon Jung, Changyeon Baek, HakSu Jang, SungHoon Kim, Keon Jae Lee, Min-Ku Lee"
+                               },
+                               {
+                                   "title":  "Rational Material Design of Oxide Anode Coating Layer for Sulfide All-Solid-State Batteries",
+                                   "authors":  "Dong Won Jeon, Wootaek Choi, Jun Hyuk Kang, Hyeon Woo Kim, Min Sung Kang, Woongchan Kim, Han Uk Lee, Hyunseok Ko, Patrick Joohyun Kim, Sung Beom Cho"
+                               }
+                           ],
+    "updated":  91
+}

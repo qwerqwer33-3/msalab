@@ -1,0 +1,78 @@
+{
+    "pdf_unmatched":  [
+
+                      ],
+    "titles_missing_pdf":  [
+                               {
+                                   "title":  "Anode SHIELD: A Surface Hybrid Interlayer for High?Capacity Anodes Toward Safe and Stable Lithium?Ion Batteries",
+                                   "year":  2025
+                               },
+                               {
+                                   "title":  "Designing Pr-based advanced photoluminescent materials using machine learning and density functional theory",
+                                   "year":  2024
+                               },
+                               {
+                                   "title":  "Uncertainty and irreproducibility of triboelectricity based on interface mechanochemistry",
+                                   "year":  2023
+                               },
+                               {
+                                   "title":  "Front Cover: Metal?Nitrogen?Carbon Cluster?Decorated Titanium Carbide is a Durable and Inexpensive Oxygen Reduction Reaction Electrocatalyst (ChemSusChem 21/2021)",
+                                   "year":  2021
+                               },
+                               {
+                                   "title":  "Heterostructural phase diagram of Ga2O3?based solid solution with Al2O3",
+                                   "year":  2021
+                               },
+                               {
+                                   "title":  "A micropillar?assisted versatile strategy for highly sensitive and efficient triboelectric energy generation under in?plane stimuli",
+                                   "year":  2020
+                               },
+                               {
+                                   "title":  "Atomic structure and electrical activity of grain boundaries and Ruddlesden?Popper faults in cesium lead bromide perovskite",
+                                   "year":  2019
+                               },
+                               {
+                                   "title":  "Modeling of 2DEG Formation at Polar ех-(AlGa) 2O3/ех-Ga2O3 Heterojunctions",
+                                   "year":  2018
+                               },
+                               {
+                                   "title":  "Transition Metal-Based Catalysts on Stable and Corrosion-Resistant Supports for Oxygen Reduction Reaction",
+                                   "year":  2018
+                               },
+                               {
+                                   "title":  "Multiscale Insights Enable Rational Design of Ptfe Fibrillation in Dry Electrodes for High-Energy-Density Lithium-Ion Batteries",
+                                   "year":  2011
+                               },
+                               {
+                                   "title":  "Rational Material Design of Oxide Anode Coating Layer for Sulfide All-Solid-State Batteries",
+                                   "year":  2011
+                               },
+                               {
+                                   "title":  "еу-ray induced microstructure modulation for enhanced output performance of piezoelectric composites",
+                                   "year":  2011
+                               }
+                           ],
+    "duplicate_title_matches":  [
+                                    {
+                                        "title":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals",
+                                        "files":  [
+                                                      "Atomic structure and electrical activity of grain boundaries and Ruddlesden?Popper faults in cesium lead bromide perovskite.pdf",
+                                                      "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals.pdf"
+                                                  ]
+                                    },
+                                    {
+                                        "title":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory",
+                                        "files":  [
+                                                      "Designing Pr-based advanced photoluminescent materials using machine learning and density functional theory.pdf",
+                                                      "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory.pdf"
+                                                  ]
+                                    },
+                                    {
+                                        "title":  "Triboelectrification: Backflow and stuck charges are key",
+                                        "files":  [
+                                                      "Triboelectrification Backflow and stuck charges are key.pdf",
+                                                      "Uncertainty and irreproducibility of triboelectricity based on interface mechanochemistry.pdf"
+                                                  ]
+                                    }
+                                ]
+}

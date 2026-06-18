@@ -1,0 +1,135 @@
+J Adv Ceram
+                                                                                                                                       Research Article
+
+
+Investigation of the effects of heteroatom doping on von-Alpen-
+type NASICON electrolytes and its applications to solid-state
+sodium batteries
+Gunhee Park1,2,†, Dong Won Jeon3,4,†, Il-Seop Jang1,2, Byeong-Jun Ahn1,2, Kisang Baek1,2, Bo-Ye Song1,
+Eun-hye Kim1,2, Junho Bang1,2, Yun Chan Kang2,✉, Sung Beom Cho3,4,✉, Jinyoung Chun1,✉
+
+     Cite this article: Park G, Jeon DW, Jang I-S, et al. J Adv Ceram 2025, 14(9): 9221138. https://doi.org/10.26599/JAC.2025.9221138
+
+
+ABSTRACT: The development of electrolytes with high ionic
+conductivity and stable electrode–electrolyte interfaces is crucial for
+the practical realization of solid-state sodium batteries. In this study,
+the effect of heteroatom doping in a von-Alpen-type Na super ionic
+conductor (NASICON) was investigated by substituting Zr4+ with Mg2+,
+Zn2+, and La3+ to enhance its material properties and evaluate its
+potential for solid-state sodium battery applications. Computational
+chemistry was employed to predict the thermodynamic stability
+influenced by dopant introduction and the changes in ionic
+conductivity arising from crystal structure distortion, with the
+predictions validated by experiments. The optimized Zn2+-doped
+NASICON (Zn-NZSP0.07) exhibited the highest total ionic conductivity
+of 2.74×10−3 S∙cm−1, representing a 4.5-fold increase compared with undoped NASICON (6.00×10−4 S∙cm−1). The material also showed
+a high relative density of 99.1%, indicating a compact and well-sintered microstructure, as confirmed by a three-point bending test.
+Furthermore, a high critical current density of 1.4 mA∙cm−2 was achieved in symmetric cell testing. Additionally, a Na3V2(PO4)3||Zn-
+NZSP0.07||Na cell delivered an initial capacity of 103.9 mAh∙g−1 at 0.1 A∙g−1 and retained 73.4% of its capacity after 200 cycles. These
+results demonstrate that optimal heteroatom doping is crucial for enhancing the performance of NASICON.
+
+KEYWORDS: Na super ionic conductor (NASICON); solid-state sodium metal battery; heteroatom-doping; computational
+          chemistry; solid-state reaction
+
+
+1 Introduction                                                                    development of batteries that employ inorganic solid electrolytes
+                                                                                  as substitutes for liquid organic electrolytes has emerged as an
+Lithium-ion batteries (LIBs) are widely used in various electronic                alternative option [13−18]. Among the various candidates for
+devices, electric vehicles, and large-scale energy storage systems,               solid electrolytes, oxide-based solid electrolytes exhibit high
+with demand continuing to rise [1−5]. However, lithium is heavily                 thermal and chemical stability, as well as a wide electrochemical
+concentrated in certain countries, making its price highly volatile               window, enabling battery operation over a broad temperature
+[6]. Additionally, the liquid organic electrolytes used in LIBs                   range [19−22]. Consequently, significant research is being
+present issues such as flammability, leakage, and volatility [7]. To              conducted in this area [23,24]. NASICON (Na super ionic
+address these drawbacks, it is essential to develop more cost-                    conductor), a representative oxide-based solid electrolyte, has
+effective and stable batteries. Sodium-ion batteries (SIBs) are a                 relatively high ionic conductivity (~10−4 S∙cm−1) compared with
+promising alternative to LIBs; they not only share structural                     other oxide solid electrolytes and remains stable in the presence of
+similarities with LIBs but also utilize Na+, one of the most                      moisture, making it suitable for applications in advanced sodium-
+abundant resources on Earth, which offers potential cost                          based battery technologies, including solid-state sodium batteries,
+reduction benefits [8−11]. However, safety concerns persist due to                hybrid sodium-air batteries, and seawater batteries [25,26].
+the use of liquid organic electrolytes [12]. As a solution, the                      The NASICON compound was first proposed in 1976 by
+
+† Gunhee Park and Dong Won Jeon contributed equally to this work.
+1
+ Emerging Materials R & D Division, Korea Institute of Ceramic Engineering and Technology (KICET), Jinju 52851, Republic of Korea. 2 Department of Materials
+Science and Engineering, Korea University, Seoul 02841, Republic of Korea. 3 Department of Materials Science and Engineering, Ajou University, Suwon 16499,
+Republic of Korea. 4 Department of Energy Systems Research, Ajou University, Suwon 16499, Republic of Korea.
+✉ Corresponding authors. E-mail: J. Chun, jchun@kicet.re.kr; S. Cho, csb@ajou.ac.kr; Y. Kang, yckang@korea.ac.kr
+Received: May 21, 2025; Revised: July 4, 2025; Accepted: July 18, 2025
+© The Author(s) 2025. This is an open access article under the terms of the Creative Commons Attribution 4.0 International License (CC BY 4.0,
+http://creativecommons.org/licenses/by/4.0/).
+
+
+https://doi.org/10.26599/JAC.2025.9221138
+9221138-2                                                                                                    Park G, Jeon DW, Jang I-S, et al.
+
+
+Goodenough et al. [27] and Hong [28]. Structurally, this                ionic movement. Based on various reports on heteroatom doping
+compound forms a three-dimensional framework through the                in H-NASICON, we predicted the behavior of vA-NASICON
+sharing of oxygen atoms between PO4(SiO4) tetrahedra and ZrO6           when it was doped with similar elements. In H-NASICON, Mg2+
+octahedra, represented by the general formula Na1+xZr2SixP3−xO12        and Zn2+ doping are known to increase the ionic conductivity by
+[29]. Among these, Na3Zr2Si2PO12 (x = 2) is a representative            increasing the sodium ion concentration in the structure, whereas
+compound known for its high ionic conductivity at room                  La3+ doping, despite the formation of multiple secondary phases, is
+temperature and is commonly referred to as Hong-type                    expected to contribute to improved ionic transport. Although
+NASICON (H-NASICON) [30−33]. However, a significant issue               extensive studies have been conducted on the effect of heteroatom
+with H-NASICON is the formation of a ZrO2 secondary phase               doping in H-NASICON, approaches similar to those used in vA-
+during the high-temperature sintering process. ZrO2 is a non-           NASICON remain scarce. Considering these findings, it is crucial
+conductive phase that can degrade both the ionic conductivity and       to investigate and design effective heteroatom doping strategies
+mechanical strength of NASICON [34−36]. To address this issue,          tailored to vA-NASICON in order to improve essential properties
+renewed attention has been given to the Zr4+-deficient NASICON          such as ionic conductivity and density.
+composition Na0.8+xZr1.55SixP3−xO11, as proposed by von Alpen              In this study, we investigated the aliovalent doping effects of
+[37,38]. The von-Alpen-type NASICON (vA-NASICON)                        three promising heteroatom candidates that are expected to
+compound, with the composition Na3.1Zr1.55Si2.3P0.7O11 (x = 2.3),       enhance the main properties of vA-NASICON. When optimal
+suppresses the formation of ZrO2 secondary phases due to its            amounts of Mg2+ and Zn2+ were introduced, both the ionic
+inherently lower Zr4+ content than H-NASICON, achieving an              conductivity and relative density increased, which was
+ionic conductivity of 9.00×10−4 S∙cm−1 and enhanced mechanical          accompanied by the observation of a uniform NASICON
+strength [26]. Most of the previously reported NASICON                  crystalline phase. In contrast, even a trace amount of La3+ led to
+literatures were based on the H-NASICON composition, and                the formation of a secondary phase, resulting in a deterioration of
+research about utilizing the vA-NASICON composition is lacking.         ionic conductivity and density. The formation of a secondary
+Therefore, this study employed the vA-NASICON composition to            phase, which is influenced by dopants, is consistent with the
+explore various research possibilities.                                 results of density functional theory calculations. Additionally, we
+    Although the NASICON compound has a relatively high ionic           suggested the effects of introducing Mg2+ and Zn2+ on the changes
+conductivity compared with other oxide-based solid electrolytes, it     in the ion diffusion coefficient and Na+ transport channel
+remains lower than that of liquid organic electrolytes (10−2 S∙cm−1)    geometry. For the optimized Zn2+-doped vA-NASICON, which
+[39,40]. One effective method to increase this conductivity is the      exhibited the best performance, a high ionic conductivity of
+introduction of heteroatoms, an approach explored in various            2.74×10−3 S∙cm−1 and a relative density of 99.1% were observed,
+studies [41]. When heteroatoms are doped into NASICON, the              even at a sintering temperature below 1200 °C. Furthermore, the
+bottleneck size for sodium ions can be expanded depending on            average three-point bending strength was 116.8 MPa, which is
+the kind of dopant used [42,43]. Substituting dopants with lower        four times higher than that of undoped vA-NASICON. These
+oxidation states than Zr4+ compensates for the charge balance by        improvements in the main properties resulted in enhanced
+increasing the sodium ion concentration, thereby improving the          electrochemical properties, demonstrating a high critical current
+ionic conductivity [44,45]. Therefore, it is crucial to consider the    density of 1.4 mA∙cm−2 and sustaining operation for over 500 h in
+differences in ionic radius and oxidation state relative to Zr4+ when   a symmetric cell. In solid-state sodium cell tests employing a
+introducing heteroatoms, as well as to ensure the thermodynamic         Na3V2(PO4)3 (NVP) cathode and a Na metal anode, excellent
+stability of the NASICON crystalline phase, and to prevent              capacity retention of approximately 73.4% of the initial capacity
+excessive formation of secondary phases [46,47]. Table S1 in the        was observed after 200 cycles at a current density of 0.1 A∙g−1. This
+Electronic Supplementary Material (ESM) presents the results of a       study is highly important because it investigates the property
+                                                                        variations induced by the incorporation of various heteroatoms
+comparison of the ionic conductivity and activation energy after
+                                                                        into the vA-NASICON composition and suggests its potential
+H-NASICON was doped with heteroatoms via the solid-state
+                                                                        application in solid-state sodium batteries.
+reaction method, which is highly accessible and scalable
+[41,43,48−54]. In one representative study, Samiee et al. [55]
+achieved a total ionic conductivity of 2.05×10−3 S∙cm−1 at room         2 Experimental
+temperature by doping NASICON with Mg2+. Jolley et al. [41]
+reported that substituting Zr4+ with divalent cations (Co, Ni, Zn)      2.1 Materials synthesis
+increased the sodium ion content within the NASICON structure,          The NASICON compounds with Na3.1Zr1.55Si2.3P0.7O11 (NZSP),
+thereby improving the bulk conductivity. The sample that                Na3.1+2xZr1.55−xMxSi2.3P0.7O11 (M = Mg2+, Zn2+, M-NZSPx), and
+exhibited the greatest increase in bulk conductivity was the Zn-        Na3.1+xZr1.55−xM′ xSi2.3P0.7O11 (M′ = La3+, M′-NZSPx) were prepared
+doped NASICON sample, whose bulk conductivity increased                 according to the stoichiometric ratio via a conventional solid-state
+approximately threefold compared with that of the undoped               reaction method (Fig. S1 in the ESM). Precursors, including
+NASICON sample. As a result, the total ionic conductivity of the        Na3PO4·12H2O (Sigma-Aldrich, 98.0%), Na2CO3 (Sigma-Aldrich,
+Zn-doped NASICON reached 8.05×10−4 S∙cm−1. Among the                    99.5%), SiO2 (Junsei Chemical Co., Ltd., 99.5%), ZrO2 (Samchun
+divalent dopants, Wang et al. [54] introduced Cu2+ and reported         Chemicals, 99.0%), MgO (Sigma-Aldrich, 98.0%), ZnO (KANTO
+that the CuO precursor could also act as a sintering aid, reducing      Chemical Co., Inc., 99.0%), and La2O3 (Samchun chemicals,
+the sintering temperature and enhancing the ionic conductivity.         99.9%), were uniformly mixed via a planetary ball mill (Fritsch,
+Consequently, the optimized Cu-doped NASICON demonstrated               Pulverizette7 PL) for 4 h. Anhydrous ethanol was used as the
+an ionic conductivity of 5.57×10−4 S∙cm−1 under sintering               solvent. The mixed precursor was then dried at 80 °C for over 4 h
+conditions at 1150 °C for 12 h. Finally, Sun et al. [56] reported       to evaporate the solvent. The dried powder was subsequently
+that La3+ doping increased the Si/P ratio in the NASICON                calcined at 1100 °C for 10 h. After calcination, the agglomerated
+structure, resulting in changes in the atomic ratio and enhanced        granules were crushed again via a planetary ball mill and dried.
+Na ion occupancy due to charge imbalance, thus accelerating             The powdered material obtained was formed into pellets with Φ =
+
+                                                                                                               J Adv Ceram 2025, 14(9): 9221138
+

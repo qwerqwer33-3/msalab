@@ -1,0 +1,7 @@
+<svg width="800" height="500" viewBox="0 0 800 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#121829"/>
+  <rect x="40" y="40" width="720" height="420" fill="#0b0f19" stroke="#7aa2f7" stroke-width="2" rx="18"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#a9b3c7" font-family="ui-sans-serif,system-ui" font-size="24">
+    Replace with image
+  </text>
+</svg>

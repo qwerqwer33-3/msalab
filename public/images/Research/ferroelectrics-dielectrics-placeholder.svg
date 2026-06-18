@@ -1,0 +1,24 @@
+<svg width="1280" height="704" viewBox="0 0 1280 704" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="704" rx="36" fill="#1F2937"/>
+  <rect width="1280" height="704" rx="36" fill="url(#paint0_radial)" fill-opacity="0.94"/>
+  <path d="M150 500C208 500 208 226 266 226C324 226 324 500 382 500C440 500 440 226 498 226C556 226 556 500 614 500" stroke="#FDBA74" stroke-width="10" stroke-linecap="round"/>
+  <path d="M150 574H614" stroke="#FDE68A" stroke-width="6" stroke-linecap="round" stroke-opacity="0.7"/>
+  <circle cx="266" cy="226" r="18" fill="#FEF3C7"/>
+  <circle cx="382" cy="500" r="18" fill="#FCA5A5"/>
+  <circle cx="498" cy="226" r="18" fill="#FED7AA"/>
+  <rect x="682" y="196" width="454" height="268" rx="32" fill="#FFFFFF" fill-opacity="0.05" stroke="#FCD34D" stroke-opacity="0.15" stroke-width="4"/>
+  <g opacity="0.88">
+    <text x="728" y="292" fill="#FFF7ED" font-family="Pretendard, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-0.04em">Ferroelectrics</text>
+    <text x="728" y="378" fill="#FED7AA" font-family="Pretendard, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-0.04em">&amp; Dielectrics</text>
+  </g>
+  <text x="730" y="446" fill="#E5E7EB" font-family="Pretendard, Arial, sans-serif" font-size="28" font-weight="500">Placeholder visual for functional oxides and ceramic responses</text>
+  <rect x="726" y="512" width="230" height="48" rx="24" fill="#F97316" fill-opacity="0.16" stroke="#FDBA74" stroke-opacity="0.28"/>
+  <text x="770" y="544" fill="#FFF7ED" font-family="Pretendard, Arial, sans-serif" font-size="24" font-weight="600">Functional materials</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1124 140) rotate(139.528) scale(901.349 779.718)">
+      <stop stop-color="#B91C1C"/>
+      <stop offset="0.52" stop-color="#7C2D12"/>
+      <stop offset="1" stop-color="#1F2937" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

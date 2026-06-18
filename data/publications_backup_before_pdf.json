@@ -1,0 +1,635 @@
+﻿{
+    "google_scholar_url":  "https://scholar.google.com/citations?user=SSb4uV4AAAAJ\u0026hl=en",
+    "selected":  [
+                     {
+                         "year":  2025,
+                         "title":  "γ-ray induced microstructure modulation for enhanced output performance of polyimide-based piezoelectric composites",
+                         "authors":  "DY Hyeon, GJ Lee, HJ Park, DW Jeon, HU Lee, SB Cho, J An, NR Alluri, ...",
+                         "venue":  "Chemical Engineering Journal, 172406"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
+                         "authors":  "JH Kang, W Jeong, MS Kang, HW Kim, DW Jeon, HU Lee, JH Hong, ...",
+                         "venue":  "Communications Materials"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers",
+                         "authors":  "W Son, JM Lee, H Seo, GH Song, SJ Kim, S Kwon, SB Cho, S Chun, ...",
+                         "venue":  "npj Flexible Electronics 9 (1), 116"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Towards Fully-Automated Materials Discovery via Large-Scale Synthesis Dataset and Expert-Level LLM-as-a-Judge",
+                         "authors":  "H Kim, T Jeon, S Choi, JH Hong, DW Jeon, GY Baek, GW Kwak, DH Lee, ...",
+                         "venue":  "Proceedings of the 34th ACM International Conference on Information and …"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries (Adv. Funct. Mater. 48/2025)",
+                         "authors":  "S Lee, D Lee, J Kang, S Yang, MS Kang, W Jo, J Seo, SB Cho, PJ Kim, ...",
+                         "venue":  "Advanced Functional Materials 35 (48), e72643"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Insights Into Improving the Li‐Ion Transference Number and Li Deposition Uniformity Toward a High‐Current‐Density Lithium Metal Anode",
+                         "authors":  "S Yang, S Lee, MS Kang, KC Roh, J Seo, D Lee, K Kim, S Lee, SB Cho, ...",
+                         "venue":  "Carbon Energy 7 (11), e70053"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Anode SHIELD: A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and Stable Lithium‐Ion Batteries",
+                         "authors":  "S Lee, D Lee, J Kang, S Yang, MS Kang, W Jo, J Seo, SB Cho, PJ Kim, ...",
+                         "venue":  "Advanced Functional Materials 35 (48), e13744"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based Analysis",
+                         "authors":  "SY Jang, DW Jeon, HW Kim, JS Park, SB Cho",
+                         "venue":  "The Journal of Physical Chemistry C 129 (41), 18433-18438"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Holey wrinkled-multilayered graphene scaffolds for uniform Li-ion flux enabling high-performance lithium metal anodes",
+                         "authors":  "S Kim, I Heo, JH Kang, MS Kang, J Lee, HS Kim, DH Lim, SB Cho, ...",
+                         "venue":  "Journal of Energy Chemistry"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
+                         "authors":  "S Lee, S Yang, MS Kang, Y Bae, K Lee, Y Jung, YH Kim, JY Kim, KC Roh, ...",
+                         "venue":  "npj Flexible Electronics 9 (1), 98"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast kinetics",
+                         "authors":  "W Choi, MS Kang, K Kim, HU Lee, SB Cho, J Choi, PJ Kim",
+                         "venue":  "Nano Energy, 111444"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batteries",
+                         "authors":  "G Park, DW Jeon, IS Jang, BJ Ahn, K Baek, BY Song, E Kim, J Bang, ...",
+                         "venue":  "Journal of Advanced Ceramics 14 (9), 9221138"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries",
+                         "authors":  "DW Jeon, W Choi, JH Kang, HW Kim, MS Kang, W Kim, HU Lee, H Ko, ...",
+                         "venue":  "Applied Surface Science Advances 29, 100842"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN",
+                         "authors":  "J Kim, HW Kim, J Kim, JS Lee, HM Kwak, J Baik, SY Choi, J Kim, SY Bae, ...",
+                         "venue":  "Small 21 (38), e03428"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Ultra‐High Mobility Atomically‐Ordered InGaZnO Transistors Through Atomic Layer Deposition",
+                         "authors":  "YS Kim, HW Kim, T Hwang, J Ahn, SB Cho, JS Park",
+                         "venue":  "Advanced Electronic Materials 11 (15), e00137"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Investigation on the effect of metal incorporation in metal selenide nanoparticles and their encapsulation in hollow carbon nanospheres on improving the sodium-ion battery …",
+                         "authors":  "S Jeong, KB Kim, M Jeon, JY Kim, JH Lee, SY Jang, DW Jeon, JM Park, ...",
+                         "venue":  "Chemical Engineering Journal, 167019"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Design of optimized halide vapor phase epitaxy (HVPE) conditions for uniform α-Ga2O3 growth based on CFD analysis",
+                         "authors":  "W Kim, HW Kim, SB Cho",
+                         "venue":  "Journal of the Korean Ceramic Society, 1-10"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film",
+                         "authors":  "TS Ngo, SK Hong, HW Kim, SB Cho, YH Kim, NQ Vuong, HY Jeong, ...",
+                         "venue":  "Applied Surface Science, 163471"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Site preference of Ni in Pb (Fe1/2Nb1/2) O3 during additive compositional modification",
+                         "authors":  "A Ryu, JH Park, DW Jeon, JH Cho, H Yim, KH Chae, SH Kim, S Nahm, ...",
+                         "venue":  "Journal of Materiomics 11 (3), 100907"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Phase Evolution in La-Alloyed β-Ga2O3 Nanofibers: Experimental and DFT Simulation Insights",
+                         "authors":  "H Cha, DW Jeon, H Ryou, S Kim, SB Cho, WS Hwang",
+                         "venue":  "ACS omega 10 (17), 17476-17482"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Gasochromic WO3/MoO3 sensors prepared by co-sputtering for hydrogen leak detection with long-lasting visible signal",
+                         "authors":  "C Park, SI Han, R Yeasmin, G Jung, DW Jeon, W Kim, SB Cho, H Seo",
+                         "venue":  "Sensors and Actuators B: Chemical 426, 137030"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Solvent‐Tuned Plasticity for Various Binder‐Free Applications of a New Lead‐Free Manganese Halide",
+                         "authors":  "JH Han, JM Seo, SH Choi, JG Noh, JW Min, YR Kim, HW Kim, SB Cho, ...",
+                         "venue":  "Advanced Materials 37 (7), 2415247"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Crystallinity and composition engineering of organic crystal derived 1D carbons for advanced Li-metal based batteries",
+                         "authors":  "M Park, K Lee, MS Kang, S Woo, W Choi, H Kim, W Kwon, J Choi, SB Cho, ...",
+                         "venue":  "Carbon 233, 119870"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Long‐Lasting, Steady and Enhanced Energy Harvesting by Inserting a Conductive Layer into the Piezoelectric Polymer",
+                         "authors":  "HS Jang, GH Kim, DW Jeon, HJ Park, BN Bae, NR Alluri, CM Kim, C Baek, ...",
+                         "venue":  "Advanced Functional Materials 35 (8), 2415501"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "First-Principle Insights into Positive Triboelectrification of Polyoxymethylene Through Homolytic Bond Rupture",
+                         "authors":  "G Fatti, H Ko, SB Cho",
+                         "venue":  "Nanoenergy Advances 5 (1), 1"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Residual strain optimization in 3D MOSFET structures for enhanced mobility via nanoscale heat transfer",
+                         "authors":  "JH Hong, MS Kang, I Ha, HL Park, K Park, J Jeon, W Yoo, J Kim, C Chung, ...",
+                         "venue":  "Journal of Applied Physics 137 (1)"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Enhanced electrical properties and stability of solution processed IYZO thin film transistors by controlling deep level oxygen vacancies",
+                         "authors":  "BK Hwang, HW Kim, BR Lee, EJ Park, H Jung, MK Son, SB Cho, HJ Jung, ...",
+                         "venue":  "Journal of Materials Chemistry C"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Self‐Reinforcing Degradation of Solution‐Processed Small‐Molecule OLEDs: Excited‐States and Molecular Interactions as Key Triggers",
+                         "authors":  "E Cha, J Jeon, HW Kim, HU Lee, JY Woo, JS Yeo, HB Kwon, SB Cho, ...",
+                         "venue":  "Advanced Functional Materials, e08146"
+                     },
+                     {
+                         "year":  2025,
+                         "title":  "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory",
+                         "authors":  "U Kumar, HW Kim, GK Maurya, BB Raj, S Singh, AK Kushwaha, SB Cho, ...",
+                         "venue":  "Current Applied Physics 69, 1-7"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "Towards ultra-stable and dendrite-suppressed Li-metal batteries: Ion-regulating graphene-modified separators",
+                         "authors":  "W Choi, M Park, S Woo, H Kim, MS Kang, J Choi, SB Cho, T Kim, PJ Kim",
+                         "venue":  "Carbon 230, 119576"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "Large-Scale Mechanochemical Synthesis of Cesium Lanthanide Chloride for Radioluminescence",
+                         "authors":  "T Samanta, JH Han, HU Lee, BK Cha, YM Park, NSM Viswanath, HB Cho, ...",
+                         "venue":  "Inorganic Chemistry 63 (35), 16483-16490"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "Predicting the synthesizability of double perovskite halides via interface reaction pathfinding",
+                         "authors":  "W Kim, HW Kim, HU Lee, MS Kang, DW Jeon, SW Heo, SB Cho",
+                         "venue":  "Chemistry of Materials 36 (12), 5904-5911"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "Uniform synthesis of bilayer hydrogen substituted graphdiyne for flexible piezoresistive applications",
+                         "authors":  "MJ Josline, S Ghods, S Kosame, JH Choi, W Kim, S Kim, SH Chang, ...",
+                         "venue":  "Small 20 (25), 2307276"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "Systematic determination of the optimized Zr content of Ba(ZrxTi1-x)O3 with high dielectric constant at room temperature for high-voltage system application",
+                         "authors":  "J Kim, JH Seo, SH Lee, M Cho, H Kwak, RS Cheon, S Cho, SB Cho, ...",
+                         "venue":  "Journal of the Korean Ceramic Society 61 (3), 391-401"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "Demystifying role of local distortion in emission colors tuning of lead-free zero-dimensional metal halide nanocrystals",
+                         "authors":  "T Samanta, NSM Viswanath, HW Kim, SW Jang, JH Han, SB Cho, WB Im",
+                         "venue":  "Chemical Engineering Journal 484, 149697"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "High Li+ Conductivity of Li1.3+xAl0.3−xMgxTi1.7(PO4)3 with Hybrid Solid Electrolytes for Solid‐State Lithium Batteries",
+                         "authors":  "H Kim, MR Shaik, S Kim, YM Park, DW Jeon, SB Cho, S Choi, WB Im",
+                         "venue":  "International Journal of Energy Research 2024 (1), 6116417"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
+                         "authors":  "S Ji, DW Jeon, J Choi, H Cho, BI Park, I Roh, H Choi, C Kim, JK Kim, ...",
+                         "venue":  "Journal of Materials Chemistry A 12 (48), 33537-33545"
+                     },
+                     {
+                         "year":  2024,
+                         "title":  "Designing Pr-based advanced photoluminescent materials using machine learning and density functional theory",
+                         "authors":  "U Kumar, HW Kim, S Singh, SB Cho, H Ko",
+                         "venue":  "Journal of Materials Science 59 (4), 1433-1447"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Rational design strategy for triboelectric nanogenerators based on electron back flow and ionic defects: the case of polytetrafluoroethylene",
+                         "authors":  "G Fatti, A Ciniero, H Ko, HU Lee, Y Na, CK Jeong, SG Lee, D Kwak, ...",
+                         "venue":  "Advanced Electronic Materials 9 (11), 2300333"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Uncertainty and irreproducibility of triboelectricity based on interface mechanochemistry",
+                         "authors":  "G Fatti, H Kim, C Sohn, M Park, Y Lim, Z Li, KI Park, I Szlufarska, H Ko, ...",
+                         "venue":  "Physical Review Letters 131 (16), 166201"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "A versatile strategy for hybridizing small experimental and large simulation data: A case for ceramic tape-casting process",
+                         "authors":  "JH Kim, H Ko, DH Yeo, Z Park, U Kumar, KH Yoo, A Nasridinov, SB Cho",
+                         "venue":  "Materials \u0026 Design 234, 112357"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility",
+                         "authors":  "HU Lee, S Han, DG Lee, H Ko, J Lee, WB Im, T Song, J Choi, SB Cho",
+                         "venue":  "Chemical Engineering Journal 471, 144552"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Understanding the electrokinetic role of ions on electricity generation in droplet-based hydrovoltaic systems",
+                         "authors":  "MS Kang, H Ko, S Lee, SB Cho",
+                         "venue":  "The Journal of Physical Chemistry C 127 (34), 16811-16817"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "High-Throughput Screening on Halide Perovskite Derivatives and Rational Design of Cs3LuCl6",
+                         "authors":  "HW Kim, JH Han, H Ko, T Samanta, DG Lee, DW Jeon, W Kim, YC Chung, ...",
+                         "venue":  "ACS Energy Letters 8 (8), 3621-3630"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Complementary functions of vanadium in boosting electrocatalytic activity of CuCoNiFeMn high‐entropy alloy for water splitting",
+                         "authors":  "A Sivanantham, H Lee, SW Hwang, HU Lee, SB Cho, B Ahn, IS Cho",
+                         "venue":  "Advanced Functional Materials 33 (34), 2301153"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Plasma-enhanced atomic layer deposition assisted low-temperature synthetic routes to rationally designed metastable C-axis aligned hexagonal In-Zn-O",
+                         "authors":  "TH Hong, HW Kim, YS Kim, HJ Jeong, SB Cho, JS Park",
+                         "venue":  "Chemistry of Materials 35 (13), 5168-5176"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "The Significance of an In Situ ALD Al2O3 Stacked Structure for p‐Type SnO TFT Performance and Monolithic All‐ALD‐Channel CMOS Inverter Applications",
+                         "authors":  "HM Kim, SH Choi, HU Lee, SB Cho, JS Park",
+                         "venue":  "Advanced Electronic Materials 9 (4), 2201202"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Modulation of Molybdenum oxidation state via Catalytic-oxidation",
+                         "authors":  "K Lee, S Sun, H Ko, SB Cho, G Lee, D Lee, T Song, U Paik",
+                         "venue":  "Applied Surface Science 615, 156330"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Tailoring rigid segments in dopant-free polymeric hole transport materials for perovskite quantum dot solar cells",
+                         "authors":  "DH Lee, S Lim, C Kim, HU Lee, D Chung, Y Choi, J Choi, Y Kim, SB Cho, ...",
+                         "venue":  "ACS Energy Letters 8 (4), 1839-1847"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Enhanced Hydro-Actuation and Capacitance of Electrochemically Inner-Bundle-Activated Carbon Nanotube Yarns",
+                         "authors":  "W Son, JM Lee, S Chun, S Yu, JH Noh, HW Kim, SB Cho, SJ Kim, C Choi",
+                         "venue":  "ACS Applied Materials \u0026 Interfaces 15 (10), 13484-13494"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Why does water in porous carbon generate electricity? Electrokinetic role of protons in a water droplet-induced hydrovoltaic system of hydrophilic porous carbon",
+                         "authors":  "H Ko, W Son, MS Kang, HU Lee, CY Chung, S Han, C Choi, SB Cho",
+                         "venue":  "Journal of Materials Chemistry A 11 (3), 1148-1158"
+                     },
+                     {
+                         "year":  2023,
+                         "title":  "Quantum Floquet spectra of surface and bulk state of topological insulator",
+                         "authors":  "U Kumar, V Kumar, AK Kushwaha, SB Cho",
+                         "venue":  "Physica E: Low-dimensional Systems and Nanostructures 145, 115496"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "Highly stable zero-dimensional lead-free metal halides for X-ray imaging",
+                         "authors":  "JH Han, T Samanta, YM Park, HJ Kim, NS Manikanta Viswanath, HW Kim, ...",
+                         "venue":  "ACS Energy Letters 8 (1), 545-552"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "High-performance perovskite quantum dot solar cells enabled by incorporation with dimensionally engineered organic semiconductor",
+                         "authors":  "S Lim, DH Lee, H Choi, Y Choi, DG Lee, SB Cho, S Ko, J Choi, Y Kim, ...",
+                         "venue":  "Nano-Micro Letters 14 (1), 204"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "Reversible switching performance of water droplet-driven triboelectric nanogenerators using a magnetocontrollable lubricant-infused surface for sustainable power generation",
+                         "authors":  "S Yun, S Cho, HW Kim, SB Cho, S Lee, K Yong",
+                         "venue":  "Nano Energy 103, 107783"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "Bandgap analysis of transition-metal dichalcogenide and oxide via machine learning approach",
+                         "authors":  "U Kumar, KA Mishra, AK Kushwaha, SB Cho",
+                         "venue":  "Journal of Physics and Chemistry of Solids 171, 110973"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "Dominant Effects of Epitaxial Strain on the Phase Control of Heterostructural (InxGa1–x)2O3 Alloys",
+                         "authors":  "HU Lee, HW Kim, G Fatti, H Ko, SB Cho",
+                         "venue":  "ACS Applied Electronic Materials 4 (6), 2711-2717"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "Conformably skin-adherent piezoelectric patch with bioinspired hierarchically arrayed microsuckers enables physical energy amplification",
+                         "authors":  "DW Kim, H Kim, GT Hwang, SB Cho, SH Jeon, HW Kim, CK Jeong, ...",
+                         "venue":  "ACS Energy Letters 7 (5), 1820-1827"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "High-power hydro-actuators fabricated from biomimetic carbon nanotube coiled yarns with fast electrothermal recovery",
+                         "authors":  "W Son, JM Lee, SH Kim, HW Kim, SB Cho, D Suh, S Chun, C Choi",
+                         "venue":  "Nano Letters 22 (6), 2470-2478"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "Twist-stabilized, coiled carbon nanotube yarns with enhanced capacitance",
+                         "authors":  "W Son, S Chun, JM Lee, G Jeon, HJ Sim, HW Kim, SB Cho, D Lee, J Park, ...",
+                         "venue":  "ACS nano 16 (2), 2661-2671"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "Establishment of a BaTiO3-based Computational Science Platform to Predict Multi-component Properties",
+                         "authors":  "DG Lee, HU Lee, WB Im, H Ko, SB Cho",
+                         "venue":  "Journal of Sensor Science and Technology 31 (5), 318-323"
+                     },
+                     {
+                         "year":  2022,
+                         "title":  "A pre-reaction suppressing strategy for α-Ga 2 O 3 halide vapor pressure epitaxy using asymmetric precursor gas flow",
+                         "authors":  "S Kim, HW Kim, HY Kim, DW Jeon, SB Cho, JH Park",
+                         "venue":  "CrystEngComm 24 (16), 3049-3056"
+                     },
+                     {
+                         "year":  2021,
+                         "title":  "Front Cover: Metal‐Nitrogen‐Carbon Cluster‐Decorated Titanium Carbide is a Durable and Inexpensive Oxygen Reduction Reaction Electrocatalyst (ChemSusChem 21/2021)",
+                         "authors":  "S Beom Cho, C He, S Sankarasubramanian, A Singh Thind, J Parrondo, ...",
+                         "venue":  "ChemSusChem 14 (21), 4609-4609"
+                     },
+                     {
+                         "year":  2021,
+                         "title":  "Metal‐nitrogen‐carbon cluster‐decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst",
+                         "authors":  "S Beom Cho, C He, S Sankarasubramanian, A Singh Thind, J Parrondo, ...",
+                         "venue":  "ChemSusChem 14 (21), 4680-4689"
+                     },
+                     {
+                         "year":  2021,
+                         "title":  "Flexoelectric-boosted piezoelectricity of BaTiO3@ SrTiO3 core-shell nanostructure determined by multiscale simulations for flexible energy harvesters",
+                         "authors":  "Y Kim, H Kim, GJ Lee, HU Lee, SG Lee, C Baek, MK Lee, JJ Park, ...",
+                         "venue":  "Nano Energy 89, 106469"
+                     },
+                     {
+                         "year":  2021,
+                         "title":  "Triboelectrification: Backflow and stuck charges are key",
+                         "authors":  "H Ko, Y Lim, S Han, CK Jeong, SB Cho",
+                         "venue":  "ACS Energy Letters 6 (8), 2792-2799"
+                     },
+                     {
+                         "year":  2021,
+                         "title":  "A hierarchically tailored wrinkled three-dimensional foam for enhanced elastic supercapacitor electrodes",
+                         "authors":  "S Jang, H Min, SB Cho, HW Kim, W Son, C Choi, S Chun, C Pang",
+                         "venue":  "Nano Letters 21 (16), 7079-7085"
+                     },
+                     {
+                         "year":  2021,
+                         "title":  "Heterostructural phase diagram of Ga2O3–based solid solution with Al2O3",
+                         "authors":  "HW Kim, H Ko, YC Chung, SB Cho",
+                         "venue":  "Journal of the European Ceramic Society 41 (1), 611-616"
+                     },
+                     {
+                         "year":  2020,
+                         "title":  "Enhancement of the quantum capacitances of group-14 elemental two-dimensional materials by Ti-doping: A first principles study",
+                         "authors":  "J Rihm, ES Sim, SB Cho, YC Chung",
+                         "venue":  "Applied Surface Science 530, 147301"
+                     },
+                     {
+                         "year":  2020,
+                         "title":  "Quasi‐Binary Transition Metal Dichalcogenide Alloys: Thermodynamic Stability Prediction, Scalable Synthesis, and Application",
+                         "authors":  "Z Hemmat, J Cavin, A Ahmadiparidari, A Ruckel, S Rastegar, SN Misal, ...",
+                         "venue":  "Advanced Materials 32 (26), 1907041"
+                     },
+                     {
+                         "year":  2020,
+                         "title":  "Highly tunable, polarization-engineered two-dimensional electron gas in ε-AlGaO3/ε-Ga2O3 heterostructures",
+                         "authors":  "P Ranga, SB Cho, R Mishra, S Krishnamoorthy",
+                         "venue":  "Applied Physics Express 13 (6), 061009"
+                     },
+                     {
+                         "year":  2020,
+                         "title":  "Triboelectric Energy: A Micropillar‐Assisted Versatile Strategy for Highly Sensitive and Efficient Triboelectric Energy Generation under In‐Plane Stimuli (Adv. Mater. 2/2020)",
+                         "authors":  "S Chun, C Pang, SB Cho",
+                         "venue":  "Advanced Materials 32 (2), 2070009"
+                     },
+                     {
+                         "year":  2020,
+                         "title":  "A micropillar‐assisted versatile strategy for highly sensitive and efficient triboelectric energy generation under in‐plane stimuli",
+                         "authors":  "S Chun, C Pang, SB Cho",
+                         "venue":  "Advanced Materials 32 (2), 1905539"
+                     },
+                     {
+                         "year":  2019,
+                         "title":  "Serpentine-pattern effects on the biaxial stretching of percolative graphene nanoflake films",
+                         "authors":  "S Chun, SB Cho, W Son, Y Kim, H Jung, YJ Kim, C Choi",
+                         "venue":  "Nanotechnology 31 (8), 085303"
+                     },
+                     {
+                         "year":  2019,
+                         "title":  "KBaTeBiO6: A Lead-Free, Inorganic Double-Perovskite Semiconductor for Photovoltaic Applications",
+                         "authors":  "AS Thind, S Kavadiya, M Kouhnavard, R Wheelus, SB Cho, LY Lin, ...",
+                         "venue":  "Chemistry of Materials 31 (13), 4769-4778"
+                     },
+                     {
+                         "year":  2019,
+                         "title":  "Flexible Crossbar‐Structured Phase Change Memory Array via Mo‐Based Interfacial Physical Lift‐Off",
+                         "authors":  "DH Kim, HE Lee, BK You, SB Cho, R Mishra, IS Kang, KJ Lee",
+                         "venue":  "Advanced Functional Materials 29 (6), 1806338"
+                     },
+                     {
+                         "year":  2019,
+                         "title":  "New class of electrocatalysts based on 2D transition metal dichalcogenides in ionic liquid",
+                         "authors":  "L Majidi, P Yasaei, RE Warburton, S Fuladi, J Cavin, X Hu, Z Hemmat, ...",
+                         "venue":  "Advanced Materials 31 (4), 1804453"
+                     },
+                     {
+                         "year":  2019,
+                         "title":  "Atomic structure and electrical activity of grain boundaries and Ruddlesden–Popper faults in cesium lead bromide perovskite",
+                         "authors":  "AS Thind, G Luo, JA Hachtel, MV Morrell, SB Cho, AY Borisevich, ...",
+                         "venue":  "Advanced Materials 31 (4), 1805047"
+                     },
+                     {
+                         "year":  2018,
+                         "title":  "Modeling of 2DEG Formation at Polar ε-(AlGa) 2O3/ε-Ga2O3 Heterojunctions",
+                         "authors":  "P Ranga, SB Cho, R Mishra, S Krishnamoorthy",
+                         "venue":  "Bulletin of the American Physical Society 63"
+                     },
+                     {
+                         "year":  2018,
+                         "title":  "Multiferroism in iron-based oxyfluoride perovskites",
+                         "authors":  "ST Hartman, SB Cho, R Mishra",
+                         "venue":  "Inorganic Chemistry 57 (17), 10616-10624"
+                     },
+                     {
+                         "year":  2018,
+                         "title":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals",
+                         "authors":  "AS Thind, G Luo, JA Hachtel, M Goriacheva, SB Cho, A Borisevich, ...",
+                         "venue":  "Microscopy and Microanalysis 24 (S1), 100-101"
+                     },
+                     {
+                         "year":  2018,
+                         "title":  "Intrinsic point defects and intergrowths in layered bismuth triiodide",
+                         "authors":  "SB Cho, J Gazquez, X Huang, Y Myung, P Banerjee, R Mishra",
+                         "venue":  "Physical Review Materials 2 (6), 064602"
+                     },
+                     {
+                         "year":  2018,
+                         "title":  "Epitaxial engineering of polar ε-Ga2O3 for tunable two-dimensional electron gas at the heterointerface",
+                         "authors":  "SB Cho, R Mishra",
+                         "venue":  "Applied Physics Letters 112 (16)"
+                     },
+                     {
+                         "year":  2018,
+                         "title":  "Strain Engineering and Two-Dimensional Electron Gas in Polar ε-Ga2O3",
+                         "authors":  "SB Cho, R Mishra",
+                         "venue":  "Electrochemical Society Meeting Abstracts 233, 1425-1425"
+                     },
+                     {
+                         "year":  2018,
+                         "title":  "Transition Metal-Based Catalysts on Stable and Corrosion-Resistant Supports for Oxygen Reduction Reaction",
+                         "authors":  "SB Cho, C He, J Parrondo, S Sankarasubramanian, VK Ramani, R Mishra",
+                         "venue":  "Electrochemical Society Meeting Abstracts 233, 2358-2358"
+                     },
+                     {
+                         "year":  2018,
+                         "title":  "Elucidating the unintentional p-type nature of spinel Co3O4: A defect study using ab-initio calculation",
+                         "authors":  "SB Cho, ES Sim, YC Chung",
+                         "venue":  "Journal of the European Ceramic Society 38 (2), 629-635"
+                     },
+                     {
+                         "year":  2017,
+                         "title":  "Flexible highly-effective energy harvester via crystallographic and computational control of nanointerfacial morphotropic piezoelectric thin film",
+                         "authors":  "CK Jeong, SB Cho, JH Han, DY Park, S Yang, KI Park, J Ryu, H Sohn, ...",
+                         "venue":  "Nano Research 10 (2), 437-455"
+                     },
+                     {
+                         "year":  2017,
+                         "title":  "First-principles study of point defects in β-Ga2O3",
+                         "authors":  "Y Anguiano, SB Cho, R Mishra",
+                         "venue":  "2017"
+                     },
+                     {
+                         "year":  2017,
+                         "title":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films",
+                         "authors":  "X Chen, Y Myung, A Thind, Z Gao, B Yin, M Shen, SB Cho, P Cheng, ...",
+                         "venue":  "Journal of Materials Chemistry A 5 (47), 24728-24739"
+                     },
+                     {
+                         "year":  2016,
+                         "title":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer",
+                         "authors":  "SB Cho, YC Chung",
+                         "venue":  "Scientific Reports 6 (1), 27986"
+                     },
+                     {
+                         "year":  2014,
+                         "title":  "Electronic Properties of Transition‐Metal‐Decorated Silicene",
+                         "authors":  "Y Lee, KH Yun, SB Cho, YC Chung",
+                         "venue":  "ChemPhysChem 15 (18), 4095-4099"
+                     },
+                     {
+                         "year":  2014,
+                         "title":  "Spin-polarized bandgap of graphene induced by alternative chemisorption with MgO (1 1 1) substrate",
+                         "authors":  "SB Cho, YC Chung",
+                         "venue":  "Carbon 77, 208-214"
+                     },
+                     {
+                         "year":  2014,
+                         "title":  "Tunable Indirect to Direct Band Gap Transition of Monolayer Sc2CO2 by the Strain Effect",
+                         "authors":  "Y Lee, SB Cho, YC Chung",
+                         "venue":  "ACS applied materials \u0026 interfaces 6 (16), 14724-14728"
+                     },
+                     {
+                         "year":  2014,
+                         "title":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field",
+                         "authors":  "Y Lee, Y Hwang, SB Cho, YC Chung",
+                         "venue":  "Physical Chemistry Chemical Physics 16 (47), 26273-26278"
+                     },
+                     {
+                         "year":  2014,
+                         "title":  "Defect-induced semiconductor to metal transition in graphene monoxide",
+                         "authors":  "J Woo, KH Yun, SB Cho, YC Chung",
+                         "venue":  "Physical Chemistry Chemical Physics 16 (26), 13477-13482"
+                     },
+                     {
+                         "year":  2013,
+                         "title":  "Work function tuning of an ultrathin MgO film on an Ag substrate by generating oxygen impurities at the interface",
+                         "authors":  "SB Cho, KH Yun, DS Yoo, K Ahn, YC Chung",
+                         "venue":  "Thin Solid Films 544, 541-544"
+                     },
+                     {
+                         "year":  2013,
+                         "title":  "Water trapping at the graphene/Al2O3 interface",
+                         "authors":  "SB Cho, S Lee, YC Chung",
+                         "venue":  "Japanese Journal of Applied Physics 52 (6S), 06GD09"
+                     },
+                     {
+                         "year":  2013,
+                         "title":  "Bandgap engineering of graphene by corrugation on lattice-mismatched MgO (111)",
+                         "authors":  "SB Cho, YC Chung",
+                         "venue":  "Journal of Materials Chemistry C 1 (8), 1595-1600"
+                     },
+                     {
+                         "year":  2012,
+                         "title":  "Configuration Dependency of Attached Epoxy Groups on Graphene Oxide Reduction: A Molecular Dynamics Simulation",
+                         "authors":  "KH Yun, Y Hwang, M Lee, H Choi, DS Yoo, EK Lee, SB Cho, YC Chung",
+                         "venue":  "Japanese Journal of Applied Physics 51 (6S), 06FD14"
+                     },
+                     {
+                         "year":  2012,
+                         "title":  "Oxygen vacancy chain formation in TiO2 under external strain for resistive switching memory",
+                         "authors":  "DS Yoo, K Ahn, SB Cho, M Lee, YC Chung",
+                         "venue":  "Japanese Journal of Applied Physics 51 (6S), 06FG14"
+                     },
+                     {
+                         "year":  2012,
+                         "title":  "Effects of uniaxial strains on the magnetic properties and the electronic structures of Fe/graphene system: An ab initio study",
+                         "authors":  "H Choi, EK Lee, SB Cho, YC Chung",
+                         "venue":  "Journal of Applied Physics 111 (7)"
+                     },
+                     {
+                         "year":  2011,
+                         "title":  "Interface-dependent spin-reorientation energy barrier in Fe/MgO (001) thin film",
+                         "authors":  "H Choi, EK Lee, SB Cho, DS Yoo, YC Chung",
+                         "venue":  "IEEE electron device letters 32 (9), 1287-1289"
+                     },
+                     {
+                         "year":  2011,
+                         "title":  "γ-ray induced microstructure modulation for enhanced output performance of piezoelectric composites",
+                         "authors":  "DY Hyeon, GJ Lee, HJ Park, DW Jeon, HU Lee, SB Cho, J An, NR Alluri, ...",
+                         "venue":  "Available at SSRN 5462160"
+                     },
+                     {
+                         "year":  2011,
+                         "title":  "Multiscale Insights Enable Rational Design of Ptfe Fibrillation in Dry Electrodes for High-Energy-Density Lithium-Ion Batteries",
+                         "authors":  "SB Cho, J Choi, JH Kang, W Jeong, MS Kang, HW Kim, DW Jeon, HU Lee, ...",
+                         "venue":  "Minseok and Yang, Subi and Lee, Dongsoo and Kim, Patrick Joohyun and Song …"
+                     },
+                     {
+                         "year":  2011,
+                         "title":  "Rational Material Design of Oxide Anode Coating Layer for Sulfide All-Solid-State Batteries",
+                         "authors":  "DW Jeon, W Choi, JH Kang, HW Kim, MS Kang, W Kim, H Ko, PJ Kim, ...",
+                         "venue":  "Available at SSRN 5168703"
+                     }
+                 ]
+}

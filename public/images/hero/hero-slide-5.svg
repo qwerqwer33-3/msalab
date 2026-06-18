@@ -1,0 +1,14 @@
+﻿<svg width="600" height="360" viewBox="0 0 600 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Multiphysics Devices">
+  <defs>
+    <linearGradient id="grad5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+  </defs>
+  <rect width="600" height="360" rx="30" fill="url(#grad5)" />
+  <circle cx="520" cy="120" r="60" fill="rgba(255,255,255,0.18)" />
+  <circle cx="90" cy="270" r="70" fill="rgba(255,255,255,0.1)" />
+  <text x="40" y="120" font-family="'Inter', 'Segoe UI', sans-serif" font-size="38" font-weight="700" fill="white">Multiphysics Devices</text>
+  <text x="40" y="190" font-family="'Inter', 'Segoe UI', sans-serif" font-size="20" fill="white">Coupled electro-thermal-mechanical device simulations.</text>
+  <text x="40" y="230" font-family="'Inter', 'Segoe UI', sans-serif" font-size="16" fill="white" opacity="0.9">Emergent behavior across membranes, strain, and heat.</text>
+</svg>

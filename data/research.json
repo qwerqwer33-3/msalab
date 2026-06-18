@@ -1,0 +1,172 @@
+[
+  {
+    "title": "Multiscale & Multiphysics Modeling",
+    "slug": "multiscale-multiphysics",
+    "image": "/images/Research/multiscale-multiphysics.png",
+    "description": "We develop multiscale workflows that connect simulation and experiments for process design and device-level performance prediction across energy and functional materials systems.",
+    "focus": "This topic focuses on three connected directions: simulation-guided dry-electrode process design, hybridization of sparse experiments with large simulation data for manufacturing optimization, and cross-scale electromechanical modeling for flexible energy-harvesting structures.",
+    "methods": [
+      "Hybrid Data Integration: Combine limited experimental data with large simulation datasets to improve model robustness and reduce trial-and-error in process design.",
+      "Process-Scale Modeling: Build multiscale representations of solvent-free dry electrode fabrication to link processing parameters with resulting electrode microstructures and performance.",
+      "Device-Scale Multiphysics: Use multiscale electromechanical simulations to quantify flexoelectric and piezoelectric contributions in core-shell nanostructures for energy harvesters."
+    ],
+    "deliverables": [
+      "Process Design Rules: Actionable guidelines for selecting dry-electrode processing conditions based on predicted structure-performance relationships.",
+      "Data-Efficient Optimization: Practical workflows for combining experiments and simulations in ceramic/process development with better data efficiency.",
+      "Performance Insights: Quantitative design insights for enhancing output in flexible piezoelectric energy-harvesting architectures."
+    ],
+    "relatedPapers": [
+      {
+        "title": "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
+        "url": "https://doi.org/10.1038/s43246-025-01046-0",
+        "meta": "Communications Materials, 2026"
+      },
+      {
+        "title": "A versatile strategy for hybridizing small experimental and large simulation data: A case for ceramic tape-casting process",
+        "url": "https://doi.org/10.1016/j.matdes.2023.112357",
+        "meta": "Materials & Design, 2023"
+      },
+      {
+        "title": "Flexoelectric-boosted piezoelectricity of BaTiO3@SrTiO3 core-shell nanostructure determined by multiscale simulations for flexible energy harvesters",
+        "url": "https://doi.org/10.1016/j.nanoen.2021.106469",
+        "meta": "Nano Energy, 2021"
+      }
+    ]
+  },
+  {
+    "title": "Nucleation Theory",
+    "slug": "nucleation-theory",
+    "image": "/images/Research/nucleation-theory.png",
+    "description": "We use nucleation-centered frameworks to predict phase formation pathways, impurity evolution, and growth behavior under realistic synthesis conditions.",
+    "focus": "This topic targets phase-selection control by combining thermodynamic driving-force analysis, reaction-network interpretation, and growth-condition optimization for oxide and solid-electrolyte systems.",
+    "methods": [
+      "Reaction Path Analysis: Track feasible intermediate pathways to identify synthesis routes with low impurity risk and high phase selectivity.",
+      "Thermodynamic Screening: Evaluate stability windows and competing phase formation across composition and processing conditions.",
+      "Growth-Condition Optimization: Link transport and reaction conditions to phase evolution behavior for practical process design."
+    ],
+    "deliverables": [
+      "Pathway Guidance: Ranked synthesis pathways for impurity-minimized target-phase formation.",
+      "Phase-Control Maps: Condition-dependent maps for stable/metastable regime selection and process tuning.",
+      "Scale-Up Rules: Actionable condition-selection guidelines for reproducible growth and synthesis optimization."
+    ],
+    "relatedPapers": [
+      {
+        "title": "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based Analysis",
+        "url": "https://doi.org/10.1021/acs.jpcc.5c04247",
+        "meta": "The Journal of Physical Chemistry C, 2025"
+      },
+      {
+        "title": "Predicting the synthesizability of double perovskite halides via interface reaction pathfinding",
+        "url": "https://doi.org/10.1021/acs.chemmater.3c03323",
+        "meta": "Chemistry of Materials, 2024"
+      },
+      {
+        "title": "Phase Evolution in La-Alloyed β-Ga2O3 Nanofibers: Experimental and DFT Simulation Insights",
+        "url": "https://doi.org/10.1021/acsomega.4c11050",
+        "meta": "ACS Omega, 2025"
+      }
+    ]
+  },
+  {
+    "title": "AI-assisted Synthesis Recipes",
+    "slug": "ai-assisted-synthesis-recipes",
+    "image": "/images/Research/ai-synthesis-recipes.png",
+    "description": "We build AI-assisted synthesis-recipe workflows by combining curated literature, simulation-derived descriptors, and data-driven models for practical materials discovery.",
+    "focus": "This topic centers on three tasks: extracting actionable synthesis knowledge from prior studies, building predictive models for synthesizability and property trends, and converting model outputs into practical recipe recommendations.",
+    "methods": [
+      "Knowledge Structuring: Organize literature and project data into machine-readable synthesis variables and outcome labels.",
+      "Modeling for Synthesizability: Train and validate data-driven models to predict feasible composition/process windows and likely synthesis success.",
+      "Design-Space Prioritization: Use AI predictions to rank candidate recipes and reduce experimental search cost."
+    ],
+    "deliverables": [
+      "Recipe Candidates: Ranked synthesis conditions and composition candidates for targeted materials systems.",
+      "Decision Support: Interpretable indicators linking input variables to expected synthesis outcomes and performance trends.",
+      "Faster Iteration: Closed-loop workflow templates that shorten the cycle between prediction and experimental validation."
+    ],
+    "relatedPapers": [
+      {
+        "title": "AI-driven quantitative review of mobility-stability trade-off in oxide semiconductors",
+        "url": "https://doi.org/10.1186/s40580-026-00535-3",
+        "meta": "Nano Convergence, 2026"
+      },
+      {
+        "title": "Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory",
+        "url": "https://doi.org/10.1016/j.cap.2024.10.012",
+        "meta": "Current Applied Physics, 2024"
+      },
+      {
+        "title": "Predicting the synthesizability of double perovskite halides via interface reaction pathfinding",
+        "url": "https://doi.org/10.1021/acs.chemmater.3c03323",
+        "meta": "Chemistry of Materials, 2024"
+      }
+    ]
+  },
+  {
+    "title": "Semiconductor Materials and Processing",
+    "slug": "semiconductor-materials-processing",
+    "image": "/images/Research/semiconductor-materials.png",
+    "description": "We model and optimize semiconductor materials and fabrication conditions to improve mobility, stability, and process reproducibility in oxide and wide-bandgap systems.",
+    "focus": "This topic integrates data-driven analysis, thin-film process engineering, and epitaxial growth optimization to connect process conditions with device-relevant electronic performance.",
+    "methods": [
+      "Data-Driven Assessment: Quantitative analysis of mobility-stability trade-offs in oxide semiconductors using curated publication and project data.",
+      "Thin-Film Process Control: Process-property modeling for atomically ordered oxide transistor channels, including deposition-window optimization.",
+      "Growth Simulation: CFD-supported optimization of HVPE growth conditions for uniform Ga2O3 film formation."
+    ],
+    "deliverables": [
+      "Performance Trade-off Maps: Interpretable mobility-stability trend maps for oxide semiconductor design decisions.",
+      "Process Windows: Practical deposition and growth condition guidelines linked to target electronic properties.",
+      "Reproducibility Support: Condition-selection rules for uniform film quality and robust device-level performance."
+    ],
+    "relatedPapers": [
+      {
+        "title": "AI-driven quantitative review of mobility-stability trade-off in oxide semiconductors",
+        "url": "https://doi.org/10.1186/s40580-026-00535-3",
+        "meta": "Nano Convergence, 2026"
+      },
+      {
+        "title": "Ultra-High Mobility Atomically-Ordered InGaZnO Transistors Through Atomic Layer Deposition",
+        "url": "https://doi.org/10.1002/aelm.202500137",
+        "meta": "Advanced Electronic Materials, 2025"
+      },
+      {
+        "title": "Design of optimized halide vapor phase epitaxy (HVPE) conditions for uniform α-Ga2O3 growth based on CFD analysis",
+        "url": "https://doi.org/10.1007/s43207-025-00523-z",
+        "meta": "Journal of the Korean Ceramic Society, 2025"
+      }
+    ]
+  },
+  {
+    "title": "Battery Materials and Processing",
+    "slug": "battery-materials-processing",
+    "image": "/images/Research/battery-materials.png",
+    "description": "We combine electrochemical, mechanical, and process modeling to design safer, higher-performance battery materials and manufacturing routes.",
+    "focus": "This topic connects electrode/electrolyte material behavior with process-level control, with emphasis on dry electrode fabrication, interfacial stabilization for lithium metal systems, and structural design for improved reversibility.",
+    "methods": [
+      "Process-Aware Modeling: Analyze how fabrication conditions shape electrode microstructure and downstream electrochemical performance.",
+      "Interface Engineering Simulation: Evaluate coating and interfacial design strategies for lithium metal and all-solid-state battery stability.",
+      "Coupled Performance Analysis: Quantify electrochemical reversibility and degradation trends using structure-informed multiscale models."
+    ],
+    "deliverables": [
+      "Manufacturing Windows: Actionable dry-process condition maps linked to target electrode performance.",
+      "Stability Guidelines: Design principles for chemically inert interfacial layers and reduced side-reaction risk.",
+      "Reversibility Improvement Paths: Practical structural optimization directions for longer cycle life and more stable lithium behavior."
+    ],
+    "relatedPapers": [
+      {
+        "title": "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
+        "url": "https://doi.org/10.1038/s43246-025-01046-0",
+        "meta": "Communications Materials, 2026"
+      },
+      {
+        "title": "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries",
+        "url": "https://doi.org/10.1016/j.apsadv.2025.100842",
+        "meta": "Applied Surface Science Advances, 2025"
+      },
+      {
+        "title": "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
+        "url": "https://doi.org/10.1038/s41528-025-00474-9",
+        "meta": "npj Flexible Electronics, 2025"
+      }
+    ]
+  }
+]

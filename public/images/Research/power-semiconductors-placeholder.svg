@@ -1,0 +1,22 @@
+<svg width="1280" height="704" viewBox="0 0 1280 704" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="704" rx="36" fill="#0B132B"/>
+  <rect width="1280" height="704" rx="36" fill="url(#paint0_radial)" fill-opacity="0.95"/>
+  <path d="M176 566H500C612 566 665 486 744 414C822 344 888 286 980 286H1110" stroke="#93C5FD" stroke-width="10" stroke-linecap="round" stroke-opacity="0.85"/>
+  <path d="M176 484H440C539 484 604 442 669 372C739 297 826 218 958 218H1108" stroke="#60A5FA" stroke-width="6" stroke-linecap="round" stroke-opacity="0.72"/>
+  <rect x="154" y="184" width="180" height="180" rx="26" fill="#0F172A" stroke="#3B82F6" stroke-opacity="0.35" stroke-width="4"/>
+  <path d="M240 208L196 296H234L220 340L292 252H252L268 208H240Z" fill="#DBEAFE"/>
+  <circle cx="240" cy="274" r="118" stroke="#60A5FA" stroke-opacity="0.18" stroke-width="2" stroke-dasharray="10 16"/>
+  <g opacity="0.86">
+    <text x="610" y="276" fill="#F8FAFC" font-family="Pretendard, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-0.04em">Power</text>
+    <text x="610" y="362" fill="#BFDBFE" font-family="Pretendard, Arial, sans-serif" font-size="74" font-weight="700" letter-spacing="-0.04em">Semiconductors</text>
+  </g>
+  <text x="613" y="430" fill="#CBD5E1" font-family="Pretendard, Arial, sans-serif" font-size="28" font-weight="500">Placeholder visual for Ga2O3 and wide-bandgap device directions</text>
+  <rect x="612" y="500" width="208" height="48" rx="24" fill="#1D4ED8" fill-opacity="0.18" stroke="#60A5FA" stroke-opacity="0.25"/>
+  <text x="651" y="532" fill="#DBEAFE" font-family="Pretendard, Arial, sans-serif" font-size="24" font-weight="600">High-field modeling</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1136 120) rotate(135.883) scale(870.785 735.818)">
+      <stop stop-color="#1D4ED8"/>
+      <stop offset="1" stop-color="#0B132B" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

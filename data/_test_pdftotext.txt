@@ -1,0 +1,66 @@
+RESEARCH ARTICLE
+                                                                                                                             www.afm-journal.de
+
+
+Anode SHIELD: A Surface Hybrid Interlayer for
+High-Capacity Anodes Toward Safe and Stable Lithium-Ion
+Batteries
+Seungho Lee, Dongsoo Lee, Junhyuk Kang, Subi Yang, Min Sung Kang, Wooseop Jo,
+Jihoon Seo, Sung Beom Cho,* Patrick Joohyun Kim,* and Junghyun Choi*
+
+                                                                                                  focused on enhancing the energy density
+Implementation of thick electrodes is a promising strategy for enhancing the                      of Li-ion batteries (LIBs).[1–3] Particularly, to
+energy density of Li-ion batteries (LIBs). However, high tortuosity and                           achieve higher energy densities, consider-
+sluggish Li-ion kinetics in thick anodes lead to depth-dependent reaction                         able eﬀort has been devoted at the mate-
+inhomogeneity, resulting in Li metal plating, electrode degradation, and poor                     rial level to developing active materials with
+                                                                                                  high theoretical capacities, such as Li metal
+electrochemical performance. This study applies a surface hybrid interlayer for
+                                                                                                  anodes, Si-based anodes, and Li-rich layered
+electrode stabilization and locking dendrite (SHIELD) to the anode surface to                     oxide cathodes.[4–8] Replacing conventional
+address these challenges. SHIELD immobilizes PF6 − anions in Li salts on its                      layered oxide cathodes and graphite anodes
+surface, facilitating eﬃcient Li-ion transport within the electrode and inducing                  in LIBs with advanced materials possessing
+a stable solid electrolyte interphase (SEI) layer with excellent ionic                            higher theoretical capacities is expected to
+                                                                                                  signiﬁcantly increase battery energy densi-
+conductivity. These eﬀects synergistically enhance Li-ion kinetics, thereby
+                                                                                                  ties. However, the practical application of
+suppressing reaction inhomogeneity. Additionally, SHIELD improves the                             these advanced active materials presents
+structural stability of the anode by providing mechanical reinforcement and                       signiﬁcant challenges related to process-
+guiding homogeneous reactions. Moreover, SHIELD inhibits dendritic Li                             ability and cycling stability, resulting in poor
+growth on the electrode surface even under Li plating conditions, owing to the                    performance.[9–12] Consequently, the com-
+increased Li-ion transference number. Consequently, the thick Si/graphite                         bination of high-Ni layered oxide cathodes
+                                                                                                  with Si/graphite blended anodes (Si/G an-
+anode with SHIELD (anode-SHIELD) exhibits superior cycling performance in
+                                                                                                  odes), typically containing a small Si frac-
+LIBs, maintaining its structural integrity. Furthermore, the anode-SHIELD                         tion (≤ 9%), has emerged as a widely ac-
+demonstrates signiﬁcantly improved cycling stability during repeated                              cepted strategy in the battery industry.[13–15]
+overcharge/discharge tests (at 120% of the electrode capacity), eﬀectively                        Nevertheless, as battery chemistry alone
+mitigating dendritic Li growth. This study oﬀers new insights for developing                      is insuﬃcient to meet the energy den-
+                                                                                                  sity demands of next-generation EVs, it is
+long-term, reversible, high-loading anodes for next-generation LIBs.
+                                                                                                  essential to enhance energy density not
+                                                                                                  only through material innovation but also
+                                                                                                  by improving other battery components.
+1. Introduction                                                                Fabricating thick electrodes represents another promising
+                                                                            strategy for increasing the energy density of the batteries.[16–18]
+To meet the growing demand for electric vehicles (EVs) with                 Increasing electrode thickness signiﬁcantly enhances the energy
+lower costs and longer driving ranges, extensive research has               contribution of batteries relative to that of inactive components
+
+S. Lee, S. Yang, P. J. Kim                                                  J. Kang, M. S. Kang, S. B. Cho
+School of Chemical Engineering and Applied Chemistry                        Department of Energy Systems Research
+Kyungpook National University                                               Ajou University
+Daehak-ro 80, Buk-gu, Daegu 41566, Republic of Korea                        Suwon - si, Gyeonggi-do 16499, Republic of Korea
+E-mail: pjkim@knu.ac.kr                                                     E-mail: csb@ajou.ac.kr
+S. Lee, D. Lee, W. Jo, J. Choi                                              J. Kang, M. S. Kang, S. B. Cho
+School of Chemical, Biological and Battery Engineering                      Department of Materials Science and Engineering
+Gachon University                                                           Ajou University
+Seongnam-si, Gyeonggi-do 13120, Republic of Korea                           Suwon - si, Gyeonggi-do 16499, Republic of Korea
+E-mail: junghchoi@gachon.ac.kr                                              J. Seo
+                                                                            Department of Chemical & Biomolecular Engineering
+      The ORCID identiﬁcation number(s) for the author(s) of this article   Clarkson University
+      can be found under https://doi.org/10.1002/adfm.202513744             Potsdam, NY 13699, USA
+
+DOI: 10.1002/adfm.202513744
+
+
+Adv. Funct. Mater. 2025, 35, e13744                               e13744 (1 of 12)                                          © 2025 Wiley-VCH GmbH
+

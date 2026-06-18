@@ -1,0 +1,31 @@
+{
+    "skipped":  [
+                    {
+                        "from":  "public/LAB_paper/Metal?nitrogen?carbon cluster?decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst (2).pdf",
+                        "to":  "public/LAB_paper/Metal?nitrogen?carbon cluster?decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst.pdf",
+                        "reason":  "target exists"
+                    }
+                ],
+    "renamed":  [
+                    {
+                        "to":  "public/LAB_paper/Designing Pr-based advanced photoluminescent materials using machine learning and density functional theory.pdf",
+                        "from":  "public/LAB_paper/Machine learning-enhanced design of lead-free halide perovskite materials using density functional theory (2).pdf"
+                    },
+                    {
+                        "to":  "public/LAB_paper/Uncertainty and irreproducibility of triboelectricity based on interface mechanochemistry.pdf",
+                        "from":  "public/LAB_paper/PhysRevLett.131.166201.pdf"
+                    },
+                    {
+                        "to":  "public/LAB_paper/Atomic structure and electrical activity of grain boundaries and Ruddlesden?Popper faults in cesium lead bromide perovskite.pdf",
+                        "from":  "public/LAB_paper/Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals.pdf"
+                    },
+                    {
+                        "to":  "public/LAB_paper/Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals.pdf",
+                        "from":  "public/LAB_paper/thind2018.pdf"
+                    },
+                    {
+                        "to":  "public/LAB_paper/Front Cover - Metal?Nitrogen?Carbon Cluster?Decorated Titanium Carbide is a Durable and Inexpensive Oxygen Reduction Reaction Electrocatalyst (ChemSusChem 21/2021).pdf",
+                        "from":  "public/LAB_paper/Metal?nitrogen?carbon cluster?decorated titanium carbide is a durable and inexpensive oxygen reduction reaction electrocatalyst.pdf"
+                    }
+                ]
+}

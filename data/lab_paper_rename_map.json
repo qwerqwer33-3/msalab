@@ -1,0 +1,493 @@
+﻿{
+    "skipped":  [
+                    {
+                        "file":  "3746252.3761359.pdf",
+                        "reason":  "no title metadata"
+                    },
+                    {
+                        "file":  "Establishment of a BaTiO_sub_3__sub_-based Computational Science Platform to Predict Multi-component Properties.pdf",
+                        "reason":  "no title metadata"
+                    },
+                    {
+                        "file":  "jeong2016.pdf",
+                        "reason":  "no title metadata"
+                    }
+                ],
+    "renamed":  [
+                    {
+                        "file":  "015103_1_5.0234072.pdf",
+                        "title":  "Orcid.eps",
+                        "renamed":  "Orcid.eps.pdf"
+                    },
+                    {
+                        "file":  "07c306_1_online.pdf",
+                        "title":  "untitled",
+                        "renamed":  "untitled.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0008622314004631-main.pdf",
+                        "title":  "tx1",
+                        "renamed":  "tx1.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0008622324007954-main.pdf",
+                        "title":  "Towards ultra-stable and dendrite-suppressed Li-metal batteries: Ion-regulating graphene-modified separators",
+                        "renamed":  "Towards ultra-stable and dendrite-suppressed Li-metal batteries Ion-regulating graphene-modified separators.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0008622324010893-main.pdf",
+                        "title":  "Crystallinity and composition engineering of organic crystal derived 1D carbons for advanced Li-metal based batteries",
+                        "renamed":  "Crystallinity and composition engineering of organic crystal derived 1D carbons for advanced Li-metal based batteries.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0022369722003924-main.pdf",
+                        "title":  "pcslogo-G-web.eps",
+                        "renamed":  "pcslogo-G-web.eps.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S004060901201752X-main.pdf",
+                        "title":  "tsf31475mw-eps.1.eps",
+                        "renamed":  "tsf31475mw-eps.1.eps.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0169433220320584-main.pdf",
+                        "title":  "??\u0000E\u0000n\u0000h\u0000a\u0000n\u0000c\u0000e\u0000m\u0000e\u0000n\u0000t\u0000 \u0000o\u0000f\u0000 \u0000t\u0000h\u0000e\u0000 \u0000q\u0000u\u0000a\u0000n\u0000t\u0000u\u0000m\u0000 \u0000c\u0000a\u0000p\u0000a\u0000c\u0000i\u0000t\u0000a\u0000n\u0000c\u0000e\u0000s\u0000 \u0000o\u0000f\u0000 \u0000g\u0000r\u0000o\u0000u\u0000p\u0000-\u00001\u00004\u0000 \u0000e\u0000l\u0000e\u0000m\u0000e\u0000n\u0000t\u0000a\u0000l\u0000 \u0000t\u0000w\u0000o\u0000-\u0000d\u0000i\u0000m\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000a\u0000l\u0000 \u0000m\u0000a\u0000t\u0000e\u0000r\u0000i\u0000a\u0000l\u0000s\u0000 \u0000b\u0000y\u0000 \u0000T\u0000i\u0000-\u0000d\u0000o\u0000p\u0000i\u0000n\u0000g\u0000:\u0000 \u0000A\u0000 \u0000f\u0000i\u0000r\u0000s\u0000t\u0000 \u0000p\u0000r\u0000i\u0000n\u0000c\u0000i\u0000p\u0000l\u0000e\u0000s\u0000 \u0000s\u0000t\u0000u\u0000d\u0000y",
+                        "renamed":  "Enhancement of the quantum capacitances of group-14 elemental two-dimensional materials by Ti-doping A first principles.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0169433223000065-main.pdf",
+                        "title":  "Modulation of Molybdenum oxidation state via Catalytic-oxidation",
+                        "renamed":  "Modulation of Molybdenum oxidation state via Catalytic-oxidation.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0169433225011869-main.pdf",
+                        "title":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film",
+                        "renamed":  "Atomic interface structure and electronic properties at nanoscale rotated crystal in Ga2O3 homoepitaxial film.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0264127523007724-main.pdf",
+                        "title":  "A versatile strategy for hybridizing small experimental and large simulation data: A case for ceramic tape-casting process",
+                        "renamed":  "A versatile strategy for hybridizing small experimental and large simulation data A case for ceramic tape-casting proces.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S092540052401760X-main.pdf",
+                        "title":  "Gasochromic WO3/MoO3 sensors prepared by co-sputtering for hydrogen leak detection with long-lasting visible signal",
+                        "renamed":  "Gasochromic WO3MoO3 sensors prepared by co-sputtering for hydrogen leak detection with long-lasting visible signal.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0955221917306532-main.pdf",
+                        "title":  "??\u0000E\u0000l\u0000u\u0000c\u0000i\u0000d\u0000a\u0000t\u0000i\u0000n\u0000g\u0000 \u0000t\u0000h\u0000e\u0000 \u0000u\u0000n\u0000i\u0000n\u0000t\u0000e\u0000n\u0000t\u0000i\u0000o\u0000n\u0000a\u0000l\u0000 \u0000p\u0000-\u0000t\u0000y\u0000p\u0000e\u0000 \u0000n\u0000a\u0000t\u0000u\u0000r\u0000e\u0000 \u0000o\u0000f\u0000 \u0000s\u0000p\u0000i\u0000n\u0000e\u0000l\u0000 \u0000C\u0000o\u00003\u0000O\u00004\u0000:\u0000 \u0000A\u0000 \u0000d\u0000e\u0000f\u0000e\u0000c\u0000t\u0000 \u0000s\u0000t\u0000u\u0000d\u0000y\u0000 \u0000u\u0000s\u0000i\u0000n\u0000g\u0000 \u0000a\u0000b\u0000-\u0000i\u0000n\u0000i\u0000t\u0000i\u0000o\u0000 \u0000c\u0000a\u0000l\u0000c\u0000u\u0000l\u0000a\u0000t\u0000i\u0000o\u0000n",
+                        "renamed":  "Elucidating the unintentional p-type nature of spinel Co3O4 A defect study using ab-initio calculation.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S0955221920307093-main.pdf",
+                        "title":  "Heterostructural phase diagram of Ga2O3?based solid solution with Al2O3",
+                        "renamed":  "Heterostructural phase diagram of Ga2O3based solid solution with Al2O3.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S1385894723032837-main.pdf",
+                        "title":  "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility",
+                        "renamed":  "Isovalent multi-component doping strategy for stabilizing cubic-Li7La3Zr2O12 with excellent Li mobility.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S1385894724011823-main.pdf",
+                        "title":  "Demystifying role of local distortion in emission colors tuning of lead-free zero-dimensional metal halide nanocrystals",
+                        "renamed":  "Demystifying role of local distortion in emission colors tuning of lead-free zero-dimensional metal halide nanocrystals.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S1385894725078581-main.pdf",
+                        "title":  "Investigation on the effect of metal incorporation in metal selenide nanoparticles and their encapsulation in hollow carbon ...",
+                        "renamed":  "Investigation on the effect of metal incorporation in metal selenide nanoparticles and their encapsulation in hollow car.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S1385894725132555-main.pdf",
+                        "title":  "References",
+                        "renamed":  "References.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S1386947722003198-main.pdf",
+                        "title":  "physelogo-G-web.eps",
+                        "renamed":  "physelogo-G-web.eps.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S1567173924002256-main.pdf",
+                        "title":  "article",
+                        "renamed":  "article.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S2095495625007958-main.pdf",
+                        "title":  "JECHEM.eps",
+                        "renamed":  "JECHEM.eps.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S2211285521007242-main.pdf",
+                        "title":  "Flexoelectric-boosted piezoelectricity of BaTiO3@SrTiO3 core-shell nanostructure determined by multiscale simulations for f ...",
+                        "renamed":  "Flexoelectric-boosted piezoelectricity of BaTiO3@SrTiO3 core-shell nanostructure determined by multiscale simulations fo.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S2211285522008606-main.pdf",
+                        "title":  "Reversible switching performance of water droplet-driven triboelectric nanogenerators using a magnetocontrollable lubricant ...",
+                        "renamed":  "Reversible switching performance of water droplet-driven triboelectric nanogenerators using a magnetocontrollable lubric.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S2211285525008031-main.pdf",
+                        "title":  "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fast k ...",
+                        "renamed":  "Structurally disordered lithiophilic graphene via solid-state exfoliation enables reversible lithium deposition with fas.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S2352847824001461-main.pdf",
+                        "title":  "Hcross_10 mm_3C.eps",
+                        "renamed":  "Hcross_10 mm_3C.eps.pdf"
+                    },
+                    {
+                        "file":  "1-s2.0-S2666523925001527-main.pdf",
+                        "title":  "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries",
+                        "renamed":  "Rational material design of chemically inert oxide anode coating layers for lithium metal and all-solid-state batteries.pdf"
+                    },
+                    {
+                        "file":  "162101_1_online.pdf",
+                        "title":  "Epitaxial engineering of polar ??-Ga2O3 for tunable two-dimensional electron gas at the heterointerface",
+                        "renamed":  "Epitaxial engineering of polar -Ga2O3 for tunable two-dimensional electron gas at the heterointerface.pdf"
+                    },
+                    {
+                        "file":  "a-hierarchically-tailored-wrinkled-three-dimensional-foam-for-enhanced-elastic-supercapacitor-electrodes.pdf",
+                        "title":  "A Hierarchically Tailored Wrinkled Three-Dimensional Foam for Enhanced Elastic Supercapacitor Electrodes",
+                        "renamed":  "A Hierarchically Tailored Wrinkled Three-Dimensional Foam for Enhanced Elastic Supercapacitor Electrodes.pdf"
+                    },
+                    {
+                        "file":  "Adv Elect Materials - 2023 - Fatti - Rational Design Strategy for Triboelectric Nanogenerators Based on Electron Back Flow.pdf",
+                        "title":  "Rational Design Strategy for Triboelectric Nanogenerators Based on Electron Back Flow and Ionic Defects: The Case of Polytetrafluoroethylene",
+                        "renamed":  "Rational Design Strategy for Triboelectric Nanogenerators Based on Electron Back Flow and Ionic Defects The Case of Poly.pdf"
+                    },
+                    {
+                        "file":  "Adv Elect Materials - 2023 - Kim - The Significance of an In Situ ALD Al2O3 Stacked Structure for p‐Type SnO TFT.pdf",
+                        "title":  "??\u0000T\u0000h\u0000e\u0000 \u0000S\u0000i\u0000g\u0000n\u0000i\u0000f\u0000i\u0000c\u0000a\u0000n\u0000c\u0000e\u0000 \u0000o\u0000f\u0000 \u0000a\u0000n\u0000 \u0000I\u0000n\u0000 \u0000S\u0000i\u0000t\u0000u\u0000 \u0000A\u0000L\u0000D\u0000 \u0000A\u0000l\u00002\u0000O\u00003\u0000 \u0000S\u0000t\u0000a\u0000c\u0000k\u0000e\u0000d\u0000 \u0000S\u0000t\u0000r\u0000u\u0000c\u0000t\u0000u\u0000r\u0000e\u0000 \u0000f\u0000o\u0000r\u0000 \u0000p \u0010\u0000T\u0000y\u0000p\u0000e\u0000 \u0000S\u0000n\u0000O\u0000 \u0000T\u0000F\u0000T\u0000 \u0000P\u0000e\u0000r\u0000f\u0000o\u0000r\u0000m\u0000a\u0000n\u0000c\u0000e\u0000 \u0000a\u0000n\u0000d\u0000 \u0000M\u0000o\u0000n\u0000o\u0000l\u0000i\u0000t\u0000h\u0000i\u0000c\u0000 \u0000A\u0000l\u0000l \u0010\u0000A\u0000L\u0000D \u0010\u0000C\u0000h\u0000a\u0000n\u0000n\u0000e\u0000l\u0000 \u0000C\u0000M\u0000O\u0000S\u0000 \u0000I\u0000n\u0000v\u0000e\u0000r\u0000t\u0000e\u0000r\u0000 \u0000A\u0000p\u0000p\u0000l\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000s",
+                        "renamed":  "The Significance of an In Situ ALD Al2O3 Stacked Structure for p Type SnO TFT Performance and Monolithic All ALD Channel.pdf"
+                    },
+                    {
+                        "file":  "Adv Elect Materials - 2025 - Kim - Ultra‐High Mobility Atomically‐Ordered InGaZnO Transistors Through Atomic Layer.pdf",
+                        "title":  "??\u0000U\u0000l\u0000t\u0000r\u0000a \u0010\u0000H\u0000i\u0000g\u0000h\u0000 \u0000M\u0000o\u0000b\u0000i\u0000l\u0000i\u0000t\u0000y\u0000 \u0000A\u0000t\u0000o\u0000m\u0000i\u0000c\u0000a\u0000l\u0000l\u0000y \u0010\u0000O\u0000r\u0000d\u0000e\u0000r\u0000e\u0000d\u0000 \u0000I\u0000n\u0000G\u0000a\u0000Z\u0000n\u0000O\u0000 \u0000T\u0000r\u0000a\u0000n\u0000s\u0000i\u0000s\u0000t\u0000o\u0000r\u0000s\u0000 \u0000T\u0000h\u0000r\u0000o\u0000u\u0000g\u0000h\u0000 \u0000A\u0000t\u0000o\u0000m\u0000i\u0000c\u0000 \u0000L\u0000a\u0000y\u0000e\u0000r\u0000 \u0000D\u0000e\u0000p\u0000o\u0000s\u0000i\u0000t\u0000i\u0000o\u0000n",
+                        "renamed":  "Ultra High Mobility Atomically Ordered InGaZnO Transistors Through Atomic Layer Deposition.pdf"
+                    },
+                    {
+                        "file":  "Adv Funct Materials - 2018 - Kim - Flexible Crossbar‐Structured Phase Change Memory Array via Mo‐Based Interfacial Physical.pdf",
+                        "title":  "??\u0000F\u0000l\u0000e\u0000x\u0000i\u0000b\u0000l\u0000e\u0000 \u0000C\u0000r\u0000o\u0000s\u0000s\u0000b\u0000a\u0000r \u0010\u0000S\u0000t\u0000r\u0000u\u0000c\u0000t\u0000u\u0000r\u0000e\u0000d\u0000 \u0000P\u0000h\u0000a\u0000s\u0000e\u0000 \u0000C\u0000h\u0000a\u0000n\u0000g\u0000e\u0000 \u0000M\u0000e\u0000m\u0000o\u0000r\u0000y\u0000 \u0000A\u0000r\u0000r\u0000a\u0000y\u0000 \u0000v\u0000i\u0000a\u0000 \u0000M\u0000o \u0010\u0000B\u0000a\u0000s\u0000e\u0000d\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000f\u0000a\u0000c\u0000i\u0000a\u0000l\u0000 \u0000P\u0000h\u0000y\u0000s\u0000i\u0000c\u0000a\u0000l\u0000 \u0000L\u0000i\u0000f\u0000t \u0010\u0000O\u0000f\u0000f",
+                        "renamed":  "Flexible Crossbar Structured Phase Change Memory Array via Mo Based Interfacial Physical Lift Off.pdf"
+                    },
+                    {
+                        "file":  "Adv Funct Materials - 2023 - Sivanantham - Complementary Functions of Vanadium in Boosting Electrocatalytic Activity of.pdf",
+                        "title":  "??\u0000C\u0000o\u0000m\u0000p\u0000l\u0000e\u0000m\u0000e\u0000n\u0000t\u0000a\u0000r\u0000y\u0000 \u0000F\u0000u\u0000n\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000 \u0000o\u0000f\u0000 \u0000V\u0000a\u0000n\u0000a\u0000d\u0000i\u0000u\u0000m\u0000 \u0000i\u0000n\u0000 \u0000B\u0000o\u0000o\u0000s\u0000t\u0000i\u0000n\u0000g\u0000 \u0000E\u0000l\u0000e\u0000c\u0000t\u0000r\u0000o\u0000c\u0000a\u0000t\u0000a\u0000l\u0000y\u0000t\u0000i\u0000c\u0000 \u0000A\u0000c\u0000t\u0000i\u0000v\u0000i\u0000t\u0000y\u0000 \u0000o\u0000f\u0000 \u0000C\u0000u\u0000C\u0000o\u0000N\u0000i\u0000F\u0000e\u0000M\u0000n\u0000 \u0000H\u0000i\u0000g\u0000h \u0010\u0000E\u0000n\u0000t\u0000r\u0000o\u0000p\u0000y\u0000 \u0000A\u0000l\u0000l\u0000o\u0000y\u0000 \u0000f\u0000o\u0000r\u0000 \u0000W\u0000a\u0000t\u0000e\u0000r\u0000 \u0000S\u0000p\u0000l\u0000i\u0000t\u0000t\u0000i\u0000n\u0000g",
+                        "renamed":  "Complementary Functions of Vanadium in Boosting Electrocatalytic Activity of CuCoNiFeMn High Entropy Alloy for Water Spl.pdf"
+                    },
+                    {
+                        "file":  "Adv Funct Materials - 2024 - Jang - Long‐Lasting  Steady and Enhanced Energy Harvesting by Inserting a Conductive Layer.pdf",
+                        "title":  "??\u0000L\u0000o\u0000n\u0000g \u0010\u0000L\u0000a\u0000s\u0000t\u0000i\u0000n\u0000g\u0000,\u0000 \u0000S\u0000t\u0000e\u0000a\u0000d\u0000y\u0000 \u0000a\u0000n\u0000d\u0000 \u0000E\u0000n\u0000h\u0000a\u0000n\u0000c\u0000e\u0000d\u0000 \u0000E\u0000n\u0000e\u0000r\u0000g\u0000y\u0000 \u0000H\u0000a\u0000r\u0000v\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000 \u0000b\u0000y\u0000 \u0000I\u0000n\u0000s\u0000e\u0000r\u0000t\u0000i\u0000n\u0000g\u0000 \u0000a\u0000 \u0000C\u0000o\u0000n\u0000d\u0000u\u0000c\u0000t\u0000i\u0000v\u0000e\u0000 \u0000L\u0000a\u0000y\u0000e\u0000r\u0000 \u0000i\u0000n\u0000t\u0000o\u0000 \u0000t\u0000h\u0000e\u0000 \u0000P\u0000i\u0000e\u0000z\u0000o\u0000e\u0000l\u0000e\u0000c\u0000t\u0000r\u0000i\u0000c\u0000 \u0000P\u0000o\u0000l\u0000y\u0000m\u0000e\u0000r",
+                        "renamed":  "Long Lasting, Steady and Enhanced Energy Harvesting by Inserting a Conductive Layer into the Piezoelectric Polymer.pdf"
+                    },
+                    {
+                        "file":  "Adv Funct Materials - 2025 - Cha - Self‐Reinforcing Degradation of Solution‐Processed Small‐Molecule OLEDs  Excited‐States.pdf",
+                        "title":  "??\u0000S\u0000e\u0000l\u0000f \u0010\u0000R\u0000e\u0000i\u0000n\u0000f\u0000o\u0000r\u0000c\u0000i\u0000n\u0000g\u0000 \u0000D\u0000e\u0000g\u0000r\u0000a\u0000d\u0000a\u0000t\u0000i\u0000o\u0000n\u0000 \u0000o\u0000f\u0000 \u0000S\u0000o\u0000l\u0000u\u0000t\u0000i\u0000o\u0000n \u0010\u0000P\u0000r\u0000o\u0000c\u0000e\u0000s\u0000s\u0000e\u0000d\u0000 \u0000S\u0000m\u0000a\u0000l\u0000l \u0010\u0000M\u0000o\u0000l\u0000e\u0000c\u0000u\u0000l\u0000e\u0000 \u0000O\u0000L\u0000E\u0000D\u0000s\u0000:\u0000 \u0000E\u0000x\u0000c\u0000i\u0000t\u0000e\u0000d \u0010\u0000S\u0000t\u0000a\u0000t\u0000e\u0000s\u0000 \u0000a\u0000n\u0000d\u0000 \u0000M\u0000o\u0000l\u0000e\u0000c\u0000u\u0000l\u0000a\u0000r\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000a\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000 \u0000a\u0000s\u0000 \u0000K\u0000e\u0000y\u0000 \u0000T\u0000r\u0000i\u0000g\u0000g\u0000e\u0000r\u0000s",
+                        "renamed":  "Self Reinforcing Degradation of Solution Processed Small Molecule OLEDs Excited States and Molecular Interactions as Key.pdf"
+                    },
+                    {
+                        "file":  "Adv Funct Materials - 2025 - Lee - Anode SHIELD  A Surface Hybrid Interlayer for High‐Capacity Anodes Toward Safe and.pdf",
+                        "title":  "??\u0000A\u0000n\u0000o\u0000d\u0000e\u0000 \u0000S\u0000H\u0000I\u0000E\u0000L\u0000D\u0000:\u0000 \u0000A\u0000 \u0000S\u0000u\u0000r\u0000f\u0000a\u0000c\u0000e\u0000 \u0000H\u0000y\u0000b\u0000r\u0000i\u0000d\u0000 \u0000I\u0000n\u0000t\u0000e\u0000r\u0000l\u0000a\u0000y\u0000e\u0000r\u0000 \u0000f\u0000o\u0000r\u0000 \u0000H\u0000i\u0000g\u0000h \u0010\u0000C\u0000a\u0000p\u0000a\u0000c\u0000i\u0000t\u0000y\u0000 \u0000A\u0000n\u0000o\u0000d\u0000e\u0000s\u0000 \u0000T\u0000o\u0000w\u0000a\u0000r\u0000d\u0000 \u0000S\u0000a\u0000f\u0000e\u0000 \u0000a\u0000n\u0000d\u0000 \u0000S\u0000t\u0000a\u0000b\u0000l\u0000e\u0000 \u0000L\u0000i\u0000t\u0000h\u0000i\u0000u\u0000m \u0010\u0000I\u0000o\u0000n\u0000 \u0000B\u0000a\u0000t\u0000t\u0000e\u0000r\u0000i\u0000e\u0000s",
+                        "renamed":  "Anode SHIELD A Surface Hybrid Interlayer for High Capacity Anodes Toward Safe and Stable Lithium Ion Batteries.pdf"
+                    },
+                    {
+                        "file":  "Advanced Materials - 2018 - Majidi - New Class of Electrocatalysts Based on 2D Transition Metal Dichalcogenides in Ionic.pdf",
+                        "title":  "New Class of Electrocatalysts Based on 2D Transition Metal Dichalcogenides in Ionic Liquid",
+                        "renamed":  "New Class of Electrocatalysts Based on 2D Transition Metal Dichalcogenides in Ionic Liquid.pdf"
+                    },
+                    {
+                        "file":  "Advanced Materials - 2018 - Thind - Atomic Structure and Electrical Activity of Grain Boundaries and Ruddlesden Popper.pdf",
+                        "title":  "Atomic Structure and Electrical Activity of Grain Boundaries and Ruddlesden?Popper Faults in Cesium Lead Bromide Perovskite",
+                        "renamed":  "Atomic Structure and Electrical Activity of Grain Boundaries and RuddlesdenPopper Faults in Cesium Lead Bromide Perovski.pdf"
+                    },
+                    {
+                        "file":  "Advanced Materials - 2019 - Chun - A Micropillar‐Assisted Versatile Strategy for Highly Sensitive and Efficient.pdf",
+                        "title":  "??\u0000A\u0000 \u0000M\u0000i\u0000c\u0000r\u0000o\u0000p\u0000i\u0000l\u0000l\u0000a\u0000r \u0010\u0000A\u0000s\u0000s\u0000i\u0000s\u0000t\u0000e\u0000d\u0000 \u0000V\u0000e\u0000r\u0000s\u0000a\u0000t\u0000i\u0000l\u0000e\u0000 \u0000S\u0000t\u0000r\u0000a\u0000t\u0000e\u0000g\u0000y\u0000 \u0000f\u0000o\u0000r\u0000 \u0000H\u0000i\u0000g\u0000h\u0000l\u0000y\u0000 \u0000S\u0000e\u0000n\u0000s\u0000i\u0000t\u0000i\u0000v\u0000e\u0000 \u0000a\u0000n\u0000d\u0000 \u0000E\u0000f\u0000f\u0000i\u0000c\u0000i\u0000e\u0000n\u0000t\u0000 \u0000T\u0000r\u0000i\u0000b\u0000o\u0000e\u0000l\u0000e\u0000c\u0000t\u0000r\u0000i\u0000c\u0000 \u0000E\u0000n\u0000e\u0000r\u0000g\u0000y\u0000 \u0000G\u0000e\u0000n\u0000e\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000 \u0000u\u0000n\u0000d\u0000e\u0000r\u0000 \u0000I\u0000n \u0010\u0000P\u0000l\u0000a\u0000n\u0000e\u0000 \u0000S\u0000t\u0000i\u0000m\u0000u\u0000l\u0000i",
+                        "renamed":  "A Micropillar Assisted Versatile Strategy for Highly Sensitive and Efficient Triboelectric Energy Generation under In Pl.pdf"
+                    },
+                    {
+                        "file":  "Advanced Materials - 2020 - Chun - Triboelectric Energy  A Micropillar‐Assisted Versatile Strategy for Highly Sensitive and.pdf",
+                        "title":  "??\u0000T\u0000r\u0000i\u0000b\u0000o\u0000e\u0000l\u0000e\u0000c\u0000t\u0000r\u0000i\u0000c\u0000 \u0000E\u0000n\u0000e\u0000r\u0000g\u0000y\u0000:\u0000 \u0000A\u0000 \u0000M\u0000i\u0000c\u0000r\u0000o\u0000p\u0000i\u0000l\u0000l\u0000a\u0000r \u0010\u0000A\u0000s\u0000s\u0000i\u0000s\u0000t\u0000e\u0000d\u0000 \u0000V\u0000e\u0000r\u0000s\u0000a\u0000t\u0000i\u0000l\u0000e\u0000 \u0000S\u0000t\u0000r\u0000a\u0000t\u0000e\u0000g\u0000y\u0000 \u0000f\u0000o\u0000r\u0000 \u0000H\u0000i\u0000g\u0000h\u0000l\u0000y\u0000 \u0000S\u0000e\u0000n\u0000s\u0000i\u0000t\u0000i\u0000v\u0000e\u0000 \u0000a\u0000n\u0000d\u0000 \u0000E\u0000f\u0000f\u0000i\u0000c\u0000i\u0000e\u0000n\u0000t\u0000 \u0000T\u0000r\u0000i\u0000b\u0000o\u0000e\u0000l\u0000e\u0000c\u0000t\u0000r\u0000i\u0000c\u0000 \u0000E\u0000n\u0000e\u0000r\u0000g\u0000y\u0000 \u0000G\u0000e\u0000n\u0000e\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000 \u0000u\u0000n\u0000d\u0000e\u0000r\u0000 \u0000I\u0000n \u0010\u0000P\u0000l\u0000a\u0000n\u0000e\u0000 \u0000S\u0000t\u0000i\u0000m\u0000u\u0000l\u0000i\u0000 \u0000(\u0000A\u0000d\u0000v\u0000.\u0000 \u0000M\u0000a\u0000t\u0000e\u0000r\u0000.\u0000 \u00002\u0000/\u00002\u00000\u00002\u00000\u0000\\",
+                        "renamed":  "Triboelectric Energy A Micropillar Assisted Versatile Strategy for Highly Sensitive and Efficient Triboelectric Energy G.pdf"
+                    },
+                    {
+                        "file":  "Advanced Materials - 2020 - Hemmat - Quasi‐Binary Transition Metal Dichalcogenide Alloys  Thermodynamic Stability.pdf",
+                        "title":  "??\u0000Q\u0000u\u0000a\u0000s\u0000i \u0010\u0000B\u0000i\u0000n\u0000a\u0000r\u0000y\u0000 \u0000T\u0000r\u0000a\u0000n\u0000s\u0000i\u0000t\u0000i\u0000o\u0000n\u0000 \u0000M\u0000e\u0000t\u0000a\u0000l\u0000 \u0000D\u0000i\u0000c\u0000h\u0000a\u0000l\u0000c\u0000o\u0000g\u0000e\u0000n\u0000i\u0000d\u0000e\u0000 \u0000A\u0000l\u0000l\u0000o\u0000y\u0000s\u0000:\u0000 \u0000T\u0000h\u0000e\u0000r\u0000m\u0000o\u0000d\u0000y\u0000n\u0000a\u0000m\u0000i\u0000c\u0000 \u0000S\u0000t\u0000a\u0000b\u0000i\u0000l\u0000i\u0000t\u0000y\u0000 \u0000P\u0000r\u0000e\u0000d\u0000i\u0000c\u0000t\u0000i\u0000o\u0000n\u0000,\u0000 \u0000S\u0000c\u0000a\u0000l\u0000a\u0000b\u0000l\u0000e\u0000 \u0000S\u0000y\u0000n\u0000t\u0000h\u0000e\u0000s\u0000i\u0000s\u0000,\u0000 \u0000a\u0000n\u0000d\u0000 \u0000A\u0000p\u0000p\u0000l\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n",
+                        "renamed":  "Quasi Binary Transition Metal Dichalcogenide Alloys Thermodynamic Stability Prediction, Scalable Synthesis, and Applicat.pdf"
+                    },
+                    {
+                        "file":  "Advanced Materials - 2025 - Han - Solvent‐Tuned Plasticity for Various Binder‐Free Applications of a New Lead‐Free.pdf",
+                        "title":  "??\u0000S\u0000o\u0000l\u0000v\u0000e\u0000n\u0000t \u0010\u0000T\u0000u\u0000n\u0000e\u0000d\u0000 \u0000P\u0000l\u0000a\u0000s\u0000t\u0000i\u0000c\u0000i\u0000t\u0000y\u0000 \u0000f\u0000o\u0000r\u0000 \u0000V\u0000a\u0000r\u0000i\u0000o\u0000u\u0000s\u0000 \u0000B\u0000i\u0000n\u0000d\u0000e\u0000r \u0010\u0000F\u0000r\u0000e\u0000e\u0000 \u0000A\u0000p\u0000p\u0000l\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000s\u0000 \u0000o\u0000f\u0000 \u0000a\u0000 \u0000N\u0000e\u0000w\u0000 \u0000L\u0000e\u0000a\u0000d \u0010\u0000F\u0000r\u0000e\u0000e\u0000 \u0000M\u0000a\u0000n\u0000g\u0000a\u0000n\u0000e\u0000s\u0000e\u0000 \u0000H\u0000a\u0000l\u0000i\u0000d\u0000e",
+                        "renamed":  "Solvent Tuned Plasticity for Various Binder Free Applications of a New Lead Free Manganese Halide.pdf"
+                    },
+                    {
+                        "file":  "c2tc00257d.pdf",
+                        "title":  "C2TC00257D 1595..1600",
+                        "renamed":  "C2TC00257D 1595..1600.pdf"
+                    },
+                    {
+                        "file":  "c4cp01518e.pdf",
+                        "title":  "RSC_CP_C4CP01518E 3..8",
+                        "renamed":  "RSC_CP_C4CP01518E 3..8.pdf"
+                    },
+                    {
+                        "file":  "c4cp03811h.pdf",
+                        "title":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field",
+                        "renamed":  "Achieving a direct band gap in oxygen functionalized-monolayer scandium carbide by applying an electric field.pdf"
+                    },
+                    {
+                        "file":  "c7ta06578g.pdf",
+                        "title":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films",
+                        "renamed":  "Atmospheric pressure chemical vapor deposition of methylammonium bismuth iodide thin films.pdf"
+                    },
+                    {
+                        "file":  "Carbon Energy - 2025 - Yang - Insights Into Improving the Li‐Ion Transference Number and Li Deposition Uniformity Toward a.pdf",
+                        "title":  "??\u0000I\u0000n\u0000s\u0000i\u0000g\u0000h\u0000t\u0000s\u0000 \u0000I\u0000n\u0000t\u0000o\u0000 \u0000I\u0000m\u0000p\u0000r\u0000o\u0000v\u0000i\u0000n\u0000g\u0000 \u0000t\u0000h\u0000e\u0000 \u0000L\u0000i \u0010\u0000I\u0000o\u0000n\u0000 \u0000T\u0000r\u0000a\u0000n\u0000s\u0000f\u0000e\u0000r\u0000e\u0000n\u0000c\u0000e\u0000 \u0000N\u0000u\u0000m\u0000b\u0000e\u0000r\u0000 \u0000a\u0000n\u0000d\u0000 \u0000L\u0000i\u0000 \u0000D\u0000e\u0000p\u0000o\u0000s\u0000i\u0000t\u0000i\u0000o\u0000n\u0000 \u0000U\u0000n\u0000i\u0000f\u0000o\u0000r\u0000m\u0000i\u0000t\u0000y\u0000 \u0000T\u0000o\u0000w\u0000a\u0000r\u0000d\u0000 \u0000a\u0000 \u0000H\u0000i\u0000g\u0000h \u0010\u0000C\u0000u\u0000r\u0000r\u0000e\u0000n\u0000t \u0010\u0000D\u0000e\u0000n\u0000s\u0000i\u0000t\u0000y\u0000 \u0000L\u0000i\u0000t\u0000h\u0000i\u0000u\u0000m\u0000 \u0000M\u0000e\u0000t\u0000a\u0000l\u0000 \u0000A\u0000n\u0000o\u0000d\u0000e",
+                        "renamed":  "Insights Into Improving the Li Ion Transference Number and Li Deposition Uniformity Toward a High Current Density Lithiu.pdf"
+                    },
+                    {
+                        "file":  "ChemPhysChem - 2014 - Lee - Electronic Properties of Transition‐Metal‐Decorated Silicene.pdf",
+                        "title":  "??\u0000E\u0000l\u0000e\u0000c\u0000t\u0000r\u0000o\u0000n\u0000i\u0000c\u0000 \u0000P\u0000r\u0000o\u0000p\u0000e\u0000r\u0000t\u0000i\u0000e\u0000s\u0000 \u0000o\u0000f\u0000 \u0000T\u0000r\u0000a\u0000n\u0000s\u0000i\u0000t\u0000i\u0000o\u0000n \u0010\u0000M\u0000e\u0000t\u0000a\u0000l \u0010\u0000D\u0000e\u0000c\u0000o\u0000r\u0000a\u0000t\u0000e\u0000d\u0000 \u0000S\u0000i\u0000l\u0000i\u0000c\u0000e\u0000n\u0000e",
+                        "renamed":  "Electronic Properties of Transition Metal Decorated Silicene.pdf"
+                    },
+                    {
+                        "file":  "ChemSusChem - 2021 - Beom Cho - Front Cover  Metal‐Nitrogen‐Carbon Cluster‐Decorated Titanium Carbide is a Durable and.pdf",
+                        "title":  "??\u0000F\u0000r\u0000o\u0000n\u0000t\u0000 \u0000C\u0000o\u0000v\u0000e\u0000r\u0000:\u0000 \u0000M\u0000e\u0000t\u0000a\u0000l \u0010\u0000N\u0000i\u0000t\u0000r\u0000o\u0000g\u0000e\u0000n \u0010\u0000C\u0000a\u0000r\u0000b\u0000o\u0000n\u0000 \u0000C\u0000l\u0000u\u0000s\u0000t\u0000e\u0000r \u0010\u0000D\u0000e\u0000c\u0000o\u0000r\u0000a\u0000t\u0000e\u0000d\u0000 \u0000T\u0000i\u0000t\u0000a\u0000n\u0000i\u0000u\u0000m\u0000 \u0000C\u0000a\u0000r\u0000b\u0000i\u0000d\u0000e\u0000 \u0000i\u0000s\u0000 \u0000a\u0000 \u0000D\u0000u\u0000r\u0000a\u0000b\u0000l\u0000e\u0000 \u0000a\u0000n\u0000d\u0000 \u0000I\u0000n\u0000e\u0000x\u0000p\u0000e\u0000n\u0000s\u0000i\u0000v\u0000e\u0000 \u0000O\u0000x\u0000y\u0000g\u0000e\u0000n\u0000 \u0000R\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000 \u0000R\u0000e\u0000a\u0000c\u0000t\u0000i\u0000o\u0000n\u0000 \u0000E\u0000l\u0000e\u0000c\u0000t\u0000r\u0000o\u0000c\u0000a\u0000t\u0000a\u0000l\u0000y\u0000s\u0000t\u0000 \u0000(\u0000C\u0000h\u0000e\u0000m\u0000S\u0000u\u0000s\u0000C\u0000h\u0000e\u0000m\u0000 \u00002\u00001\u0000/\u00002\u00000\u00002\u00001\u0000\\",
+                        "renamed":  "Front Cover Metal Nitrogen Carbon Cluster Decorated Titanium Carbide is a Durable and Inexpensive Oxygen Reduction React.pdf"
+                    },
+                    {
+                        "file":  "ChemSusChem - 2021 - Beom Cho - Metal‐Nitrogen‐Carbon Cluster‐Decorated Titanium Carbide is a Durable and Inexpensive.pdf",
+                        "title":  "??\u0000M\u0000e\u0000t\u0000a\u0000l \u0010\u0000N\u0000i\u0000t\u0000r\u0000o\u0000g\u0000e\u0000n \u0010\u0000C\u0000a\u0000r\u0000b\u0000o\u0000n\u0000 \u0000C\u0000l\u0000u\u0000s\u0000t\u0000e\u0000r \u0010\u0000D\u0000e\u0000c\u0000o\u0000r\u0000a\u0000t\u0000e\u0000d\u0000 \u0000T\u0000i\u0000t\u0000a\u0000n\u0000i\u0000u\u0000m\u0000 \u0000C\u0000a\u0000r\u0000b\u0000i\u0000d\u0000e\u0000 \u0000i\u0000s\u0000 \u0000a\u0000 \u0000D\u0000u\u0000r\u0000a\u0000b\u0000l\u0000e\u0000 \u0000a\u0000n\u0000d\u0000 \u0000I\u0000n\u0000e\u0000x\u0000p\u0000e\u0000n\u0000s\u0000i\u0000v\u0000e\u0000 \u0000O\u0000x\u0000y\u0000g\u0000e\u0000n\u0000 \u0000R\u0000e\u0000d\u0000u\u0000c\u0000t\u0000i\u0000o\u0000n\u0000 \u0000R\u0000e\u0000a\u0000c\u0000t\u0000i\u0000o\u0000n\u0000 \u0000E\u0000l\u0000e\u0000c\u0000t\u0000r\u0000o\u0000c\u0000a\u0000t\u0000a\u0000l\u0000y\u0000s\u0000t",
+                        "renamed":  "Metal Nitrogen Carbon Cluster Decorated Titanium Carbide is a Durable and Inexpensive Oxygen Reduction Reaction Electroc.pdf"
+                    },
+                    {
+                        "file":  "Cho_2013_Jpn._J._Appl._Phys._52_06GD09.pdf",
+                        "title":  "Water Trapping at the Graphene/Al_{2}O_{3} Interface",
+                        "renamed":  "Water Trapping at the GrapheneAl_{2}O_{3} Interface.pdf"
+                    },
+                    {
+                        "file":  "Chun_2020_Nanotechnology_31_085303.pdf",
+                        "title":  "Serpentine-pattern effects on the biaxial stretching of percolative graphene nanoflake films",
+                        "renamed":  "Serpentine-pattern effects on the biaxial stretching of percolative graphene nanoflake films.pdf"
+                    },
+                    {
+                        "file":  "conformably-skin-adherent-piezoelectric-patch-with-bioinspired-hierarchically-arrayed-microsuckers-enables-physical.pdf",
+                        "title":  "Conformably Skin-Adherent Piezoelectric Patch with Bioinspired Hierarchically Arrayed Microsuckers Enables Physical Energy Amplification",
+                        "renamed":  "Conformably Skin-Adherent Piezoelectric Patch with Bioinspired Hierarchically Arrayed Microsuckers Enables Physical Ener.pdf"
+                    },
+                    {
+                        "file":  "d2ce00222a.pdf",
+                        "title":  "orcid_logo_new.eps",
+                        "renamed":  "orcid_logo_new.eps.pdf"
+                    },
+                    {
+                        "file":  "d2ta05281d.pdf",
+                        "title":  "Why does water in porous carbon generate electricity? Electrokinetic role of protons in a water droplet-induced hydrovoltaic system of hydrophilic porous carbon",
+                        "renamed":  "Why does water in porous carbon generate electricity Electrokinetic role of protons in a water droplet-induced hydrovolt.pdf"
+                    },
+                    {
+                        "file":  "d4ta03595j.pdf",
+                        "title":  "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface treatment",
+                        "renamed":  "Overcoming the limitations of atomic-scale simulations on semiconductor catalysis with changing Fermi level and surface.pdf"
+                    },
+                    {
+                        "file":  "d4tc05455e.pdf",
+                        "title":  "Enhanced electrical properties and stability of solution processed IYZO thin film transistors by controlling deep level oxygen vacancies",
+                        "renamed":  "Enhanced electrical properties and stability of solution processed IYZO thin film transistors by controlling deep level.pdf"
+                    },
+                    {
+                        "file":  "dominant-effects-of-epitaxial-strain-on-the-phase-control-of-heterostructural-(inxga1-x)2o3-alloys.pdf",
+                        "title":  "Dominant Effects of Epitaxial Strain on the Phase Control of Heterostructural (InxGa1?x\\",
+                        "renamed":  "Dominant Effects of Epitaxial Strain on the Phase Control of Heterostructural (InxGa1x.pdf"
+                    },
+                    {
+                        "file":  "enhanced-hydro-actuation-and-capacitance-of-electrochemically-inner-bundle-activated-carbon-nanotube-yarns.pdf",
+                        "title":  "Enhanced Hydro-Actuation and Capacitance of Electrochemically Inner-Bundle-Activated Carbon Nanotube Yarns",
+                        "renamed":  "Enhanced Hydro-Actuation and Capacitance of Electrochemically Inner-Bundle-Activated Carbon Nanotube Yarns.pdf"
+                    },
+                    {
+                        "file":  "First-principles study of point defects in _-Ga2O3.pdf",
+                        "title":  "??\u0000F\u0000i\u0000r\u0000s\u0000t\u0000-\u0000p\u0000r\u0000i\u0000n\u0000c\u0000i\u0000p\u0000l\u0000e\u0000s\u0000 \u0000s\u0000t\u0000u\u0000d\u0000y\u0000 \u0000o\u0000f\u0000 \u0000p\u0000o\u0000i\u0000n\u0000t\u0000 \u0000d\u0000e\u0000f\u0000e\u0000c\u0000t\u0000s\u0000 \u0000i\u0000n\u0000 \u0003?\u0000-\u0000G\u0000a\u00002\u0000O\u00003",
+                        "renamed":  "First-principles study of point defects in -Ga2O3.pdf"
+                    },
+                    {
+                        "file":  "high-power-hydro-actuators-fabricated-from-biomimetic-carbon-nanotube-coiled-yarns-with-fast-electrothermal-recovery.pdf",
+                        "title":  "High-Power Hydro-Actuators Fabricated from Biomimetic Carbon Nanotube Coiled Yarns with Fast Electrothermal Recovery",
+                        "renamed":  "High-Power Hydro-Actuators Fabricated from Biomimetic Carbon Nanotube Coiled Yarns with Fast Electrothermal Recovery.pdf"
+                    },
+                    {
+                        "file":  "high-throughput-screening-on-halide-perovskite-derivatives-and-rational-design-of-cs3lucl6.pdf",
+                        "title":  "High-Throughput Screening on Halide Perovskite Derivatives and Rational Design of Cs3LuCl6",
+                        "renamed":  "High-Throughput Screening on Halide Perovskite Derivatives and Rational Design of Cs3LuCl6.pdf"
+                    },
+                    {
+                        "file":  "highly-stable-zero-dimensional-lead-free-metal-halides-for-x-ray-imaging.pdf",
+                        "title":  "Highly Stable Zero-Dimensional Lead-Free Metal Halides for X-ray Imaging",
+                        "renamed":  "Highly Stable Zero-Dimensional Lead-Free Metal Halides for X-ray Imaging.pdf"
+                    },
+                    {
+                        "file":  "identification-of-impurity-minimizing-synthesis-pathways-for-lagp-via-thermodynamic-and-chemical-reaction-network-based.pdf",
+                        "title":  "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based Analysis",
+                        "renamed":  "Identification of Impurity-Minimizing Synthesis Pathways for LAGP via Thermodynamic and Chemical Reaction Network-Based.pdf"
+                    },
+                    {
+                        "file":  "Interface-Dependent_Spin-Reorientation_Energy_Barrier_in_Fe_MgO001_Thin_Film.pdf",
+                        "title":  "Interface-Dependent Spin-Reorientation Energy Barrier in Fe/MgO(001\\",
+                        "renamed":  "Interface-Dependent Spin-Reorientation Energy Barrier in FeMgO(001.pdf"
+                    },
+                    {
+                        "file":  "International Journal of Energy Research - 2024 - Kim - High Li  Conductivity of Li1 3 xAl0 3 xMgxTi1 7 PO4 3 with Hybrid.pdf",
+                        "title":  "??\u0000H\u0000i\u0000g\u0000h\u0000 \u0000L\u0000i\u0000+\u0000 \u0000C\u0000o\u0000n\u0000d\u0000u\u0000c\u0000t\u0000i\u0000v\u0000i\u0000t\u0000y\u0000 \u0000o\u0000f\u0000 \u0000L\u0000i\u00001\u0000.\u00003\u0000+\u0000x\u0000A\u0000l\u00000\u0000.\u00003\"\u0012\u0000x\u0000M\u0000g\u0000x\u0000T\u0000i\u00001\u0000.\u00007\u0000(\u0000P\u0000O\u00004\u0000\\",
+                        "renamed":  "High Li+ Conductivity of Li1.3+xAl0.3xMgxTi1.7(PO4.pdf"
+                    },
+                    {
+                        "file":  "Investigation of the effects of heteroatom doping on von-Alpen-type NASICON electrolytes and its applications to solid-state sodium batteries.pdf",
+                        "title":  "?????? 1",
+                        "renamed":  "1.pdf"
+                    },
+                    {
+                        "file":  "kbatebio6-a-lead-free-inorganic-double-perovskite-semiconductor-for-photovoltaic-applications.pdf",
+                        "title":  "KBaTeBiO6: A Lead-Free, Inorganic Double-Perovskite Semiconductor for Photovoltaic Applications",
+                        "renamed":  "KBaTeBiO6 A Lead-Free, Inorganic Double-Perovskite Semiconductor for Photovoltaic Applications.pdf"
+                    },
+                    {
+                        "file":  "large-scale-mechanochemical-synthesis-of-cesium-lanthanide-chloride-for-radioluminescence.pdf",
+                        "title":  "Large-Scale Mechanochemical Synthesis of Cesium Lanthanide Chloride for Radioluminescence",
+                        "renamed":  "Large-Scale Mechanochemical Synthesis of Cesium Lanthanide Chloride for Radioluminescence.pdf"
+                    },
+                    {
+                        "file":  "multiferroism-in-iron-based-oxyfluoride-perovskites.pdf",
+                        "title":  "Multiferroism in Iron-Based Oxyfluoride Perovskites",
+                        "renamed":  "Multiferroism in Iron-Based Oxyfluoride Perovskites.pdf"
+                    },
+                    {
+                        "file":  "nanoenergyadv-05-00001.pdf",
+                        "title":  "First-Principle Insights into Positive Triboelectrification of Polyoxymethylene Through Homolytic Bond Rupture",
+                        "renamed":  "First-Principle Insights into Positive Triboelectrification of Polyoxymethylene Through Homolytic Bond Rupture.pdf"
+                    },
+                    {
+                        "file":  "phase-evolution-in-la-alloyed-β-ga2o3-nanofibers-experimental-and-dft-simulation-insights.pdf",
+                        "title":  "??\u0000P\u0000h\u0000a\u0000s\u0000e\u0000 \u0000E\u0000v\u0000o\u0000l\u0000u\u0000t\u0000i\u0000o\u0000n\u0000 \u0000i\u0000n\u0000 \u0000L\u0000a\u0000-\u0000A\u0000l\u0000l\u0000o\u0000y\u0000e\u0000d\u0000 \u0003?\u0000-\u0000G\u0000a\u00002\u0000O\u00003\u0000 \u0000N\u0000a\u0000n\u0000o\u0000f\u0000i\u0000b\u0000e\u0000r\u0000s\u0000:\u0000 \u0000E\u0000x\u0000p\u0000e\u0000r\u0000i\u0000m\u0000e\u0000n\u0000t\u0000a\u0000l\u0000 \u0000a\u0000n\u0000d\u0000 \u0000D\u0000F\u0000T\u0000 \u0000S\u0000i\u0000m\u0000u\u0000l\u0000a\u0000t\u0000i\u0000o\u0000n\u0000 \u0000I\u0000n\u0000s\u0000i\u0000g\u0000h\u0000t\u0000s",
+                        "renamed":  "Phase Evolution in La-Alloyed -Ga2O3 Nanofibers Experimental and DFT Simulation Insights.pdf"
+                    },
+                    {
+                        "file":  "PhysRevLett.131.166201.pdf",
+                        "title":  "Uncertainty and Irreproducibility of Triboelectricity Based on Interface Mechanochemistry",
+                        "renamed":  "Uncertainty and Irreproducibility of Triboelectricity Based on Interface Mechanochemistry.pdf"
+                    },
+                    {
+                        "file":  "PhysRevMaterials.2.064602.pdf",
+                        "title":  "Print",
+                        "renamed":  "Print.pdf"
+                    },
+                    {
+                        "file":  "plasma-enhanced-atomic-layer-deposition-assisted-low-temperature-synthetic-routes-to-rationally-designed-metastable-c.pdf",
+                        "title":  "Plasma-Enhanced Atomic Layer Deposition Assisted Low-Temperature Synthetic Routes to Rationally Designed Metastable c-Axis Aligned Hexagonal In-Zn-O",
+                        "renamed":  "Plasma-Enhanced Atomic Layer Deposition Assisted Low-Temperature Synthetic Routes to Rationally Designed Metastable c-Ax.pdf"
+                    },
+                    {
+                        "file":  "predicting-the-synthesizability-of-double-perovskite-halides-via-interface-reaction-pathfinding.pdf",
+                        "title":  "Predicting the Synthesizability of Double Perovskite Halides via Interface Reaction Pathfinding",
+                        "renamed":  "Predicting the Synthesizability of Double Perovskite Halides via Interface Reaction Pathfinding.pdf"
+                    },
+                    {
+                        "file":  "Ranga_2020_Appl._Phys._Express_13_061009.pdf",
+                        "title":  "??\u0000H\u0000i\u0000g\u0000h\u0000l\u0000y\u0000 \u0000t\u0000u\u0000n\u0000a\u0000b\u0000l\u0000e\u0000,\u0000 \u0000p\u0000o\u0000l\u0000a\u0000r\u0000i\u0000z\u0000a\u0000t\u0000i\u0000o\u0000n\u0000-\u0000e\u0000n\u0000g\u0000i\u0000n\u0000e\u0000e\u0000r\u0000e\u0000d\u0000 \u0000t\u0000w\u0000o\u0000-\u0000d\u0000i\u0000m\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000a\u0000l\u0000 \u0000e\u0000l\u0000e\u0000c\u0000t\u0000r\u0000o\u0000n\u0000 \u0000g\u0000a\u0000s\u0000 \u0000i\u0000n\u0000 \u0003?\u0000-\u0000A\u0000l\u0000G\u0000a\u0000O\u00003\u0000/\u0003?\u0000-\u0000G\u0000a\u00002\u0000O\u00003\u0000 \u0000h\u0000e\u0000t\u0000e\u0000r\u0000o\u0000s\u0000t\u0000r\u0000u\u0000c\u0000t\u0000u\u0000r\u0000e\u0000s",
+                        "renamed":  "Highly tunable, polarization-engineered two-dimensional electron gas in -AlGaO3-Ga2O3 heterostructures.pdf"
+                    },
+                    {
+                        "file":  "s10853-023-09232-6.pdf",
+                        "title":  "??\u0000D\u0000e\u0000s\u0000i\u0000g\u0000n\u0000i\u0000n\u0000g\u0000 \u0000P\u0000r\u0000-\u0000b\u0000a\u0000s\u0000e\u0000d\u0000 \u0000a\u0000d\u0000v\u0000a\u0000n\u0000c\u0000e\u0000d\u0000 \u0000p\u0000h\u0000o\u0000t\u0000o\u0000l\u0000u\u0000m\u0000i\u0000n\u0000e\u0000s\u0000c\u0000e\u0000n\u0000t\u0000 \u0000m\u0000a\u0000t\u0000e\u0000r\u0000i\u0000a\u0000l\u0000s\u0000 \u0000u\u0000s\u0000i\u0000n\u0000g\u0000 \u0000m\u0000a\u0000c\u0000h\u0000i\u0000n\u0000e\u0000 \u0000l\u0000e\u0000a\u0000r\u0000n\u0000i\u0000n\u0000g\u0000 \u0000a\u0000n\u0000d\u0000?\u0000d\u0000e\u0000n\u0000s\u0000i\u0000t\u0000y\u0000 \u0000f\u0000u\u0000n\u0000c\u0000t\u0000i\u0000o\u0000n\u0000a\u0000l\u0000 \u0000t\u0000h\u0000e\u0000o\u0000r\u0000y",
+                        "renamed":  "Designing Pr-based advanced photoluminescent materials using machine learning anddensity functional theory.pdf"
+                    },
+                    {
+                        "file":  "s40820-022-00946-x.pdf",
+                        "title":  "??\u0000H\u0000i\u0000g\u0000h\u0000-\u0000P\u0000e\u0000r\u0000f\u0000o\u0000r\u0000m\u0000a\u0000n\u0000c\u0000e\u0000 \u0000P\u0000e\u0000r\u0000o\u0000v\u0000s\u0000k\u0000i\u0000t\u0000e\u0000 \u0000Q\u0000u\u0000a\u0000n\u0000t\u0000u\u0000m\u0000 \u0000D\u0000o\u0000t\u0000 \u0000S\u0000o\u0000l\u0000a\u0000r\u0000 \u0000C\u0000e\u0000l\u0000l\u0000s\u0000 \u0000E\u0000n\u0000a\u0000b\u0000l\u0000e\u0000d\u0000 \u0000b\u0000y\u0000?\u0000I\u0000n\u0000c\u0000o\u0000r\u0000p\u0000o\u0000r\u0000a\u0000t\u0000i\u0000o\u0000n\u0000 \u0000w\u0000i\u0000t\u0000h\u0000?\u0000D\u0000i\u0000m\u0000e\u0000n\u0000s\u0000i\u0000o\u0000n\u0000a\u0000l\u0000l\u0000y\u0000 \u0000E\u0000n\u0000g\u0000i\u0000n\u0000e\u0000e\u0000r\u0000e\u0000d\u0000 \u0000O\u0000r\u0000g\u0000a\u0000n\u0000i\u0000c\u0000 \u0000S\u0000e\u0000m\u0000i\u0000c\u0000o\u0000n\u0000d\u0000u\u0000c\u0000t\u0000\\\ro\u0000r",
+                        "renamed":  "High-Performance Perovskite Quantum Dot Solar Cells Enabled byIncorporation withDimensionally Engineered Organic Semicon.pdf"
+                    },
+                    {
+                        "file":  "s41528-025-00474-9.pdf",
+                        "title":  "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite current collectors",
+                        "renamed":  "Enhancing electrochemical reversibility in lithium metal batteries through structural engineering of flexible composite.pdf"
+                    },
+                    {
+                        "file":  "s41528-025-00493-6.pdf",
+                        "title":  "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers",
+                        "renamed":  "Fully stretchable hydrovoltaic cells based on winding-locked double-helical carbon nanotube fibers.pdf"
+                    },
+                    {
+                        "file":  "s43207-023-00353-x.pdf",
+                        "title":  "??\u0000S\u0000y\u0000s\u0000t\u0000e\u0000m\u0000a\u0000t\u0000i\u0000c\u0000 \u0000d\u0000e\u0000t\u0000e\u0000r\u0000m\u0000i\u0000n\u0000a\u0000t\u0000i\u0000o\u0000n\u0000 \u0000o\u0000f\u0000?\u0000t\u0000h\u0000e\u0000?\u0000o\u0000p\u0000t\u0000i\u0000m\u0000i\u0000z\u0000e\u0000d\u0000 \u0000Z\u0000r\u0000 \u0000c\u0000o\u0000n\u0000t\u0000e\u0000n\u0000t\u0000 \u0000o\u0000f\u0000?\u0000B\u0000a\u0000(\u0000Z\u0000r\u0000x\u0000T\u0000i\u00001\u0000-\u0000x\u0000\\",
+                        "renamed":  "Systematic determination oftheoptimized Zr content ofBa(ZrxTi1-x.pdf"
+                    },
+                    {
+                        "file":  "s43207-025-00523-z.pdf",
+                        "title":  "??\u0000D\u0000e\u0000s\u0000i\u0000g\u0000n\u0000 \u0000o\u0000f\u0000?\u0000o\u0000p\u0000t\u0000i\u0000m\u0000i\u0000z\u0000e\u0000d\u0000 \u0000h\u0000a\u0000l\u0000i\u0000d\u0000e\u0000 \u0000v\u0000a\u0000p\u0000o\u0000r\u0000 \u0000p\u0000h\u0000a\u0000s\u0000e\u0000 \u0000e\u0000p\u0000i\u0000t\u0000a\u0000x\u0000y\u0000 \u0000(\u0000H\u0000V\u0000P\u0000E\u0000\\",
+                        "renamed":  "Design ofoptimized halide vapor phase epitaxy (HVPE.pdf"
+                    },
+                    {
+                        "file":  "s43246-025-01046-0.pdf",
+                        "title":  "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabrication",
+                        "renamed":  "Multiscale insights enable rational design of solvent-free dry electrode processing for advanced battery electrode fabri.pdf"
+                    },
+                    {
+                        "file":  "Small - 2024 - Josline - Uniform Synthesis of Bilayer Hydrogen Substituted Graphdiyne for Flexible Piezoresistive.pdf",
+                        "title":  "Uniform Synthesis of Bilayer Hydrogen Substituted Graphdiyne for Flexible Piezoresistive Applications",
+                        "renamed":  "Uniform Synthesis of Bilayer Hydrogen Substituted Graphdiyne for Flexible Piezoresistive Applications.pdf"
+                    },
+                    {
+                        "file":  "Small - 2025 - Kim - Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN.pdf",
+                        "title":  "Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN",
+                        "renamed":  "Roles of Nanoscale Defects of Graphene in Remote Epitaxy of GaN.pdf"
+                    },
+                    {
+                        "file":  "srep27986.pdf",
+                        "title":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer",
+                        "renamed":  "Band engineering in a van der Waals heterostructure using a 2D polar material and a capping layer.pdf"
+                    },
+                    {
+                        "file":  "tailoring-rigid-segments-in-dopant-free-polymeric-hole-transport-materials-for-perovskite-quantum-dot-solar-cells.pdf",
+                        "title":  "Tailoring Rigid Segments in Dopant-Free Polymeric Hole Transport Materials for Perovskite Quantum Dot Solar Cells",
+                        "renamed":  "Tailoring Rigid Segments in Dopant-Free Polymeric Hole Transport Materials for Perovskite Quantum Dot Solar Cells.pdf"
+                    },
+                    {
+                        "file":  "thind2018.pdf",
+                        "title":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals",
+                        "renamed":  "Atomic-Scale Identification of Planar Defects in Cesium Lead Bromide Perovskite Nanocrystals.pdf"
+                    },
+                    {
+                        "file":  "triboelectrification-backflow-and-stuck-charges-are-key.pdf",
+                        "title":  "Triboelectrification: Backflow and Stuck Charges Are Key",
+                        "renamed":  "Triboelectrification Backflow and Stuck Charges Are Key.pdf"
+                    },
+                    {
+                        "file":  "tunable-indirect-to-direct-band-gap-transition-of-monolayer-sc2co2-by-the-strain-effect.pdf",
+                        "title":  "am504233d 1..5",
+                        "renamed":  "am504233d 1..5.pdf"
+                    },
+                    {
+                        "file":  "twist-stabilized-coiled-carbon-nanotube-yarns-with-enhanced-capacitance.pdf",
+                        "title":  "Twist-Stabilized, Coiled Carbon Nanotube Yarns with Enhanced Capacitance",
+                        "renamed":  "Twist-Stabilized, Coiled Carbon Nanotube Yarns with Enhanced Capacitance.pdf"
+                    },
+                    {
+                        "file":  "understanding-the-electrokinetic-role-of-ions-on-electricity-generation-in-droplet-based-hydrovoltaic-systems.pdf",
+                        "title":  "Understanding the Electrokinetic Role of Ions on Electricity Generation in Droplet-Based Hydrovoltaic Systems",
+                        "renamed":  "Understanding the Electrokinetic Role of Ions on Electricity Generation in Droplet-Based Hydrovoltaic Systems.pdf"
+                    },
+                    {
+                        "file":  "Yoo_2012_Jpn._J._Appl._Phys._51_06FG14.pdf",
+                        "title":  "Oxygen Vacancy Chain Formation in TiO_{2} under External Strain for Resistive Switching Memory",
+                        "renamed":  "Oxygen Vacancy Chain Formation in TiO_{2} under External Strain for Resistive Switching Memory.pdf"
+                    },
+                    {
+                        "file":  "Yun_2012_Jpn._J._Appl._Phys._51_06FD14.pdf",
+                        "title":  "Configuration Dependency of Attached Epoxy Groups on Graphene Oxide Reduction: A Molecular Dynamics Simulation",
+                        "renamed":  "Configuration Dependency of Attached Epoxy Groups on Graphene Oxide Reduction A Molecular Dynamics Simulation.pdf"
+                    }
+                ]
+}
