@@ -830,6 +830,25 @@ h2{font-size:28px;margin:10px 0 12px;}
   cursor:not-allowed;
   opacity:1;
 }
+.adminUploadField input[type="file"]{
+  padding:8px;
+  background:#fff;
+}
+.adminUploadList{
+  display:grid;
+  gap:6px;
+  margin-top:-4px;
+  padding:10px 12px;
+  border:1px solid rgba(15,23,42,0.1);
+  border-radius:8px;
+  background:#f8fafc;
+}
+.adminUploadList span{
+  overflow-wrap:anywhere;
+  color:#0369a1;
+  font-size:0.82rem;
+  font-weight:700;
+}
 .adminExportActions{
   display:grid;
   grid-template-columns:1fr 1fr;

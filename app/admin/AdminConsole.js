@@ -14,6 +14,8 @@ const MSQ_ADMIN_APPLY_ENDPOINT =
 const DEFAULT_GITHUB_OWNER = process.env.NEXT_PUBLIC_MSQ_GITHUB_OWNER || "qwerqwer33-3";
 const DEFAULT_GITHUB_REPO = process.env.NEXT_PUBLIC_MSQ_GITHUB_REPO || "msalab";
 const DEFAULT_GITHUB_BRANCH = process.env.NEXT_PUBLIC_MSQ_GITHUB_BRANCH || "main";
+const activityUploadBasePath = "/images/Activities";
+const activityUploadRepoBasePath = "public/images/Activities";
 
 const githubTargetPaths = {
   "data/news.json": ["data/news.json", "public/cms/news.json"],
@@ -32,6 +34,17 @@ const toBase64 = (value) => {
   });
   return window.btoa(binary);
 };
+
+const arrayBufferToBase64 = (buffer) => {
+  const bytes = new Uint8Array(buffer);
+  let binary = "";
+  bytes.forEach((byte) => {
+    binary += String.fromCharCode(byte);
+  });
+  return window.btoa(binary);
+};
+
+const readFileAsBase64 = async (file) => arrayBufferToBase64(await file.arrayBuffer());
 
 const encodeGithubPath = (filePath) => filePath.split("/").map(encodeURIComponent).join("/");
 
@@ -59,6 +72,35 @@ const slugify = (value) =>
     .slice(0, 48);
 
 const today = () => new Date().toISOString().slice(0, 10);
+
+const imageExtension = (file) => {
+  const extension = file.name.split(".").pop()?.toLowerCase() || "";
+  if (["jpg", "jpeg", "png", "webp", "gif"].includes(extension)) return extension;
+  if (file.type === "image/png") return "png";
+  if (file.type === "image/webp") return "webp";
+  if (file.type === "image/gif") return "gif";
+  return "jpg";
+};
+
+const imageStem = (file) => {
+  const nameWithoutExtension = file.name.replace(/\.[^.]+$/, "");
+  return slugify(nameWithoutExtension) || "image";
+};
+
+const createActivityImagePath = (activity, file, fileIndex) => {
+  const datePart = (activity.date || today()).replaceAll("-", ".");
+  const titlePart = slugify(activity.title || "activity") || "activity";
+  const suffix = `${Date.now()}-${fileIndex + 1}`;
+  return `${activityUploadBasePath}/${datePart}-${titlePart}-${imageStem(file)}-${suffix}.${imageExtension(file)}`;
+};
+
+const toUploadRepoPath = (publicPath) => publicPath.replace(activityUploadBasePath, activityUploadRepoBasePath);
+
+const imageLines = (value) =>
+  value
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter(Boolean);
 
 const normalizeNews = (items) =>
   clone(items).map((item, index) => ({
@@ -102,10 +144,7 @@ const serializeNews = (items) =>
 const serializeActivities = (items) =>
   items
     .map((item) => {
-      const images = item.imagesText
-        .split(/\r?\n/)
-        .map((line) => line.trim())
-        .filter(Boolean);
+      const images = imageLines(item.imagesText);
       const output = {
         date: item.date,
         title: item.title.trim(),
@@ -139,6 +178,7 @@ export default function AdminConsole() {
   const [editingKey, setEditingKey] = useState(null);
   const [isReady, setIsReady] = useState(false);
   const [applyMode, setApplyMode] = useState("github");
+  const [pendingUploads, setPendingUploads] = useState([]);
   const [githubSettings, setGithubSettings] = useState({
     githubOwner: DEFAULT_GITHUB_OWNER,
     githubRepo: DEFAULT_GITHUB_REPO,
@@ -219,8 +259,26 @@ export default function AdminConsole() {
   const activeItems = activeCollection === "news" ? serialized.news : serialized.activities;
   const exportFileName = activeCollection === "news" ? "data/news.json" : "data/activities.json";
   const exportJson = formatJson(activeItems);
+  const referencedActivityImagePaths = useMemo(() => {
+    const paths = new Set();
+    serialized.activities.forEach((item) => {
+      if (item.image) paths.add(item.image);
+      if (Array.isArray(item.images)) {
+        item.images.forEach((image) => paths.add(image));
+      }
+    });
+    return paths;
+  }, [serialized.activities]);
+  const pendingUploadsForApply =
+    activeCollection === "activities"
+      ? pendingUploads.filter((upload) => referencedActivityImagePaths.has(upload.publicPath))
+      : [];
   const makeEditingKey = (collection, index) => `${collection}:${index}`;
   const isEditing = (collection, index) => editingKey === makeEditingKey(collection, index);
+  const pendingUploadsForActivity = (item) => {
+    const paths = new Set(imageLines(item.imagesText));
+    return pendingUploads.filter((upload) => paths.has(upload.publicPath));
+  };
 
   const openEditor = (collection, index) => {
     setEditingKey(makeEditingKey(collection, index));
@@ -265,6 +323,44 @@ export default function AdminConsole() {
         itemIndex === index ? { ...item, [field]: value } : item
       )
     }));
+  };
+
+  const handleActivityImageUpload = async (index, fileList) => {
+    const files = Array.from(fileList || []).filter((file) => file.type.startsWith("image/"));
+    if (!files.length) {
+      setStatus("Choose image files to attach to this activity.");
+      return;
+    }
+
+    const activity = draft.activities[index];
+    const uploads = await Promise.all(
+      files.map(async (file, fileIndex) => {
+        const publicPath = createActivityImagePath(activity, file, fileIndex);
+        return {
+          publicPath,
+          repoPath: toUploadRepoPath(publicPath),
+          fileName: file.name,
+          contentType: file.type || "application/octet-stream",
+          contentBase64: await readFileAsBase64(file)
+        };
+      })
+    );
+
+    setPendingUploads((prev) => {
+      const nextPaths = new Set(uploads.map((upload) => upload.publicPath));
+      return [...prev.filter((upload) => !nextPaths.has(upload.publicPath)), ...uploads];
+    });
+
+    setDraft((prev) => ({
+      ...prev,
+      activities: prev.activities.map((item, itemIndex) => {
+        if (itemIndex !== index) return item;
+        const currentImages = imageLines(item.imagesText);
+        const nextImages = [...currentImages, ...uploads.map((upload) => upload.publicPath)];
+        return { ...item, imagesText: nextImages.join("\n") };
+      })
+    }));
+    setStatus(`${uploads.length} image${uploads.length > 1 ? "s" : ""} attached to Activity ${index + 1}.`);
   };
 
   const addNews = () => {
@@ -316,6 +412,7 @@ export default function AdminConsole() {
 
   const resetDraft = () => {
     setDraft(createInitialDraft());
+    setPendingUploads([]);
     setEditingKey(null);
     setStatus("Draft reset to published data.");
   };
@@ -377,10 +474,10 @@ export default function AdminConsole() {
     return { sha: result.sha };
   };
 
-  const writeGithubFile = async (settings, filePath, content, sha) => {
+  const writeGithubFile = async (settings, filePath, content, sha, options = {}) => {
     const body = {
-      message: `Update ${activeCollection} CMS data`,
-      content: toBase64(content),
+      message: options.message || `Update ${activeCollection} CMS data`,
+      content: options.contentIsBase64 ? content : toBase64(content),
       branch: settings.githubBranch
     };
     if (sha) {
@@ -402,6 +499,19 @@ export default function AdminConsole() {
     return result;
   };
 
+  const writePendingGithubUploads = async (settings) => {
+    const uploaded = [];
+    for (const upload of pendingUploadsForApply) {
+      const currentFile = await readGithubFile(settings, upload.repoPath);
+      await writeGithubFile(settings, upload.repoPath, upload.contentBase64, currentFile.sha, {
+        contentIsBase64: true,
+        message: `Upload activity image ${upload.fileName}`
+      });
+      uploaded.push(upload);
+    }
+    return uploaded;
+  };
+
   const applyViaGitHub = async () => {
     const settings = normalizedGithubSettings();
     if (!settings.githubOwner || !settings.githubRepo || !settings.githubBranch) {
@@ -411,6 +521,7 @@ export default function AdminConsole() {
       throw new Error("GitHub token is required for deployed publishing.");
     }
 
+    const uploaded = await writePendingGithubUploads(settings);
     const paths = githubTargetPaths[exportFileName] || [exportFileName];
     const applied = [];
     for (const filePath of paths) {
@@ -418,8 +529,12 @@ export default function AdminConsole() {
       await writeGithubFile(settings, filePath, exportJson, currentFile.sha);
       applied.push(filePath);
     }
+    if (uploaded.length) {
+      const uploadedPaths = new Set(uploaded.map((upload) => upload.publicPath));
+      setPendingUploads((prev) => prev.filter((upload) => !uploadedPaths.has(upload.publicPath)));
+    }
     setStatus(
-      `Applied ${applied.join(", ")} to ${settings.githubOwner}/${settings.githubRepo}@${settings.githubBranch}. GitHub Pages will redeploy shortly.`
+      `Applied ${applied.join(", ")}${uploaded.length ? ` and ${uploaded.length} activity image${uploaded.length > 1 ? "s" : ""}` : ""} to ${settings.githubOwner}/${settings.githubRepo}@${settings.githubBranch}. GitHub Pages will redeploy shortly.`
     );
   };
 
@@ -430,14 +545,21 @@ export default function AdminConsole() {
         headers: { "content-type": "application/json" },
         body: JSON.stringify({
           fileName: exportFileName,
-          content: exportJson
+          content: exportJson,
+          uploads: pendingUploadsForApply
         })
       });
       const result = await response.json();
       if (!response.ok || !result.ok) {
         throw new Error(result.error || "Apply request failed.");
       }
-      setStatus(`Applied ${exportFileName}. Reload Home, News, or Activities to see the update.`);
+      if (pendingUploadsForApply.length) {
+        const uploadedPaths = new Set(pendingUploadsForApply.map((upload) => upload.publicPath));
+        setPendingUploads((prev) => prev.filter((upload) => !uploadedPaths.has(upload.publicPath)));
+      }
+      setStatus(
+        `Applied ${exportFileName}${pendingUploadsForApply.length ? ` with ${pendingUploadsForApply.length} activity image${pendingUploadsForApply.length > 1 ? "s" : ""}` : ""}. Reload Home, News, or Activities to see the update.`
+      );
     } catch (error) {
       setStatus(`Apply failed: ${error.message}. Run npm run admin-server and try again.`);
     }
@@ -655,6 +777,26 @@ export default function AdminConsole() {
                       onChange={(event) => updateActivity(index, "imagesText", event.target.value)}
                     />
                   </label>
+                  <label className="adminField adminUploadField">
+                    <span>Add images</span>
+                    <input
+                      accept="image/*"
+                      disabled={!editing}
+                      multiple
+                      type="file"
+                      onChange={(event) => {
+                        void handleActivityImageUpload(index, event.target.files);
+                        event.target.value = "";
+                      }}
+                    />
+                  </label>
+                  {pendingUploadsForActivity(item).length ? (
+                    <div className="adminUploadList">
+                      {pendingUploadsForActivity(item).map((upload) => (
+                        <span key={upload.publicPath}>{upload.publicPath}</span>
+                      ))}
+                    </div>
+                  ) : null}
                 </article>
                 );
               })}

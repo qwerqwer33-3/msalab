@@ -76,11 +76,26 @@ if (exists("app/admin/AdminConsole.js")) {
   assert(admin.includes("msalab"), "Admin console should default to the test GitHub repository.");
   assert(admin.includes("public/cms/news.json"), "Admin console should publish news runtime CMS data to GitHub.");
   assert(admin.includes("public/cms/activities.json"), "Admin console should publish activity runtime CMS data to GitHub.");
+  assert(admin.includes("pendingUploads"), "Admin console should track pending image uploads for activities.");
+  assert(admin.includes("handleActivityImageUpload"), "Admin console should let users attach image files to activities.");
+  assert(admin.includes('type="file"'), "Activity editor should expose a file picker for images.");
+  assert(admin.includes('accept="image/*"'), "Activity image picker should accept image files.");
+  assert(admin.includes("readFileAsBase64"), "Admin console should convert selected images for GitHub/local apply.");
+  assert(admin.includes("activityUploadBasePath"), "Admin console should generate activity image paths.");
+  assert(admin.includes("writePendingGithubUploads"), "GitHub apply should upload pending activity images.");
+  assert(admin.includes("uploads:"), "Local apply payload should include pending activity image uploads.");
   assert(
     !admin.includes("localStorage.setItem(\"msq-admin-github-token\""),
     "Admin console should not persist GitHub tokens in localStorage."
   );
   assert(exists("scripts/admin-apply-server.mjs"), "A local apply server should exist for writing CMS JSON files.");
+  if (exists("scripts/admin-apply-server.mjs")) {
+    const applyServer = read("scripts/admin-apply-server.mjs");
+    assert(applyServer.includes("public/images/Activities"), "Local apply server should write activity image uploads.");
+    assert(applyServer.includes("out/images/Activities"), "Local apply server should refresh static activity images.");
+    assert(applyServer.includes("contentBase64"), "Local apply server should accept base64 image uploads.");
+    assert(applyServer.includes("writeUpload"), "Local apply server should validate and write uploaded images.");
+  }
   assert(exists("public/cms/news.json"), "public/cms/news.json should exist for runtime news updates.");
   assert(exists("public/cms/activities.json"), "public/cms/activities.json should exist for runtime activity updates.");
 }
